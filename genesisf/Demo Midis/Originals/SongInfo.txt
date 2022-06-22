@@ -1,0 +1,61 @@
+--Song Information--
+
+All songs were written by me (The Eighth bit).
+
+<===---DankDungeonPATNA.mid---===>
+Name: Dank Dungeon
+Origin: Pam's Adventure: The New Adventure
+Artist: The Eighth Bit
+
+<===---Flute.mid---===>
+Name: Flute
+Origin: (UNUSED, formerly Spacious Spaceship from PATNA)
+Artist: The Eighth Bit
+
+<===---GenesisRock.mid---===>
+Name: Genesis Rock
+Origin: (NONE)
+Artist: The Eighth Bit
+
+<===---Lost.mid---===>
+Name: Song 2
+Origin: (NONE)
+Artist: The Eighth Bit
+
+<===---MechaDoomsday.mid---===>
+Name: Main Theme
+Origin: Mecha Doomsday
+Artist: The Eighth Bit
+
+<===---PerilousParadisePA2.mid---===>
+Name: Perilous Paradise
+Origin: Popeye's Adventure 2
+Artist: The Eighth Bit
+
+<===---Rock.mid---===>
+Name: Rock
+Origin: Balloon Rescue VGA
+Artist: The Eighth Bit
+
+<===---Song7.mid---===>
+Name: Song 7/Peaceful Palace
+Origin: Pam's Adventure: The New Adventure
+Artist: The Eighth Bit
+
+<===---Untitled.mid---===>
+Name: (NONE)
+Origin: (NONE)
+Artist: The Eighth Bit
+
+<===---WalkingThroughForest.mid---===>
+Name: Walking Through the Forest
+Origin: Original Song
+Artist: The Eighth Bit
+
+<===---VolcanicVelocityPATNA.mid---===>
+Name: Volcanic Velocity
+Origin: Pam's Adventure: The New Adventure
+Artist: The Eighth Bit
+
+
+

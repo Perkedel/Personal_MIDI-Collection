@@ -1,0 +1,38 @@
+--Song Information--
+
+These songs are from video games.
+
+<===---BridgeZone.mid---===>
+Name: Bridge Zone
+Origin: Sonic 1 Game Gear/Master System
+Midi Sequenced by: The Eighth Bit
+
+<===---ChaotixWalkin'.mid---===>
+Name: Walkin'
+Origin: Knuckles' Chaotix (Sega 32X), Sonic Crackers/Sonic Studium (Sega Genesis/Megadrive, Prototype)
+Midi Sequenced by: Koryan (organ parts) & The Eighth Bit (the rest).
+
+<===---ChoujinSentaiJetmanAreaA.mid---===>
+Name: Area A
+Origin: Choujin Sentai Jetman (Nintendo Famicom, released only in Japan)
+Midi Sequenced by: The Eighth Bit
+
+<===---Sonic1TitleScreen.mid---===>
+Name: Title Screen
+Origin: Sonic The Hedgehog (Sega Genesis/Megadrive)
+Midi Sequenced by: The Eighth Bit
+
+<===---Sonic2TitleScreen.mid---===>
+Name: Title Screen
+Origin: Sonic The Hedgehog 2 (Sega Genesis/Megadrive)
+Midi Sequenced by: The Eighth Bit
+
+<===---FestersQuestOverworld.mid---===>
+Name: Fester's Quest Overworld
+Origin: Uncle Fester's Quest (Nintendo Entertainment System)
+
+
+
+
+
+
