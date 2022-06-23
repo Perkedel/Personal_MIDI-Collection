@@ -1,0 +1,8 @@
+These are the classical RMI (.rmi) MIDI files included with:
+Windows 95
+Windows NT 4.0
+Windows 98
+Windows 98 SE
+Windows 2000 (but NOT Windows ME)
+
+They were created by MIDISoft. These files only play in Windows Media Player, or any media player that supports RMI-type MIDIs.
