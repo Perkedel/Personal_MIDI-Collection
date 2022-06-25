@@ -1,0 +1,20 @@
+<html>Added by: Mark Jansen <gargos@vgmusic.com>
+Date Added: 2000-12-26
+
+File URL is http://www.vgmusic.com/new-files/Zelda3.zip
+
+Uploaded by tsinger@gladstone.uoregon.edu (Tim Singer)
+Originating IP Address: 128.223.210.108
+
+File Type: MIDI
+Game System: Super Nintendo
+Game Name: Zelda 3: A Link to the Past
+Song Title: Dark World (Woods)
+Sequenced by: Tim Singer <tsinger@gladstone.uoregon.edu>
+Other Information: 
+MIDI's logged by a modified version of OpenSPC and tweaked with Cakewalk Express 8.0.
+Includes pitch bends, volume levels and per-note volume envelopes where needed.
+Instrumentation is as close to original as possible with General MIDI.
+
+
+

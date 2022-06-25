@@ -1,0 +1,88 @@
+<html>Added by: Princess Peach Toadstool <peach@vgmusic.com>
+Date Added: 1999-08-15
+
+File URL is http://www.vgmusic.com/new-files/zorasdom.mid
+
+Uploaded by BillyGoTee@aol.com (Billy goat)
+
+File Type: MIDI
+Game System: Nintendo 64
+Game Name: Zelda: Ocarina of Time
+Song Title: Zora's Domain (3)
+Sequenced by: Brandon Arnold (Billy Goat) <BillyGoTee@aol.com>
+Other Information: I downloaded this song sequenced by Blue Guitar and decided to make it myself...he did an ok job, but it needed some help. Even mine isn't perfect whether it be the instrument type or the fading...but it's good enough for my approval, and that's good enough for anyone. anyways, I hope ya like it. ;-)
+
+Midi TrackName Analysis:
+
+
+]The settings in this template are based on the default setup of the GR-1. If you have changed the channel assignments on the GR-
+Multi-Timbral Module:  Part 1                     Channel 2
+
+                                   Part 2                     Channel 3
+
+                                   Part 3                     Channel 4
+
+                                   Part 4 (Drums)        Channel 10
+
+Performance Module:  Channels 11-16 (one channel for each string)
+
+How to configure Cakewalk:
+
+In the Assign Instruments menu (Tools | Instruments), assign the Roland GR-1 instrument definition(s) to the port and channels t
+Port/Channel:                  Uses Instrument:
+
+1: <Your interface> /1      <Any instrument>
+
+1: <Your interface> /2      Roland GR-1 Multi Module
+
+1: <Your interface> /3      Roland GR-1 Multi Module
+
+1: <Your interface> /4      Roland GR-1 Multi Module
+
+1: <Your interface> /5      <Any instrument>
+
+1: <Your interface> /6      <Any instrument>
+
+1: <Your interface> /7      <Any instrument>
+
+1: <Your interface> /8      <Any instrument>
+
+1: <Your interface> /9      <Any instrument>
+
+1: <Your interface> /10    Roland GR-1 Drumset
+
+1: <Your interface> /11    Roland GR-1 Guitar Module
+
+1: <Your interface> /12    Roland GR-1 Guitar Module
+
+1: <Your interface> /13    Roland GR-1 Guitar Module
+
+1: <Your interface> /14    Roland GR-1 Guitar Module
+
+1: <Your interface> /15    Roland GR-1 Guitar Module
+
+1: <Your interface> /16    Roland GR-1 Guitar Module
+
+Make sure that Cakewalk's Echo Mode is set to Auto (Tools | Project Options | MIDI Input).
+
+How to configure the GR-1:
+
+Make sure Local Control is OFF, and that your guitar is tuned (very important). Adjust "Transmit Bend Range" to fit the parts yo
+Recording Multi-Timbral parts:
+
+A Multi-Timbral part consists of one of 200 tones (400 if you have the expansion card). When recording a Multi-Timbral part, the
+Recording the Guitar/Performance Module:
+
+The Performance Module (Channel 11-16) lets you record guitar-like performances, such as slides, bends, vibrato, etc. The Perfor
+After recording the Performace part, you only need to select a patch on channel 11 (no need to assign the same patch to channels
+The problem most people are having when trying to record with the GR-1, is that they just aren't familiar enough with its struct
+SUMMARY:
+
+ 
+
+                                           Channels         MIDI Transmit Mode      Source                  Record Track
+
+Multi-Timbral Module:          2, 3, 4, 10       Poly Mode                      GR-1 Tones         1-4
+
+Performance Module:         11-16               Mono Mode                    GR-1 Patches      5 or 11-16
+

@@ -1,0 +1,36 @@
+<html>Added by: Princess Peach Toadstool <peach@vgmusic.com>
+Date Added: 2000-04-30
+
+File URL is http://www.vgmusic.com/new-files/HyruleFantasyV12.mid
+
+Uploaded by purpleguppy@yahoo.com (JILost)
+Originating IP Address: 198.76.162.99
+
+File Type: MIDI
+Game System: Medley - Nintendo
+Game Name: Zelda 2
+Song Title: A Hyrule Fantasy
+Sequenced by: JILost <purpleguppy@yahoo.com>
+Other Information: 
+Just a bugfix, basically. The chords at the end didn't want to fully sound, so I changed the overall volume of the song, deleted some notation, etc. Also did some remixing to compensate for the changes.  -JILost
+(Besides a good medley, this also appears to be a little bit of a jazz remix.  -Peach)
+
+
+Midi TrackName Analysis:
+
+
+bass
+melody 1
+harmony
+strings
+melody 2
+Strings
+Timpani
+brass
+percussion
+cymbol
+acc guitar
+bass
+choir
+harp
+flute

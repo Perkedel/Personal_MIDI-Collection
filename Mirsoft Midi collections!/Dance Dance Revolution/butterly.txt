@@ -1,0 +1,31 @@
+File URL is http://www.vgmusic.com/new-files/butterly.mid
+Upload Date and Time: 08/25/2001 07:57:37
+
+Uploaded by fanclub@colonelboeller.de (Colonel Boeller)
+Originating IP Address: 217.85.175.161
+
+File Type: MIDI
+Game System: Arcade
+Game Name: Dance Dance Revolution 
+Song Title: Butterfly
+Other Information: 
+
+
+
+Midi TrackName Analysis:
+
+
+Rev
+Bass
+Seq
+Strings
+E.P
+Square
+Sine
+Vocal
+Chorus
+Koto
+Steel
+Crystal
+Pan
+Drum

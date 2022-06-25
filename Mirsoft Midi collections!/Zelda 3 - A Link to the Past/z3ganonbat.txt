@@ -1,0 +1,30 @@
+<html>Added by: Mark Jansen <gargos@vgmusic.com>
+Date Added: 2000-12-26
+
+File URL is http://www.vgmusic.com/new-files/z3ganonbat.mid
+
+Uploaded by gargos@vgmusic.com (Mark Jansen)
+Originating IP Address: 24.14.231.10
+
+File Type: MIDI
+Game System: Super Nintendo
+Game Name: Zelda 3: A Link to the Past
+Song Title: Ganon Battle
+Sequenced by: Mark Jansen <gargos@vgmusic.com>
+Song Originally Composed by: Koji Kondo
+
+Other Information: 
+
+
+
+Midi TrackName Analysis:
+
+
+Channel 2
+Channel 4
+Channel 5
+Channel 6
+Channel 7
+Percussion
+Sequenced by
+Mark Jansen

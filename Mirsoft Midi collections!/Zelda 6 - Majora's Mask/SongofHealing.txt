@@ -1,0 +1,38 @@
+<html>Added by: Mark Jansen <gargos@vgmusic.com>
+Date Added: 2001-08-16
+
+File URL is http://www.vgmusic.com/new-files/SongofHealing.mid
+
+Uploaded by linkster123@yahoo.com (Nicholas Petry)
+Originating IP Address: 64.24.141.16
+
+File Type: MIDI
+Game System: Nintendo 64
+Game Name: Zelda: Majora's Mask
+Song Title: Song of Healing
+Other Information: 
+
+
+
+Midi TrackName Analysis:
+
+
+mailto mio@zelda.club.ne.jp
+get more midis at [64ZELDA Music Studio]
+http://listen.to/64zelda  -- (English)
+http://zelda.musicpage.com -- (Japanese)
+vibrato rate
+vibrato depth
+vibrato delay
+f cutoff frequency
+f resonance
+TVF&TVA envelope attack
+TVF&TVA envelope decay
+TVF&TVA envelope release
+RPN/NRPN null
+Reverb macro : hall2
+Track 2
+Track 3
+Track 4
+Track 5
+Track 6

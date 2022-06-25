@@ -1,0 +1,42 @@
+File URL is http://www.vgmusic.com/new-files/Brilliant_2_U_harmony_remix.mid
+Upload Date and Time: 09/18/2001 16:42:38
+
+Uploaded by dkdn911@hotmail.com (Jamie Thompson)
+Originating IP Address: 207.253.167.238
+
+File Type: MIDI
+Game System: Sony Playstation
+Game Name: Dance Dance Revolution
+Song Title: Super Brilliant 2 U Orchastra Groove (Harmony Remix)
+Other Information: 
+
+
+
+Midi TrackName Analysis:
+
+
+Bass
+Bass-2
+Square
+Strings
+Strings-2
+SawLead
+SawLead-2
+OrchHit
+OrchHit-2
+Strings 2
+Strings 2-2
+Strings 3
+PolySynth
+SynBrass
+SynBrass-2
+SynBrass2
+SynBrass2-2
+Bright
+CarTSqel
+CarTSqel-2
+Xplosion
+Xplosion-2
+Drum
+Drum-2
+Tempo Track

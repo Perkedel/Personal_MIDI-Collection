@@ -1,0 +1,37 @@
+File URL is http://www.vgmusic.com/new-files/z5hracermx2.mid
+Upload Date and Time: 10/13/2001 09:10:26
+
+Uploaded by p.a.vd.wijngaart@freeler.nl (Master Link)
+Originating IP Address: 62.21.132.125
+
+File Type: MIDI
+Game System: Nintendo 64
+Game Name: The Legend Of Zelda: Majora'S Mask-Ocarina Of Time
+Song Title: Horse Race-Doggy Race Theme
+Sequenced by: Koen van den Wijngaart a.k.a. Master Link
+Song Originally Composed by: Koji Kondo
+
+Other Information: 
+
+
+
+Midi TrackName Analysis:
+
+
+Reverb macro PLATE
+vibrato rate
+vibrato depth
+vibrato depth
+vibrato depth
+vibrato delay
+f cutoff frequency
+f cutoff frequency
+f resonance
+f resonance
+TVF&TVA envelope attack
+TVF&TVA envelope attack
+TVF&TVA envelope attack
+TVF&TVA envelope attack
+TVF&TVA envelope decay
+TVF&TVA envelope release
+RPN/NRPN null

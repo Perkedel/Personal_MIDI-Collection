@@ -1,0 +1,25 @@
+<html>Added by: Princess Peach Toadstool <peach@vgmusic.com>
+Date Added: 1999-10-24
+
+File URL is http://www.vgmusic.com/new-files/z64-82.zip
+
+Uploaded by sthiza@anet.ne.jp (Asa)
+
+File Type: MIDI ZIP
+Game System: Nintendo 64
+Game Name: Zelda: Ocarina of Time
+Song Title: End Credits (v2.0)
+Sequenced by: Asa <sthiza@anet.ne.jp>
+Song Originally Composed by: Koji Kondo
+
+Other Information: Soundtrack Number #82 - End Credits (Staff Roll)
+
+(We usually do not accept ZIP files for non-PC games, but after
+investigating this, we have seen that this has a specific purpose and
+would be more messy any other way.
+
+This file contains the songs from the entire ending sequence (although
+slight volume problems, especially at the end, but very good anyway),
+and also four other MIDIs, breaking the major file into perfect pieces.
+Those pieces are in great condition and do not seem to have the volume
+problems which the largest file has.  -Peach)

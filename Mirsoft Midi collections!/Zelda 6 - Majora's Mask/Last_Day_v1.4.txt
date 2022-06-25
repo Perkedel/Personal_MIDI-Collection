@@ -1,0 +1,28 @@
+File URL is http://www.vgmusic.com/new-files/Last_Day_v1.4.MID
+Upload Date and Time: 07/11/2001 18:34:51
+
+Uploaded by harveyja@engin.umich.edu (John Harvey)
+Originating IP Address: 63.27.39.54
+
+File Type: MIDI
+Game System: Nintendo 64
+Game Name: The Legend Of Zelda: Majora'S Mask
+Song Title: The Last Day (V1.4)
+Sequenced by: John Harvey
+Song Originally Composed by: Koji Kondo
+
+Other Information: 
+v1.3 accidentally had the tempo doubled. This version fixes that problem and makes a couple of other note improvements. 
+
+
+
+Midi TrackName Analysis:
+
+
+Guitar
+Crashes/FX
+Clock Tower
+"The Last Day"
+from The Legend of Zelda: Majora's Mask
+composed by Koji Kondo
+sequenced by John Harvey

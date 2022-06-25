@@ -1,0 +1,40 @@
+<html>Added by: Pong64 <pong64@vgmusic.com>
+Date Added: 2001-01-20
+
+File URL is http://www.vgmusic.com/new-files/z5kokiri3.mid
+
+Uploaded by sirius64@yahoo.com (Sirius)
+Originating IP Address: 203.155.33.180
+
+File Type: MIDI
+Game System: Nintendo 64
+Game Name: Zelda: Ocarina Of Time
+Song Title: Kokiri Forest (2) (v2.0)
+Sequenced by: Sirius <sirius64@yahoo.com>
+Song Originally Composed by: Koji Kondo
+
+Other Information: 
+Version Updates: Some strings added in at the beginning. It sounds better, it does!
+
+
+Midi TrackName Analysis:
+
+
+Pan Flute
+Marimba
+Oboe
+French Horn
+Clarinet
+Harpsichord
+Strings
+Pizzicato
+Glockenspiel
+Mute Banjo
+Harp
+Ocarina
+Strings
+Zelda: Ocarina of Time
+Kokiri Forest (v1.5)
+original: Koji Kondo
+seq & arrange: Aivi (Sirius)
+<sirius64@yahoo.com>

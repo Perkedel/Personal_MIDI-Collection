@@ -1,0 +1,35 @@
+<html>Added by: Mark Jansen <gargos@vgmusic.com>
+Date Added: 2000-12-26
+
+File URL is http://www.vgmusic.com/new-files/z5woodremix.mid
+
+Uploaded by sirius64@yahoo.com (Sirius)
+Originating IP Address: 12.72.199.69
+
+File Type: MIDI
+Game System: Nintendo 64
+Game Name: Zelda: Ocarina Of Time
+Song Title: Lost Woods (Remix)
+Sequenced by: Sirius <sirius64@yahoo.com>
+Song Originally Composed by: Koji Kondo
+
+Other Information: 
+[V4.0] Final version, I promise! It's much better in every way. 1) Instruments are better, like the new harp part & strings correction at the end. 2) Speed was raised from 150 to 154!! :) 3) Size reduced from 50KB to 43KB! (I think) So... enjoy :)
+
+
+Midi TrackName Analysis:
+
+
+flute
+recorder
+bright piano
+strings
+harp
+synth bass, synth bells
+synth bass
+jazz kit
+Zelda: Ocarina of Time
+Lost Woods Remix!! (v.4)
+original: Koji Kondo
+seq & arrange: Aivi (Sirius64)
+<sirius64@yahoo.com>

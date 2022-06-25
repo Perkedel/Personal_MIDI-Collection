@@ -1,0 +1,52 @@
+<html>Added by: Princess Peach Toadstool <peach@vgmusic.com>
+Date Added: 1999-06-27
+
+File URL is http://www.vgmusic.com/new-files/Kaepora.mid
+
+Uploaded by fjantinc@beer.com (Theodor Berg)
+
+File Type: MIDI
+Game System: Nintendo 64
+Game Name: Zelda: Ocarina of Time
+Song Title: Kaepora Gaebora
+Sequenced by: Theodor Berg <fjantinc@beer.com>
+Song Originally Composed by: Koji Kondo
+
+Other Information: It´s an unfinished version of the Owl´s theme.
+
+Midi TrackName Analysis:
+
+
+File Copyright (c) 1993 Adrenalin Software
+Leffe opening
+
+virvel utan virvel
+TRumpet fast orgel
+   strings
+basdrum
+Cymbal 6
+SelloEnsemble
+hihat
+saxis
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,6 @@
+<html>File URL is http://www.vgmusic.com/nes/z2temple.mid
+
+Game System: nes
+Game Name: Zelda 2
+Song Title: Palace
+Sequenced by: <jcollett@attila.stevens-tech.edu>

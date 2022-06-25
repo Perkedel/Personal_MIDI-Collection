@@ -1,0 +1,33 @@
+<html>Added by: Mark Jansen <gargos@vgmusic.com>
+Date Added: 2001-10-28
+
+File URL is http://www.vgmusic.com/new-files/ZMM-Astral(v1.1).mid
+Upload Date and Time: 10/14/2001 20:25:09
+
+Uploaded by harveyja@engin.umich.edu (John Harvey)
+Originating IP Address: 141.213.189.243
+
+File Type: MIDI
+Game System: Nintendo 64
+Game Name: Zelda: Majora's Mask
+Song Title: Astral Observatory
+Sequenced by: John Harvey <harveyja@engin.umich.edu>
+Song Originally Composed by: Koji Kondo
+
+Other Information: 
+[V1.1]
+Changed since last version: 
+Volume levels tweaked to more accurately reflect balance in original piece
+
+
+Midi TrackName Analysis:
+
+
+Guitar
+Choir
+Strings
+Piano
+The Legend of Zelda: Majora's Mask
+"Astral Observatory" by Koji Kondo
+Sequenced by John Harvey ("ForteBlast")
+comments to forteblast@calrathan.dhs.org

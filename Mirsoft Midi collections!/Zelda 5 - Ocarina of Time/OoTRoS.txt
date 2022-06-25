@@ -1,0 +1,27 @@
+<html>Added by: Princess Peach Toadstool <peach@vgmusic.com>
+Date Added: 1999-02-06
+
+File URL is http://www.vgmusic.com/new-files/OoTRoS.mid
+
+Uploaded by toadstool@csnsys.com (Princess Peach Toadstool)
+
+File Type: MIDI
+Game System: Nintendo 64
+Game Name: Zelda: Ocarina of Time
+Song Title: Requiem of Spirit
+Sequenced by: Princess Peach Toadstool <toadstool@csnsys.com>
+Song Originally Composed by: Koji Kondo
+
+Other Information: Dear Zelda Fans:    Well, this took me a while, but I finally finished the Requiem of Spirit!  However, I'll never be totally satisfied with this song (I almost never am, anyway).  I see possible problems in this MIDI but I haven't a clue what to do to fix them.  Why?  It has to do with the ending.  For some reason, it doesn't seem like it fades right.  Either it fades too soon, to steep, or something.  I tried various things and never perfected it.  Oh well.  *No one's perfect*, right?  Basically, this song flows at the same speed and everything as the original song.  Enjoy.         Yours truly - -                        Princess Toadstool (Peach)
+
+Midi TrackName Analysis:
+
+
+Lyre
+Ocarina
+Grand Piano
+Strings
+Strings 2
+Strings 3
+Tinkle Bell
+Zelda: Ocarina of Time - Requiem of Spirit by Peach (toadstool@csnsys.com)

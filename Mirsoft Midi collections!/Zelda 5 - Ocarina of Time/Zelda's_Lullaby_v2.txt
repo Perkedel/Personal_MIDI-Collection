@@ -1,0 +1,28 @@
+<html>Added by: Mark Jansen <gargos@vgmusic.com>
+Date Added: 2001-08-16
+
+File URL is http://www.vgmusic.com/new-files/Zelda's_Lullaby_v2.mid
+Upload Date and Time: 06/05/2001 12:11:12
+
+Uploaded by nicole_is@nincompoop.co.uk (Aaron Ritchie)
+Originating IP Address: 142.154.153.39
+
+File Type: MIDI
+Game System: Nintendo 64
+Game Name: Zelda: Ocarina Of Time
+Song Title: Ocarina of Time (Zelda's Lullaby)(4)
+Sequenced by: Aaron Ritchie <nicole_is@nincompoop.co.uk>
+Song Originally Composed by: Koji Kondo
+
+Other Information: 
+[V2.0]
+I've added strings and a bell.
+
+
+Midi TrackName Analysis:
+
+
+MMOPT:0,1,0,0,1,0,35,0.010000,0.020000,1.300000,30,0
+MMOPT:0,1,0,0,1,0,35,0.010000,0.020000,1.300000,30,0
+MMOPT:0,1,0,0,1,0,35,0.010000,0.020000,1.300000,30,0
+MMOPT:0,1,0,0,1,0,35,0.010000,0.020000,1.300000,30,0

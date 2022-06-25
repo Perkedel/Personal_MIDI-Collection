@@ -1,0 +1,23 @@
+<html>Added by: Princess Peach Toadstool <peach@vgmusic.com>
+Date Added: 1999-04-18
+
+File URL is http://www.vgmusic.com/new-files/goron.mid
+
+Uploaded by Piglet4567@aol.com (Daniel Witt)
+
+File Type: MIDI
+Game System: Nintendo 64
+Game Name: Zelda: Ocarina of Time
+Song Title: Goron City
+Sequenced by: Daniel Witt <Piglet4567@aol.com>
+Other Information: 
+(This probably sounds really good on a soundfont that has a good cuica.  Almost sounds like those Gorons...  -Peach)
+
+Midi TrackName Analysis:
+
+
+SFX1
+taiko Drum
+Vibraphone
+Melody
+Other Drums

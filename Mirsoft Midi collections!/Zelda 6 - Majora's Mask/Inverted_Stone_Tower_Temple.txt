@@ -1,0 +1,57 @@
+File URL is http://www.vgmusic.com/new-files/Inverted_Stone_Tower_Temple.mid
+Upload Date and Time: 06/12/2001 17:24:48
+
+Uploaded by nicole_is@nincompoop.co.uk (Aaron Ritchie)
+Originating IP Address: 142.154.152.152
+
+File Type: MIDI
+Game System: Nintendo 64
+Game Name: The Legend Of Zelda: Majora'S Mask
+Song Title: The Inverted Stone Tower Temple
+Sequenced by: Aaron Ritchie
+Song Originally Composed by: Koji Kondo
+
+Other Information: 
+I have absolutely no idea what the notes those reversed flutes play, they're to fast. I took a guess, and it sounds okay.
+
+
+Midi TrackName Analysis:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MMOPT:0,1,0,0,1,0,35,0.010000,0.020000,1.300000,30,0

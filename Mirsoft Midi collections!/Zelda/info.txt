@@ -1,0 +1,19 @@
+Archive created by -=MIRSOFT=-
+Look for game MIDs at http://go.to/gamemids
+
+*** Archive info ***
+Archiver: Mirsoft
+Type: Arranged, Remix
+Format: MID
+Original Composer: Koji Kondo
+Sequencer: Various Authors
+Num of tunes: 41
+Complete: 
+
+*** Game info ***
+Name: Zelda
+Platform: NES
+Year: 1986
+Genre: RPG
+Publisher: Nintendo
+Developer: Nintendo

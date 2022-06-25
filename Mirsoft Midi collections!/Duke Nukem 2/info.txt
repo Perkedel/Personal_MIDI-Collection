@@ -1,0 +1,24 @@
+Archive created by -=MIRSOFT=-
+Look for game MIDs at http://go.to/gamemids
+
+*** Archive info ***
+Archiver: Mirsoft, Reactor ##9625
+Type: Game rip
+Format: MID
+Original Composer: Robert Prince
+Sequencer: Robert Prince, Lambda Team
+Num of tunes: 7
+Complete:
+
+*** Game info ***
+Name: Duke Nukem 2
+Platform: PC
+Year: 1993
+Genre: Action
+Publisher: Apogee
+Developer: Apogee
+
+*** Additional info ***
+Info from Reactor:
+
+Tunes E1L3 and E2L7 are Duke Nukem 2 composed MIDI of episode one, level three, and episode 2 level 7. These are the best tunes from Duke Nukem 2. Made in Anvil Studio by the Lambda Team.

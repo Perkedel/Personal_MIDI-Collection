@@ -1,0 +1,23 @@
+File URL is http://www.vgmusic.com/new-files/Nocturne_Of_Shadow.mid
+Upload Date and Time: 06/04/2001 15:55:02
+
+Uploaded by nicole_is@nincompoop.co.uk (Aaron Ritchie)
+Originating IP Address: 142.154.153.22
+
+File Type: MIDI
+Game System: Nintendo 64
+Game Name: The Legend Of Zelda: Ocarina Of Time
+Song Title: Nocturne Of Shadow
+Sequenced by: Aaron Ritchie
+Song Originally Composed by: Koji Kondo
+
+Other Information: 
+
+
+
+Midi TrackName Analysis:
+
+
+MMOPT:0,1,0,0,1,0,35,0.010000,0.020000,1.300000,30,0
+MMOPT:0,1,0,0,1,0,35,0.010000,0.020000,1.300000,30,0
+MMOPT:0,1,0,0,1,0,35,0.010000,0.020000,1.300000,30,0

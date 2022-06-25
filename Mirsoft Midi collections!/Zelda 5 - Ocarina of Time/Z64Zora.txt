@@ -1,0 +1,34 @@
+<html>Added by: Princess Peach Toadstool <peach@vgmusic.com>
+Date Added: 1999-08-15
+
+File URL is http://www.vgmusic.com/new-files/Z64Zora.mid
+
+Uploaded by jarronwoodsorrel@hotmail.com (Jarron Woodsorrel)
+
+File Type: MIDI
+Game System: Nintendo 64
+Game Name: Zelda: Ocarina of Time
+Song Title: Zora's Domain (2)
+Sequenced by: Jarron Woodsorrel
+Song Originally Composed by: Koji Kondo
+
+Other Information: Optimised for AWE32 or better wavetable playback  -Jarron
+(This is a really good version of the song.  I'm impressed.  -Peach)
+
+Midi TrackName Analysis:
+
+
+Guitar Theme
+Glass Chords
+Warm Chords
+Voice Chords
+Steel Pan
+StandardKit
+"Zora's Domain"
+The Legand of Zelda: Ocarina of Time
+Original Score by Koji Kondo
+Sequenced to MIDI by Jarron Woodosorrel
+Started on 31 December 1998
+JarronWoodsorrel@hotmail.com
+All Comments Welcome...
+Optimised for AWE64 Wavetable Playback

@@ -1,0 +1,33 @@
+<html>Added by: Princess Peach Toadstool <peach@vgmusic.com>
+Date Added: 1999-03-06
+
+File URL is http://www.vgmusic.com/new-files/time_bgm.mid
+
+Uploaded by jimveta@hotmail.com (Jimmy Vetayases)
+
+File Type: MIDI
+Game System: Nintendo 64
+Game Name: Zelda: Ocarina of Time
+Song Title: Temple of Time
+Sequenced by: Jimmy Vetayases <jimveta@hotmail.com>
+Song Originally Composed by: Koji Kondo
+
+Other Information: Ocarina version + Temple bgm- could use some attack time on the choirs to make it more faithful.. would mean seperating them into seperate channels since note decays overlap attacks in the original bgm.. oh well, call me lazy :p  -Jimmy
+(Personally, that's what I wanted to do.  Attack time is important in this song.  Also, although the ocarina part is well-made, it--unfortunately--replaces the first main tune.  The main tune is supposed to be played twice, but it's a good MIDI, nonetheless.  -Peach)
+
+Midi TrackName Analysis:
+
+
+MIDI sequenced by
+
+Jimmy Vetayases
+
+jimveta@hotmail.com
+
+Ocarina - 120 bpm
+Choir 1 - 80 bpm
+Choir 2
+Choir 3
+Sequenced by
+Jimmy Vetayases
+jimveta@hotmail.com

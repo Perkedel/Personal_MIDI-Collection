@@ -1,0 +1,29 @@
+<html>Added by: Princess Peach Toadstool <peach@vgmusic.com>
+Date Added: 1999-02-06
+
+File URL is http://www.vgmusic.com/new-files/ZeldaD.mid
+
+Uploaded by gte106j@prism.gatech.edu (Michael Crowe)
+
+File Type: MIDI
+Game System: Nintendo
+Game Name: Legend of Zelda
+Song Title: Labyrinth (Enhanced)
+Other Information: 
+
+Midi TrackName Analysis:
+
+
+Template that configures 16 tracks for 16 separate MIDI channels, full Volume, and centered Pan.
+
+Piano, Alberti
+Trumpet 1
+Timpani
+Violin
+Viola
+Cello
+String Bass
+Horn
+Trumpet 2
+Dulcimer
+Flute

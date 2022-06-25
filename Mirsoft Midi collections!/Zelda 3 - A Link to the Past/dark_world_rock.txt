@@ -1,0 +1,49 @@
+File URL is http://www.vgmusic.com/new-files/dark_world_rock.mid
+Upload Date and Time: 07/31/2001 23:21:19
+
+Uploaded by dmety@worldnet.att.net (Daven)
+Originating IP Address: 12.87.56.11
+
+File Type: MIDI
+Game System: Super Nintendo
+Game Name: Legend Of Zelda: A Link To The Past
+Song Title: The Dark World: Rock Remix
+Sequenced by: Daven
+Other Information: 
+Don't know what it is with me and these rock remixes :P Oh well, it sounds pretty kewl! :)
+
+
+Midi TrackName Analysis:
+
+
+SN/Tom fill1
+Crash/Kick/SN/Hat
+SN/Tom fill2
+var1/Crash/Kick/SN/Hat
+SN fill1
+var2/Crash/Kick/SN/Hat
+Tom fill1
+var3/Crash/Kick/SN/Hat
+SN/Tom fill3
+var4/Crash/Kick/SN/Hat
+SN/Tom fill4
+var5/Crash/Kick/SN/Hat
+SN/Tom fill5
+var6/Crash/Kick/SN/Hat
+SN fill2
+Click
+SN/Tom fill1
+Crash/Kick/SN/Hat
+SN/Tom fill2
+var1/Crash/Kick/SN/Hat
+SN fill1
+var2/Crash/Kick/SN/Hat
+Tom fill1
+var3/Crash/Kick/SN/Hat
+SN/Tom fill3
+var4/Crash/Kick/SN/Hat
+SN/Tom fill4
+var5/Crash/Kick/SN/Hat
+SN/Tom fill5
+var6/Crash/Kick/SN/Hat
+SN fill2

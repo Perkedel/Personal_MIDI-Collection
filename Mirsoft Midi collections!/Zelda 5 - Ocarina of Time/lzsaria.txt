@@ -1,0 +1,24 @@
+<html>Added by: Princess Peach Toadstool <peach@vgmusic.com>
+Date Added: 1999-10-24
+
+File URL is http://www.vgmusic.com/new-files/lzsaria.mid
+
+Uploaded by shezbeth@hotmail.com (Jeff Chermak)
+
+File Type: MIDI
+Game System: Nintendo 64
+Game Name: Zelda: Ocarina of Time
+Song Title: Lost Woods (3) (Ver. 1.1)
+Sequenced by: Jeff Chermak <shezbeth@hotmail.com>
+Song Originally Composed by: Koji Kondo
+
+Other Information: For the record, the original version of this songwas listed in the archive as a remix.  The songI sequenced never has been nor will be a remix.If you could correct the problem (that it reads:Lost World <# whatever>) I would be mostappreciative.  -Jeff
+(FYI, I marked it as a remix because of the unusual instrument(s) I heard.  It sounded like a remix to me.  Perhaps it sounds different on your card.  Either way, I'll keep this as a regular version without a remix tag.  -Peach)
+
+Midi TrackName Analysis:
+
+
+Instrument6
+Instrument2
+Instrument3
+Instrument4

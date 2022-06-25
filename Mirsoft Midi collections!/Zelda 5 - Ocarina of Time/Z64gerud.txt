@@ -1,0 +1,27 @@
+<html>Added by: Princess Peach Toadstool <peach@vgmusic.com>
+Date Added: 1999-03-06
+
+File URL is http://www.vgmusic.com/new-files/Z64gerud.mid
+
+Uploaded by TogoXtreme@msn.com (John Kuzma)
+
+File Type: MIDI
+Game System: Nintendo 64
+Game Name: Zelda: Ocarina of Time
+Song Title: Gerudo Valley
+Sequenced by: John Kuzma <TogoXtreme@msn.com>
+Song Originally Composed by: Koji Kondo
+
+Other Information: 
+
+Midi TrackName Analysis:
+
+
+The Legend of Zelda:
+Ocarina of Time
+Gerudo Valley
+Sequenced by:
+John Kuzma
+TogoXtreme@msn.com
+Revision 2 Fixes:
+- fixed accents and severe panning on percs

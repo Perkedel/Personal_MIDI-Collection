@@ -1,0 +1,34 @@
+<html>Added by: Princess Peach Toadstool <peach@vgmusic.com>
+Date Added: 1999-03-06
+
+File URL is http://www.vgmusic.com/new-files/z64kokri.mid
+
+Uploaded by TogoXtreme@msn.com (John Kuzma)
+
+File Type: MIDI
+Game System: Nintendo 64
+Game Name: Zelda: Ocarina of Time
+Song Title: Kokiri Forest
+Sequenced by: John Kuzma <TogoXtreme@msn.com>
+Song Originally Composed by: Koji Kondo
+
+Other Information: 
+
+Midi TrackName Analysis:
+
+
+The Legend of Zelda:
+Ocarina of Time
+Kokiri Forest
+Sequenced by:
+John Kuzma
+TogoXtreme@msn.com
+Revision 3 (final) Daah!
+Fixed in this version:
+- corrected pan/volume of harp during intro
+- added bassoon harmony where needed
+- added another tinkle chord where needed
+Fixed in revision 2 - in case you're wondering:
+- corrected timing and speed of intro
+- changed guitar patch to harpsichord
+- added an extra bar of base where needed

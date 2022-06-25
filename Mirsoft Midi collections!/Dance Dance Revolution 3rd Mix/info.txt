@@ -1,0 +1,19 @@
+Archive created by -=MIRSOFT=-
+Look for game MIDs at http://go.to/gamemids
+
+*** Archive info ***
+Archiver: Mirsoft
+Type: Arranged
+Format: MID
+Original Composer: 
+Sequencer: 
+Num of tunes: 1
+Complete: 
+
+*** Game info ***
+Name: Dance Dance Revolution 3rd Mix
+Platform: Arcade
+Year: 1999
+Genre: Other
+Publisher: Konami
+Developer: Konami

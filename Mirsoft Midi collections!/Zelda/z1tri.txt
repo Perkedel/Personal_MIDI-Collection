@@ -1,0 +1,10 @@
+<html>File URL is http://www.vgmusic.com/nes/z1tri.mid
+
+
+Game System: nes
+Game Name: Legend of Zelda
+
+Song Title: Triforce
+
+Sequenced by: Jeffrey M Colletti <jcollett@stevens-tech.edu>
+
