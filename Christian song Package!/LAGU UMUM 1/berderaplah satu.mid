@@ -1,0 +1,420 @@
+<html>
+<head>
+	<title>Tripod | Error</title>
+	
+	
+	
+
+
+<!-- START: Catman header -->
+
+<script type="text/javascript">
+var cm_role = "live"
+var cm_host = "tripod.lycos.com"
+var cm_taxid = "/membererror"
+</script> 
+<script type="text/javascript" src="http://scripts.lycos.com/catman/init.js"></script>
+<script type="text/javascript">
+var objAdMgr = new AdManager();
+var strProdSetName = objAdMgr.chooseProductSet(); objAdMgr.renderHeader();
+</script>
+
+<link rel="icon" href="/favicon.ico" type="image/bmp" />
+
+<meta name="description" content="Tripod on Lycos, established in 1994, is one of the leading personal publishing communities on the Web. Tripod makes it easy for members to create their own blogs, web sites, get a web address (domain) and start publishing online.">
+<meta name="keywords" content="tripod, lycos, blogs, blogging, blog tool, blog entry, best free web host, free webspace, free homepage, webpage, website, web site, free web site, web host, web hosting, free web host, free web hosting, cheap web host, cheap web hosting, building a web site, hosting a web site, web publishing, web site tools, web authoring, Free domain name, domains, site host, building a blog, web site creation tools, domain hosting, top hosts, compare">
+<meta name="ROBOTS" content="ALL">
+
+<script language="javascript" type="text/javascript" src="http://www.tripod.lycos.com/js/dmenu.js"></script>
+<script language="javascript" type="text/javascript" src="http://www.tripod.lycos.com/js/menubuilder.js"></script>
+<script type="text/javascript">
+function popupWindow(link, width, height) {
+  var trpopWin = window.open(link,"trpopWin","toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=1,resizable-0,width="+width+",height="+height);
+}
+</script>
+<!-- HeaderBar Js -->
+<script src="http://hb.lycos.com/hb.js?site=tripod" type="text/javascript"></script>
+
+<!-- Css Include Files -->
+<link rel="stylesheet" href="http://www.tripod.lycos.com/css/tripod.css" type="text/css">
+
+<!-- END: Catman header -->
+
+<style type="text/css">
+.darkGrey2 { color: #fff; background: #5a5a7b; font-weight: bold; line-height: 13px; text-indent: 5px; float: left;  font-family: verdana; font-size: 10px;}
+.lightGrey2 { color: #FFFFFF; background: #8C9CA5; float: left; }
+.dirFront { width: 142px; float: left; margin: 5px 0px 5px 6px; font-family: verdana; font-size: 10px; line-height: 14px; }
+.dirFront2 { width: 16px; margin: 0 5px 0 0; float: left; font-family: verdana; font-size: 10px; line-height: 14px; }
+.dirFront3 { width: 120px; margin: 0; float: left; font-family: verdana; font-size: 10px; line-height: 14px; }
+</style>
+
+</head>
+<body bgcolor="#DEDEDE" text="#000000" marginheight="0" marginwidth="0" topmargin="0" leftmargin="0">
+<!--lycos header-->
+<link REL="icon" HREF="/favicon.ico" TYPE="image/bmp">
+<script type="text/javascript">
+    lhb_drawHeader();
+</script>
+<noscript>
+    <iframe src="http://hb.lycos.com/hb.php?site=tripod" marginheight="0" marginwidth="0" scrolling="no" frameborder="0" width="100%" height="50"></iframe>
+</noscript>
+
+<!--/lycos header-->
+
+<!--tripod header-->
+<!--menus-->
+<script language="javascript" type="text/javascript">
+<!--
+	buildMenu('build','dropDown');
+	buildMenu('tools','dropDown');
+	buildMenu('host','dropDown');
+	buildMenu('smallbiz','dropDown');
+	buildMenu('members','dropDown');
+	buildMenu('myaccount','dropDown');
+//-->
+</script>
+<!--/menus-->
+
+<!--HEADERS AND TABS-->
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+		<td class="darkGrey" valign="bottom" width="159"><a href="/"><img src="http://www.tripod.lycos.com/img/common/tripod_logo_top_left.gif" width="159" height="35" border="0" alt="Tripod"></a></td>
+		<td class="darkGrey" valign="bottom" nowrap align="left"><a href="/"><img src="http://www.tripod.lycos.com/img/common/tripod_logo_top_right.gif" width="25" height="35" border="0" alt="Tripod"></a></td>
+		<td class="darkGrey" align="left" valign="middle">
+		</td>
+		<td class="darkGrey" align="left" width="100%">
+			<table cellpadding="0" cellspacing="0" border="0" width="100%" height="35" align="left">
+				<tr>
+					<td class="darkGrey" colspan="2"><img src="/img/common/1x1.gif" alt="" width="1" height="1" border="0"></td>
+				</tr>
+				<tr>
+					<td align="right" valign="bottom" width="19" class="darkGrey" height="19"><img src="http://www.tripod.lycos.com/img/common/header_corner_cut.gif" alt="" width="19" height="19"></td>
+                     <td class="white" valign="bottom" height="19">&nbsp;</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+	<tr>
+		<td class="white" colspan="4" ><img src="/img/common/1x1.gif" alt="" width="1" height="1"></td>
+	</tr>
+        
+            <!-- Menu-->
+	<tr>
+        <td class="white" valign="top" width="159"><a href="/"><img src="http://www.tripod.lycos.com/img/common/tripod_logo_bottom_orange_notab.gif" alt="" width="159" height="17" border="0"></a></td>
+		<td colspan="2">
+            <table cellpadding="0" cellspacing="0" border="0">
+                <tr>
+                    <td class="tabTitle" align="center"><a href="/adm/redirect/www" class="tabLink">HOME</a></td>
+                    <td class="white"><img src="http://www.tripod.lycos.com/img/tabs/tab_mid.gif" alt="" width="17" height="17" border="0"></td>
+                    <td align="center" class="tabTitle">
+                        <div id="buildlink" onMouseOver="showMenu('build');" onMouseOut="hideMenu('build');"><a class="tabLink" href="/adm/redirect/www/build/index.html">BUILD&nbsp;&#038;&nbsp;EDIT</a></div>
+                    </td>
+                    <td class="white"><img src="http://www.tripod.lycos.com/img/tabs/tab_mid.gif" alt="" width="17" height="17" border="0"></td>
+                    <td class="tabTitle" align="center">
+                        <div id="toolslink" onMouseOver="showMenu('tools');" onMouseOut="hideMenu('tools');"><a class="tabLink" href="/adm/redirect/www/tools/index.html">TOOLS</a></div>
+                    </td>
+                    <td class="white"><img src="http://www.tripod.lycos.com/img/tabs/tab_mid.gif" alt="" width="17" height="17" border="0"></td>
+                    <td class="tabTitle" align="center">
+                        <div id="hostlink" onMouseOver="showMenu('host');" onMouseOut="hideMenu('host');"><a class="tabLink" href="/adm/redirect/www/host/index.html">HOST</a></div>
+                    </td>
+                    <td class="white"><img src="http://www.tripod.lycos.com/img/tabs/tab_mid.gif" alt="" width="17" height="17" border="0"></td>
+                    <td class="tabTitle" align="center">
+                        <div id="smallbizlink" onMouseOver="showMenu('smallbiz');" onMouseOut="hideMenu('smallbiz');"><a class="tabLink" href="/adm/redirect/www/smallbiz/index.html">SMALL&nbsp;BUSINESS</a></div>
+                    </td>
+                    <td class="white"><img src="http://www.tripod.lycos.com/img/tabs/tab_mid.gif" alt="" width="17" height="17" border="0"></td>
+                    <td class="tabTitle" align="center">
+                        <div id="memberslink" onMouseOver="showMenu('members');" onMouseOut="hideMenu('members');"><a class="tabLink" href="/adm/redirect/www/directory/index.html">MEMBER&nbsp;SITES</a></div>
+                    </td>
+                    <td class="white"><img src="http://www.tripod.lycos.com/img/tabs/tab_mid.gif" alt="" width="17" height="17" border="0"></td>
+                    <td class="tabTitle" align="center">
+                        <div id="myaccountlink" onMouseOver="showMenu('myaccount');" onMouseOut="hideMenu('myaccount');"><a class="tabLink" href="/adm/redirect/www/service/manage/preferences">MY&nbsp;ACCOUNT</a></div>
+                    </td>
+                    <td align="right" class="orange"><img src="http://www.tripod.lycos.com/img/tabs/tab_end.gif" alt="" width="16" height="17" border="0"></td>
+                </tr>
+            </table>
+        </td>
+        <td class="white" height="17"> &nbsp; <a href="javascript:launchHelp('http://help.lycos.com/','LycosHelp');"><img src="http://www.tripod.lycos.com/img/common/icons/help.gif" alt="" border="0"></a>&nbsp;<a href="javascript:launchHelp('http://help.lycos.com/','LycosHelp');">help</a></td>
+	</tr><tr>
+        <td colspan="4"><img src="http://www.tripod.lycos.com/img/common/1x1.gif" alt="" width="1" height="12"></td>
+    </tr>
+
+        
+</table>
+
+
+<!--/tripod header-->
+
+<!-- PAGE CONTENT -->
+<table cellpadding="0" cellspacing="0" border="0" width="780">
+	<tr valign="top">
+		<td><img src="http://af.lygo.com/i/1x1.gif" width="14" height="1"></td>
+		<td width="468">
+			<table cellpadding="2" cellspacing="0" border="0" width="100%">
+				<tr>
+					<td>
+						<script type="text/javascript">
+if (objAdMgr.isSlotAvailable("banner")) {
+	objAdMgr.renderSlot("banner");
+}
+</script>
+<noscript>
+<a href="http://network.realmedia.com/RealMedia/ads/click_nx.ads/lycostripod/ros/468x60/wp/ss/a/576972@Position1?x"><img border="0" src="http://network.realmedia.com/RealMedia/ads/adstream_nx.ads/lycostripod/ros/468x60/wp/ss/a/576972@Position1" alt="banner ad" /></a>
+</noscript>
+
+					</td>
+				</tr>
+				<tr>
+					<td><img src="http://af.lygo.com/i/1x1.gif" width="1" height="8"></td>
+				</tr>
+				<tr>
+					<td class="textBlack">
+						<span class="textBigHeavy">Sorry, but the page or the file that you're looking for is not here.</span><br>
+						Try the search box below to find more information about your topic.
+					</td>
+				</tr>
+				<tr>
+					<td class="textBlack">
+						<a href="/adm/redirect/www">Return to Tripod</a>&nbsp;<span class="textRedHeavy">&#187;</span>
+					</td>
+				</tr>
+				<tr>
+					<td><img src="http://af.lygo.com/i/1x1.gif" width="1" height="4"></td>
+				</tr>
+				<tr>
+					<td><img src="http://www.tripod.lycos.com/img/myaccount/sep.gif" width="442" height="1"></td>
+				</tr>
+				<tr>
+					<td><img src="http://af.lygo.com/i/1x1.gif" width="1" height="4"></td>
+				</tr>
+				<tr>
+					<td class="textBlack">
+						<!-- removing dating search. this spot is available for something else. jma  -->
+					</td>
+				</tr>
+				<tr>
+					<td>
+	<div style="margin: 0 0 20px; width: 462px; float: left; background: #fff;">
+                <style type="text/css">
+<!--
+form  { display: inline; }
+input { display: inline; vertical-align: middle; }
+
+#srch {
+ margin: 0 auto;
+ padding: 20px 0 20px 20px;
+ background: #fff url(http://ly.lygo.com/ly/slic/img/srchBk.gif);
+ border: solid 1px #666;
+ color: #000;
+ font-weight: bold;
+ }
+
+#srch .fld {
+ border: 1px solid #333;
+ width: 215px;
+ height: 23px;
+ font-size: 14px;
+ font-weight: bold;
+ }
+
+#srch .btn {
+ margin: 0;
+ padding: 3px 5px;
+ cursor: pointer;
+ color: #fff;
+ background-color: #000;
+ border: 1px solid #333;
+ font-weight: bold;
+ }
+-->
+</style>
+
+<script type="text/javascript">
+<!--
+function lycos_get_search_referrer() {
+    var searchReferrers=[[/^http:\/\/search.msn.com\/.*[\?\&]q=([a-zA-Z0-9_\+%\-\.\: \'\"]+)/i, 1],
+                         [/^http:\/\/.*[\?\&]q=cache[^\+]*[\+]([a-zA-Z0-9_\+%\-\.\: \'\"]+)/i, 1],
+                         [/^http:\/\/.*looksmart.com\/.*[\?\&]key=([a-zA-Z0-9_\+%\-\.\: \'\"]+)/i, 1],
+                         [/^http:\/\/.*[\?\&\/](query|search|MT|q|p|ask|key|qkw|k|qry|K)=([a-zA-Z0-9_\+%\-\.\: \'\"]+)/i, 2]];
+    var query;
+    for (var i=0; i<searchReferrers.length; i++) {
+        var result = document.referrer.match(searchReferrers[i][0]);
+        if (result) {
+            query = unescape(result[searchReferrers[i][1]].replace("+", " "));
+            break;
+        }
+    }
+    return query;
+}
+
+
+function draw_search_box() {
+    if( lycos_get_search_referrer() )
+        var search_query_value = lycos_get_search_referrer();
+    else
+        var search_query_value = 'Search...';
+        //search_query_value = search_query_value.replace('"', "");
+         var searchbox = '<input type="text" name="query" value="' + search_query_value + '" class="fld" id="hws"/>';
+         document.write( searchbox );
+         document.getElementById( 'hws' ).focus();
+}
+//-->
+</script>
+
+
+<H3>This form is inoperational!</H3> <Provisional users can't create forms action="http://hotwiredsearch.com/results.php" method="get" name="form" target="_top">
+<img src="http://ly.lygo.com/ly/slic/img/logo.big.gif" width="252" height="47" alt="Hotwired Search" style="margin: 20px 100px;"/>
+<div id="srch">
+ Search the web: <script type="text/javascript">draw_search_box();</script>
+ <input type="submit" name="submit" value="Search" class="btn"/>
+</div>
+</form>
+        </div>
+					</td>
+				</tr>
+			</table>
+
+
+
+		</td>
+
+		<td><img src="http://af.lygo.com/i/1x1.gif" width="14" height="1"></td>
+		<td>   
+			 <!--new placement-->
+   			<table border="0" cellspacing="0" cellpadding="3" width="300">
+   				<tr>
+   					<td class="textBlack"bgcolor="#5A5A7B"><span class="textWhiteHeavy">
+   						LYCOS&nbsp;YELLOW&nbsp;PAGES</span>
+   						</td>
+   				</tr>
+   			</table>
+   			<table border="0" cellspacing="0" cellpadding="5" width="300">
+   					<tr>
+   							<td valign="middle" bgcolor="#ffffff"><a href="http://r.lycos.com/r/yp_Tripod/http://yellowpages.lycos.com/default.asp?SRC=lycos12"><img src="http://ly.lygo.com/ly/wg/e/yellowpages_62x62.jpg" alt="" width="62" height="62" border="0" hspace="0" vspace="0"></a></td>
+   							<td valign="top" align="left" bgcolor="#ffffff" class="textBlack">Lycos Yellow Pages - 
+							<br clear="all"><br clear="all">
+							<a href="http://r.lycos.com/r/yp_Tripod/http://yellowpages.lycos.com/default.asp?SRC=lycos12"><b>Find a business near you.</b></a>&nbsp;<span class="textRedHeavy">&#187;</span>
+							</td>
+   					</tr>
+
+   				</table>
+
+   			<!--end placement--><br />
+			<script type="text/javascript">
+if (objAdMgr.isSlotAvailable("messagingunit")) {
+	objAdMgr.renderSlot("messagingunit")
+}
+</script>
+<noscript>
+<a href="http://network.realmedia.com/RealMedia/ads/click_nx.ads/lycostripod/ros/300x250/wp/ss/a/576972@x15?x"><img border="0" src="http://network.realmedia.com/RealMedia/ads/adstream_nx.ads/lycostripod/ros/300x250/wp/ss/a/576972@x15" alt="messaging unit" /></a>
+</noscript>
+
+			<!--new placement-->
+			<br /><br />
+   			<table border="0" cellspacing="0" cellpadding="3" width="300">
+   				<tr>
+   					<td class="textBlack"bgcolor="#5A5A7B"><span class="textWhiteHeavy">
+   						LYCOS&nbsp;PHONE</span>
+   						</td>
+   				</tr>
+   			</table>
+   			<table border="0" cellspacing="0" cellpadding="5" width="300">
+   					<tr>
+   							<td valign="middle" bgcolor="#ffffff"><a href="http://lycos.globe7.com"><img src="http://ly.lygo.com/ly/wg/e/lycosphone_62x62.gif" alt="" width="62" height="62" border="0" hspace="0" vspace="0"></a></td>
+   							<td valign="top" align="left" bgcolor="#ffffff" class="textBlack">Your cellphone is so last year. 
+							<br clear="all"><br clear="all">
+							<a href="http://lycos.globe7.com"><b>Get Lycos Phone and get free incoming calls plus movie trailers, live tv, and mp3s</b></a>&nbsp;<span class="textRedHeavy">&#187;</span>
+							</td>
+   					</tr>
+   				</table>
+   			<!--end placement--><br>
+			</td>
+	</tr>
+</table>
+<img src="http://members.tripod.com/adm/ot_e404.gif?foof=yay" height="1" width="1">
+<p style="margin: 20px 20px">
+<!--leaderboard-->
+<script type="text/javascript">
+if (objAdMgr.isSlotAvailable("leaderboard")) {
+	objAdMgr.renderSlot("leaderboard")
+}
+</script>
+<noscript>
+<a href="http://network.realmedia.com/RealMedia/ads/click_nx.ads/lycostripod/ros/728x90/wp/ss/a/576972@Top1?x"><img border="0" src="http://network.realmedia.com/RealMedia/ads/adstream_nx.ads/lycostripod/ros/728x90/wp/ss/a/576972@Top1" alt="leaderboard ad" /></a>
+</noscript>
+
+<!--leaderboard end-->
+</p>
+
+<!--footer-->
+<!-- Format date for copyright -->
+
+
+<!--Start Footer Code-->
+<style type="text/css">
+.footer1, .footer1:visited {color:#000000; text-decoration:none;}
+.footerBlue {color:#0000FF; text-decoration:underline}
+.footer1a, .footer1a:visited {color:#000000;}
+.footer1a-privacy, .footer1a-privacy:visited {color:#000000; font-family:Verdana,Sans-serif; font-weight:bold;}
+.footer2, .footer2:visited {color:#FFFFFF; text-decoration:none;}
+</style>
+<script type="text/javascript">
+function isIE4() {
+return( navigator.appName.indexOf("Microsoft") != -1 && (navigator.appVersion.charAt(0)=='4') );
+ }
+function launchHelp(helpurl) {
+HelpWin = window.open(helpurl, 'HelpWindow','toolbar=yes,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,copyhistory=no,width=500,height=500');
+if( ! isIE4() ) {
+if (HelpWin.focus) {
+HelpWin.focus();
+}
+}
+if (HelpWin.focus!=null  &&  !isIE4()) 
+{
+HelpWin.focus();
+}
+if (HelpWin.opener == null) HelpWin.opener = window;
+HelpWin.opener.name = "LycosMain";
+}
+</script>
+<img src="http://hb.lycos.com/art_nb/1.gif" alt="" width="1" height="24"><br>
+<span style="font: 9px Verdana, sans-serif;">
+<!--Start Product-Specific Links Code-->
+<span style="color: #5a5a7b;">&nbsp;&nbsp;&nbsp;&nbsp;<b>Tripod:</b></span> 
+<a class="footerBlue" href="/adm/redirect/www/">Home</a>&nbsp;| <a class="footerBlue" href="/adm/redirect/www/about/map/">Site&nbsp;Map</a>&nbsp;| <a class="footerBlue" href="http://press.tripod.com">About&nbsp;Tripod</a>&nbsp;| <a class="footerBlue" href="/adm/redirect/www/international/">International</a>&nbsp;| <a class="footerBlue" onclick="launchHelp('http://help.lycos.com/tripod/','LycosHelp');return false" href="http://help.lycos.com/tripod/">Tripod&nbsp;Help</a>&nbsp;| <a class="footerBlue" onclick="launchHelp('http://help.lycos.com/newticket.php','LycosHelp');return false" href="http://help.lycos.com/newticket.php">Report Tripod Abuse</a>&nbsp;| <a class="footerBlue" href="/site_map/">Members</a>&nbsp;| <a class="footerBlue" href="http://www.angelfire.lycos.com/site_map/">Angelfire Members</a><br>
+<img src="http://hb.lycos.com/art_nb/1.gif" alt="" width="1" height="5"><br>
+<!--End Product-Specific Links Code-->
+</span>
+<table width="100%" cellpadding=0 cellspacing=0 border=0 bgcolor="#5A5A7B">
+<tr><td><img src="http://hb.lycos.com/art_nb/1.gif" height="1" width="760" alt=""></td></tr>
+</table>
+<table width="100%" cellpadding=0 cellspacing=0 border=0>
+<tr>
+<td bgcolor="#5A5A7B" nowrap><span style="color: #fff; font: 10px  Verdana, sans-serif;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>&raquo;</b>&nbsp;<a href="http://www.lycos.com/" class=footer2><b>Lycos.com</b></a>&nbsp;</font></td>
+<td bgcolor="#5A5A7B" width=17 align=right><img src="http://hb.lycos.com/art_nb/foot_angle.gif" width="17" height="17" alt=""></td>
+<td width="100%" bgcolor="#FFFFFF"><span style="white-space: nowrap;"><font face=Arial,Sans-serif size=1 color="#000000">&copy;  <a href="http://info.lycos.com/legal/legal.asp#copy" target="_blank" title="Copyright">Copyright</a> 2007, Lycos, Inc. Lycos is a registered trademark of Lycos, Inc. All Rights Reserved.</font></span></td>
+</tr>
+</table>
+<table width="100%" cellpadding=0 cellspacing=0 border=0 bgcolor="#5A5A7B">
+<tr><td><img src="http://hb.lycos.com/art_nb/1.gif" height="1" width="760" alt=""></td></tr>
+</table>
+<table width="100%" cellpadding=0 cellspacing=0 border=0>
+<tr>
+<td colspan=3 bgcolor="#FFFFFF"><font face=Arial,Sans-serif size=1 color="#999999">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://info.lycos.com/lycosinfo.asp" class=footer1>About Lycos</a>&nbsp;|&nbsp;<a onclick="launchHelp('http://help.lycos.com/tripod/','LycosHelp');return false" href="http://help.lycos.com/tripod/" class=footer1>Help</a>&nbsp;|&nbsp;<a href="http://www.lycos.com/lycosinc/jobs/" class=footer1>Jobs</a>&nbsp;|&nbsp;<a href="http://advertising.lycos.com/contactus.html" class=footer1>Advertise</a></font></td>
+<td bgcolor="#FFFFFF"><img src="http://hb.lycos.com/art_nb/1.gif" alt="" width="1" height="17"></td>
+</tr>
+</table>
+<table width="100%" cellpadding=0 cellspacing=0 border=0 bgcolor="#5A5A7B">
+<tr><td><img src="http://hb.lycos.com/art_nb/1.gif" height="1" width="760" alt=""></td></tr>
+</table>
+<img src="http://hb.lycos.com/art_nb/1.gif" alt="" width="1" height="3"><br>
+<font face=Arial,Sans-serif size=1 color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Your use of this website constitutes acceptance of the Lycos <a href="http://info.lycos.com/privacy/privacy.html" class=footer1a-privacy>Privacy Policy</a> and <a href="http://info.lycos.com/legal/legal.html" class=footer1a>Terms &amp; Conditions</a></font><br><br>
+
+<!--/footer-->
+<!-- START: Catman Footer -->
+<script type="text/javascript">
+objAdMgr.renderFooter();
+</script>
+
+<!-- END: Catman Footer -->
+</body>
+</html>
