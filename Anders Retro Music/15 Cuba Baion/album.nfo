@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<album>
+  <review />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-05-18 03:36:52</dateadded>
+  <title>Techmoan &amp; EOX Studios</title>
+  <year>2018</year>
+  <premiered>2018-01-01</premiered>
+  <releasedate>2018-01-01</releasedate>
+  <runtime>6</runtime>
+  <genre>Baion</genre>
+  <art>
+    <poster>C:\ProgramData\Jellyfin\Server\metadata\library\9f\9f6e3fa6e062d68b6086c0c2aa94be0d\folder.jpg</poster>
+  </art>
+  <artist>Anders Enger Jensen</artist>
+  <albumartist>Anders Enger Jensen</albumartist>
+  <track>
+    <title>Cuba Baion (Roland SC-55)</title>
+    <duration>02:47</duration>
+  </track>
+  <track>
+    <title>Cuba Baion (Roland SC-55)</title>
+    <duration>02:46</duration>
+  </track>
+</album>
