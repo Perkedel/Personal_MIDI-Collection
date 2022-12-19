@@ -503,7 +503,6 @@ D:\PRIVATE FOLDER\FILE JOEL ROBERT\MIDI\freemidi.org\OurSong.mid
 D:\PRIVATE FOLDER\FILE JOEL ROBERT\MIDI\freemidi.org\Pain-ThreeDaysGrace.mid
 D:\PRIVATE FOLDER\FILE JOEL ROBERT\MIDI\freemidi.org\panic!_at_the_disco-i_write_sins_not_tragedies.mid
 D:\PRIVATE FOLDER\FILE JOEL ROBERT\MIDI\freemidi.org\Paradise.mid
-C:\Users\joelr\Documents\starring codes\FalcoSoft Result\Converted\Pause01_Swing\Pause01_Swing.mid
 D:\PRIVATE FOLDER\FILE JOEL ROBERT\MIDI\freemidi.org\Payphone.mid
 D:\PRIVATE FOLDER\FILE JOEL ROBERT\MIDI\freemidi.org\pengantinbaruqasidah.mid.mid
 D:\PRIVATE FOLDER\FILE JOEL ROBERT\MIDI\freemidi.org\Perfect (2).mid
@@ -975,3 +974,45 @@ D:\PRIVATE FOLDER\FILE JOEL ROBERT\MIDI\freemidi.org\NewClouterD\WeveGotAWorldTh
 D:\PRIVATE FOLDER\FILE JOEL ROBERT\MIDI\freemidi.org\NewClouterD\Yazoo-Situation (1).mid
 D:\PRIVATE FOLDER\FILE JOEL ROBERT\MIDI\freemidi.org\NewClouterD\Yazoo-Situation.mid
 D:\PRIVATE FOLDER\FILE JOEL ROBERT\MIDI\freemidi.org\NewClouterE\Dynamite.mid
+D:\PRIVATE FOLDER\FILE JOEL ROBERT\MIDI\freemidi.org\NewClouterF\372LETHERGOPASENGER.mid.mid
+D:\PRIVATE FOLDER\FILE JOEL ROBERT\MIDI\freemidi.org\NewClouterF\Aintnootherman.mid
+D:\PRIVATE FOLDER\FILE JOEL ROBERT\MIDI\freemidi.org\NewClouterF\BadRomance.mid
+D:\PRIVATE FOLDER\FILE JOEL ROBERT\MIDI\freemidi.org\NewClouterF\BeautifulLiarFeatShakira.mid
+D:\PRIVATE FOLDER\FILE JOEL ROBERT\MIDI\freemidi.org\NewClouterF\BecauseOfYou.mid
+D:\PRIVATE FOLDER\FILE JOEL ROBERT\MIDI\freemidi.org\NewClouterF\BeverlyHills.mid
+D:\PRIVATE FOLDER\FILE JOEL ROBERT\MIDI\freemidi.org\NewClouterF\btrthemesongmidi.mid
+D:\PRIVATE FOLDER\FILE JOEL ROBERT\MIDI\freemidi.org\NewClouterF\Buttons.mid
+D:\PRIVATE FOLDER\FILE JOEL ROBERT\MIDI\freemidi.org\NewClouterF\Disturbed-SoundofSilence.mid
+D:\PRIVATE FOLDER\FILE JOEL ROBERT\MIDI\freemidi.org\NewClouterF\DontStopTheMusic.mid
+D:\PRIVATE FOLDER\FILE JOEL ROBERT\MIDI\freemidi.org\NewClouterF\FallsOnMe.mid
+D:\PRIVATE FOLDER\FILE JOEL ROBERT\MIDI\freemidi.org\NewClouterF\FeelingThis.mid
+D:\PRIVATE FOLDER\FILE JOEL ROBERT\MIDI\freemidi.org\NewClouterF\fingereleven-paralyzer.mid
+D:\PRIVATE FOLDER\FILE JOEL ROBERT\MIDI\freemidi.org\NewClouterF\GivesYouHell.mid
+D:\PRIVATE FOLDER\FILE JOEL ROBERT\MIDI\freemidi.org\NewClouterF\Glamorous.mid
+D:\PRIVATE FOLDER\FILE JOEL ROBERT\MIDI\freemidi.org\NewClouterF\HeyThereDelilah.mid
+D:\PRIVATE FOLDER\FILE JOEL ROBERT\MIDI\freemidi.org\NewClouterF\IKnowYouWantMe.mid
+D:\PRIVATE FOLDER\FILE JOEL ROBERT\MIDI\freemidi.org\NewClouterF\IWannaGo.mid
+D:\PRIVATE FOLDER\FILE JOEL ROBERT\MIDI\freemidi.org\NewClouterF\JustDance.mid
+D:\PRIVATE FOLDER\FILE JOEL ROBERT\MIDI\freemidi.org\NewClouterF\JustWantYouToKnow.mid
+D:\PRIVATE FOLDER\FILE JOEL ROBERT\MIDI\freemidi.org\NewClouterF\KeepsGettingBetter.mid
+D:\PRIVATE FOLDER\FILE JOEL ROBERT\MIDI\freemidi.org\NewClouterF\LoveSong.mid
+D:\PRIVATE FOLDER\FILE JOEL ROBERT\MIDI\freemidi.org\NewClouterF\MyHumps.mid
+D:\PRIVATE FOLDER\FILE JOEL ROBERT\MIDI\freemidi.org\NewClouterF\NoMore.mid
+D:\PRIVATE FOLDER\FILE JOEL ROBERT\MIDI\freemidi.org\NewClouterF\Oh.mid
+D:\PRIVATE FOLDER\FILE JOEL ROBERT\MIDI\freemidi.org\NewClouterF\OnlyU.mid
+D:\PRIVATE FOLDER\FILE JOEL ROBERT\MIDI\freemidi.org\NewClouterF\OverMyHead.mid
+D:\PRIVATE FOLDER\FILE JOEL ROBERT\MIDI\freemidi.org\NewClouterF\RedneckWoman.mid
+D:\PRIVATE FOLDER\FILE JOEL ROBERT\MIDI\freemidi.org\NewClouterF\RightRound.mid
+D:\PRIVATE FOLDER\FILE JOEL ROBERT\MIDI\freemidi.org\NewClouterF\RiverFlowsInYou(Multi-Tracked).mid
+D:\PRIVATE FOLDER\FILE JOEL ROBERT\MIDI\freemidi.org\NewClouterF\TeardropsOnMyGuitar.mid
+D:\PRIVATE FOLDER\FILE JOEL ROBERT\MIDI\freemidi.org\NewClouterF\TheSweetEscape.mid
+D:\PRIVATE FOLDER\FILE JOEL ROBERT\MIDI\freemidi.org\NewClouterF\Titanium.mid
+D:\PRIVATE FOLDER\FILE JOEL ROBERT\MIDI\freemidi.org\NewClouterF\tiwhateveryoudlike.mid
+D:\PRIVATE FOLDER\FILE JOEL ROBERT\MIDI\freemidi.org\NewClouterF\UndoIt.mid
+D:\PRIVATE FOLDER\FILE JOEL ROBERT\MIDI\freemidi.org\NewClouterF\W003.mid
+D:\PRIVATE FOLDER\FILE JOEL ROBERT\MIDI\freemidi.org\NewClouterF\W004.mid
+D:\PRIVATE FOLDER\FILE JOEL ROBERT\MIDI\freemidi.org\NewClouterF\WhenIGrowUp.mid
+D:\PRIVATE FOLDER\FILE JOEL ROBERT\MIDI\freemidi.org\NewClouterF\WhenYoureGone.mid
+D:\PRIVATE FOLDER\FILE JOEL ROBERT\MIDI\freemidi.org\NewClouterF\Whoknew.mid
+D:\PRIVATE FOLDER\FILE JOEL ROBERT\MIDI\freemidi.org\NewClouterF\Womanizer.mid
+D:\PRIVATE FOLDER\FILE JOEL ROBERT\MIDI\freemidi.org\NewClouterF\YouAndMe(2).mid
