@@ -1,0 +1,506 @@
+0/0242.mid:                   RealAudio sound file
+0/030pop.mid:                 HTML document, ASCII text, with CRLF line terminators
+0/041.mid:                    HTML document, ISO-8859 text, with CRLF line terminators
+0/089pop.mid:                 HTML document, ASCII text, with CRLF line terminators
+1/10000yr.mid:                              HTML document, ASCII text, with very long lines, with CRLF line terminators
+1/107cottagerow.gif:                        GIF image data, version 89a, 209 x 306
+1/10prom.mid:                               MacBinary III data with surprising version number
+1/11-c1a.jpg:                               JPEG image data, JFIF standard 1.01
+1/1223.mid:                                 HTML document, ASCII text, with CRLF, LF line terminators
+1/149203.mid:                               ASCII text
+2/2001.MID:                                             HTML document, ASCII text, with CRLF line terminators
+2/200103.mid:                                           ASCII text, with CRLF line terminators
+2/20years.mid:                                          ASCII text
+a/Adv.mid:                                                       ASCII text, with CRLF line terminators
+a/Aeroplane2.mid:                                                ASCII text
+a/Africa03.mid:                                                  data
+a/AnAffairToRemember.mid:                                        ASCII text
+a/AndILoveYouSo.mid:                                             ASCII text
+a/a_gift_of_a_thistle.mid:                                       ASCII text
+a/absence_of_fear.mid:                                           JPEG image data, JFIF standard 1.00, comment: "LEAD Technologies Inc. V1.01"
+a/adeste2.mid:                                                   ASCII text
+a/africa3.mid:                                                   ASCII text, with CRLF line terminators
+a/afuera.mid:                                                    ASCII text
+a/alifesochanged.mid:                                            HTML document, ASCII text, with very long lines, with CRLF line terminators
+a/alifesochanged2.mid:                                           HTML document, ASCII text, with very long lines, with CRLF line terminators
+a/allmylife.mid:                                                 HTML document, ASCII text, with CRLF, CR line terminators
+a/allmylife3.mid:                                                ASCII text
+a/allmyloving2.mid:                                              HTML document, ASCII text, with CRLF, CR line terminators
+a/alone06.mid:                                                   HTML document, ASCII text, with CRLF line terminators
+a/amb.mid:                                                       LHa (2.x) archive data [lh5]
+a/amc.mid:                                                       LHa (2.x) archive data [lh5]
+a/americantrilogy2.mid:                                          HTML document, ASCII text, with very long lines, with CRLF, LF line terminators
+a/andshewas.mid:                                                 data
+a/andyl15.mid:                                                   HTML document, ASCII text, with very long lines, with CRLF line terminators
+a/angelfountain.gif:                                             GIF image data, version 89a, 82 x 113
+a/angelsets.html???.mid:                                         HTML document, ASCII text, with very long lines, with CRLF, LF line terminators
+a/aquinoesasi.mid:                                               ASCII text
+a/aranjuez.mid:                                                  HTML document, UTF-8 Unicode text, with very long lines, with CRLF line terminators
+a/argentin.mid:                                                  ASCII text, with CRLF line terminators
+a/automan.mid:                                                   RIFF (little-endian) data, WAVE audio, MPEG Layer 3, mono 11025 Hz
+a/autumn_leon.MID:                                               HTML document, ASCII text, with CRLF line terminators
+a/axelf1.mid:                                                    ASCII text
+a/ayiran2.mid:                                                   ASCII text
+b/BECAUSE.mid:                                                                  ASCII text
+b/BeatIt2.mid:                                                                  ASCII text
+b/Beethoven3.mid:                                                               ASCII text, with CRLF line terminators
+b/Bob_marley.mid:                                                               data
+b/ba2.mid:                                                                      ASCII text
+b/babysong.mid:                                                                 RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 11025 Hz
+b/backforth.mid:                                                                HTML document, ASCII text, with CRLF, CR line terminators
+b/bar18.gif:                                                                    GIF image data, version 89a, 590 x 112
+b/bark.mid:                                                                     Sun/NeXT audio data: 8-bit ISDN mu-law, mono, 8000 Hz
+b/bb9.jpg:                                                                      JPEG image data, JFIF standard 1.01
+b/because_u_love_me.mid:                                                        MPEG ADTS, layer III, v1, 112 kbps, 44.1 kHz, JntStereo
+b/bgrnd20.jpg:                                                                  JPEG image data, JFIF standard 1.01
+b/bgrnd274.jpg:                                                                 JPEG image data, JFIF standard 1.01
+b/bitch03.mid:                                                                  RIFF (little-endian) data, WAVE audio, MPEG Layer 3, mono 11025 Hz
+b/bjean.mid:                                                                    ASCII text
+b/bluegrass.mid:                                                                GIF image data, version 89a, 200 x 70
+b/bluespiano.mid:                                                               data
+b/bm98.mid:                                                                     LHa (2.x) archive data [lh5]
+b/bolero2.mid:                                                                  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 11025 Hz
+b/bom.mid:                                                                      data
+b/books.html?.mid:                                                              HTML document, ASCII text, with very long lines, with CRLF line terminators
+b/border.mid:                                                                   HTML document, ASCII text, with CRLF line terminators
+b/bossbattle.mid:                                                               RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, stereo 22050 Hz
+b/boystomen.mid:                                                                ASCII text
+b/braveheart05.mid:                                                             ASCII text
+b/bump.mid:                                                                     MPEG ADTS, layer III,  v2.5,  24 kbps, 11.025 kHz, Monaural
+b/bussabasiengtien.mid:                                                         ASCII text
+b/buster2.mid:                                                                  ASCII text, with CRLF line terminators
+c/CantHelpFallingInLove.mid:                      ASCII text
+c/Canyon.mid:                                     ASCII text
+c/CherokeeNation.mid:                             ASCII text
+c/ClimbEveryMountain.mid:                         ASCII text
+c/Cricket.mid:                                    RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 11025 Hz
+c/c04014.mid:                                     ISO-8859 text, with CRLF line terminators
+c/c04027.mid:                                     ASCII text, with CRLF, CR line terminators
+c/calidrea1.mid:                                  ASCII text
+c/calyp7.mid:                                     ASCII text, with CRLF line terminators
+c/candycanebg.gif:                                GIF image data, version 89a, 200 x 200
+c/cannon_d2.mid:                                  ASCII text
+c/canon3.mid:                                     HTML document, ISO-8859 text, with very long lines, with CRLF line terminators
+c/canthelpfalling.mid:                            HTML document, ASCII text, with very long lines, with CRLF line terminators
+c/cantina17.mid:                                  HTML document, ASCII text, with very long lines, with CRLF line terminators
+c/cantstop3.mid:                                  ASCII text
+c/caribbean_blue.mid:                             ASCII text, with CRLF line terminators
+c/cat01.gif:                                      GIF image data, version 89a, 89 x 109
+c/catwalk.gif:                                    GIF image data, version 89a, 604 x 32
+c/chariot.mid:                                    ASCII text
+c/chariot03.mid:                                  data
+c/chariots05.mid:                                 ASCII text
+c/cheers1.mid:                                    ASCII text
+c/cherish1.mid:                                   ASCII text
+c/cherokee2.mid:                                  RIFF (little-endian) data, WAVE audio, MPEG Layer 3, stereo 11025 Hz
+c/cherokeeriver.mid:                              RIFF (little-endian) data, WAVE audio, MPEG Layer 3, stereo 11025 Hz
+c/chestnuts2.mid:                                 HTML document, ASCII text, with CRLF line terminators
+c/chocoholic_home.jpg:                            JPEG image data, JFIF standard 1.01
+c/chocoholic_next.jpg:                            JPEG image data, JFIF standard 1.01
+c/chriscandido.mid:                               HTML document, ASCII text, with CRLF line terminators
+c/coco.mid:                                       ASCII text, with CRLF line terminators
+c/coming_to_america.mid:                          ASCII text
+c/couldyoubeloved.mid:                            ASCII text
+c/courante.mid:                                   ASCII text, with CRLF line terminators
+c/crying06.mid:                                   ASCII text
+c/cubanpete.mid:                                  ASCII text
+c/cucharacha.mid:                                 HTML document, ASCII text, with CRLF, LF line terminators
+d/DIDNTDOIT.mid:                                       RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 11025 Hz
+d/Danca_da_fadinha.mid:                                ASCII text, with CRLF line terminators
+d/DancetotheMusic.mid:                                 ASCII text
+d/Darth.mid:                                           RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 11025 Hz
+d/DebussysClairedeLune.mid:                            ASCII text
+d/Dichant103.mid:                                      HTML document, ASCII text, with very long lines, with CRLF line terminators
+d/Dichant104.mid:                                      HTML document, ASCII text, with very long lines, with CRLF line terminators
+d/Dichant105.mid:                                      HTML document, ASCII text, with very long lines, with CRLF line terminators
+d/Dichant106.mid:                                      HTML document, ASCII text, with very long lines, with CRLF line terminators
+d/Dichant12.mid:                                       HTML document, ASCII text, with very long lines, with CRLF line terminators
+d/Dichant13.mid:                                       HTML document, ASCII text, with very long lines, with CRLF line terminators
+d/d-zip-a-adee-do-da1.mid:                             HTML document, ASCII text, with CRLF line terminators
+d/d5.mid:                                              MPEG ADTS, layer III,  v2.5,  24 kbps, 11.025 kHz, Monaural
+d/dadyhome.mid:                                        ASCII text
+d/dancewithmehenry.mid:                                HTML document, ASCII text, with CRLF, LF line terminators
+d/denochetodos.mid:                                    ASCII text
+d/diamnd.mid:                                          HTML document, ISO-8859 text, with very long lines, with CRLF, LF line terminators
+d/diminish.mid:                                        JPEG image data, JFIF standard 1.01
+d/dinoboss.mid:                                        RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, stereo 22050 Hz
+d/dmacbre1.mid:                                        ASCII text
+d/dntwana.mid:                                         HTML document, ISO-8859 text, with CRLF line terminators
+d/dontgobr1.mid:                                       ASCII text
+d/doorxm1a.gif:                                        GIF image data, version 87a, 235 x 223
+d/dreamsharer_angelw.mid:                              HTML document, ISO-8859 text, with very long lines, with CRLF line terminators
+d/dreamsharer_litl_angels.mid:                         HTML document, ISO-8859 text, with very long lines, with CRLF, LF line terminators
+d/dreamsharer_reverie.mid:                             HTML document, ASCII text, with very long lines, with CRLF line terminators
+d/drive.mid:                                           JPEG image data, JFIF standard 1.02
+e/EddieCantorMedley.mid:                               ASCII text
+e/eagles_witchywoman.mid:                              ASCII text
+e/earthbnd.mid:                                        HTML document, ASCII text, with CRLF line terminators
+e/easy12.mid:                                          ASCII text
+e/eldiaque.mid:                                        ASCII text
+e/endless2.mid:                                        ASCII text
+e/enoughbaby.mid:                                      HTML document, ASCII text, with very long lines, with CRLF line terminators
+e/enquantohouversol.mid:                               RIFF (little-endian) data, WAVE audio, MPEG Layer 3, stereo 12000 Hz
+e/entertainer05.mid:                                   ASCII text
+e/enya3.mid:                                           ASCII text
+e/erevshos.mid:                                        ASCII text
+e/espanhola03.mid:                                     HTML document, ASCII text, with CRLF, LF line terminators
+e/eternal.MID:                                         ASCII text
+e/everybody03.mid:                                     ASCII text
+e/everybr.mid:                                         ASCII text
+e/exodus08.mid:                                        ASCII text
+e/express.mid:                                         HTML document, ASCII text, with CRLF line terminators
+f/FWord.mid:                                             RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 8000 Hz
+f/File.mid:                                              MPEG ADTS, layer III, v1,  32 kbps, 44.1 kHz, Monaural
+f/ForTheGoodTimes.mid:                                   ASCII text
+f/Fortuna.mid:                                           ASCII text, with CRLF line terminators
+f/fav.mid:                                               RIFF (little-endian) data, WAVE audio, MPEG Layer 3, stereo 11025 Hz
+f/featherg2.mid:                                         ASCII text
+f/firstep.mid:                                           data
+f/forrest5.mid:                                          ASCII text
+f/friend7.mid:                                           ASCII text
+f/fun17.gif:                                             GIF image data, version 89a, 48 x 48
+g/Gledemaglede.mid:                         data
+g/getupstandup.mid:                         ASCII text
+g/ghostrid1.mid:                            ASCII text
+g/gift4.jpg:                                JPEG image data, JFIF standard 1.01
+g/givethanks06.mid:                         ASCII text
+g/glorylove.mid:                            HTML document, ASCII text, with CRLF line terminators
+g/godfath2.mid:                             data
+g/got_to_get_you_into_my_life.mid:          JPEG image data, JFIF standard 1.02
+g/gotpics.mid:                              MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, Stereo
+g/gp_danse.mid:                             ASCII text
+g/green2.jpg:                               JPEG image data, JFIF standard 1.01
+g/greenlace2.jpg:                           JPEG image data, JFIF standard 1.01
+g/gul.mid:                                  data
+h/Heartofgold.mid:                              data
+h/HelloDolly.mid:                               ASCII text
+h/HoneyPie.mid:                                 ASCII text
+h/halelusc.mid:                                 ASCII text, with CRLF line terminators
+h/hall_wee.mid:                                 HTML document, ASCII text, with CRLF line terminators
+h/halleluia.mid:                                ASCII text, with CRLF line terminators
+h/hallowen.mid:                                 ASCII text, with CRLF line terminators
+h/happiness_is_a_warm_gun.mid:                  data
+h/hapysong1.mid:                                ASCII text
+h/hasenwlz.mid:                                 ASCII text, with CRLF line terminators
+h/healing3.mid:                                 data
+h/hello.MID:                                    HTML document, ASCII text, with CRLF line terminators
+h/hereweare3.mid:                               ASCII text
+h/hex5.mid:                                     ASCII text, with CRLF line terminators
+h/hey_song.mid:                                 empty 
+h/hiatt.mid:                                    IFF data, AIFF audio
+h/high3.mid:                                    ASCII text
+h/higher3.mid:                                  data
+h/hino1.mid:                                    RIFF (little-endian) data, WAVE audio, MPEG Layer 3, mono 11025 Hz
+h/holiday2.mid:                                 data
+h/honesty2.mid:                                 data
+h/horse03.mid:                                  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, stereo 22050 Hz
+h/hotelcal1.mid:                                ASCII text
+h/house05.mid:                                  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, stereo 22050 Hz
+h/how_do_i_live.mid:                            MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+h/however.mid:                                  ASCII text
+h/hukilau(1).mid:                               ASCII text
+h/hulahand.mid:                                 ASCII text
+i/ICanSeeClearly.mid:                           ASCII text
+i/Inthemood.mid:                                HTML document, ASCII text, with very long lines, with no line terminators
+i/Iwillsurvive.mid:                             ASCII text
+i/ifuhadmylove1.mid:                            ASCII text
+i/illbsee.mid:                                  ASCII text
+i/imhawaii(1).mid:                              ASCII text
+i/imposs2.mid:                                  ASCII text
+i/imsorry03.mid:                                ASCII text
+i/index.html???.mid:                            HTML document, ASCII text
+i/index.html??????.mid:                         HTML document, ISO-8859 text, with very long lines, with CRLF line terminators
+i/interf.mid:                                   ASCII text, with CRLF line terminators
+i/intro06.mid:                                  ASCII text
+i/invisible.gif:                                GIF image data, version 89a, 20 x 19
+i/ipagirl.mid:                                  ASCII text
+i/ironlionzion.mid:                             ASCII text
+i/isecondthat.mid:                              GIF image data, version 87a, 3 x 500
+i/ishotthesheriff.mid:                          ASCII text
+i/island2.mid:                                  HTML document, ISO-8859 text, with very long lines, with CRLF, LF line terminators
+i/iwantuback.mid:                               ASCII text
+i/iwill2.mid:                                   HTML document, ASCII text, with very long lines, with CRLF line terminators
+i/iwillsurvive1.mid:                            ASCII text
+j/Java_01.mid:                                    HTML document, ISO-8859 text, with very long lines, with CRLF line terminators
+j/jambalaya1.mid:                                 ASCII text
+j/japazalea.mid:                                  data
+j/japblue.mid:                                    data
+j/japflavia.mid:                                  data
+j/jealous.mid:                                    ASCII text
+j/jenniferpaige-crush1.mid:                       ASCII text
+j/jikaya5.mid:                                    ASCII text
+j/jjescapade.mid:                                 ASCII text
+j/jjjhs.mid:                                      HTML document, ASCII text, with CRLF, CR line terminators
+j/joywrld.mid:                                    GIF image data, version 89a, 32 x 32
+j/jump08.mid:                                     data
+k/KeeperoftheStars.mid:                        ASCII text
+k/KeeperoftheStars2.mid:                       ASCII text
+k/KeeperoftheStars3.mid:                       ASCII text
+k/k.mid:                                       RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, stereo 22050 Hz
+k/keizi.MID:                                   HTML document, ASCII text, with CRLF line terminators
+k/kenbanb.jpg:                                 JPEG image data, JFIF standard 1.01
+k/kenth.wav:                                   RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+k/kentha.jpg:                                  JPEG image data, JFIF standard 1.01
+k/kenthb.jpg:                                  JPEG image data, JFIF standard 1.01
+k/kenthc.jpg:                                  JPEG image data, JFIF standard 1.01
+l/LV.mid:                                            ASCII text
+l/Laugh.mid:                                         Sun/NeXT audio data: 8-bit ISDN mu-law, mono, 8000 Hz
+l/LimpBiz.mid:                                       RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+l/LoveLetters.mid:                                   ASCII text
+l/LoveLettersInTheSand2.mid:                         ASCII text
+l/l-u-hap.mid:                                       HTML document, ASCII text, with CRLF line terminators
+l/lacopa.mid:                                        ASCII text
+l/ladyinre1.mid:                                     ASCII text
+l/lalalalovesong.mid:                                ASCII text
+l/lavidaloca1.mid:                                   ASCII text
+l/lavidaloca2.mid:                                   HTML document, ASCII text, with very long lines, with CRLF line terminators
+l/law.mid:                                           RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 11025 Hz
+l/layla07.mid:                                       data
+l/lecygne4763.mid:                                   ASCII text
+l/lemon5.mid:                                        ASCII text, with CRLF line terminators
+l/lie_myself.mid:                                    ASCII text
+l/ljuscl2a.gif:                                      GIF image data, version 87a, 35 x 82
+l/lookin_out_my_back_door.mid:                       HTML document, ASCII text, with CRLF line terminators
+l/lou_bega_-_mambo_no_51.mid:                        ASCII text
+l/lovewil2.mid:                                      ASCII text
+l/lucia1a.gif:                                       GIF image data, version 87a, 69 x 169
+l/lucia1b.gif:                                       GIF image data, version 87a, 189 x 173
+l/lussek1a.gif:                                      GIF image data, version 87a, 64 x 97
+m/Macgyver_Theme.mid:                                                          ASCII text, with CRLF line terminators
+m/MakeTheWorldGoAway.mid:                                                      ASCII text
+m/MariaElena.mid:                                                              ASCII text
+m/Message.mid:                                                                 Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, Stereo
+m/Missionimpossible.mid:                                                       RIFF (little-endian) data, WAVE audio, MPEG Layer 3, stereo 22050 Hz
+m/MoonMix.mid:                                                                 MacBinary III data with surprising version number
+m/Music.mid:                                                                   MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+m/MyFunnyValentine.mid:                                                        ASCII text
+m/MyWay.mid:                                                                   ASCII text
+m/margarit.mid:                                                                data
+m/marioinsnow.mid:                                                             HTML document, ASCII text, with very long lines
+m/market3.mid:                                                                 RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, stereo 22050 Hz
+m/meg.mid:                                                                     LHa (2.x) archive data [lh5]
+m/memories07.mid:                                                              HTML document, ISO-8859 text, with very long lines, with CRLF, LF line terminators
+m/memory_of_trees.mid:                                                         data
+m/men.mid:                                                                     HTML document, ASCII text, with very long lines, with CRLF, LF line terminators
+m/miamivic1.mid:                                                               ASCII text
+m/middleboss.mid:                                                              RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, stereo 22050 Hz
+m/midi104.mid:                                                                 ASCII text
+m/mint.gif:                                                                    GIF image data, version 89a, 96 x 96
+m/misimp.mid:                                                                  HTML document, ASCII text, with very long lines, with CRLF line terminators
+m/missingyou.mid:                                                              Sun/NeXT audio data: 8-bit ISDN mu-law, mono, 8012 Hz
+m/mission-5.mid:                                                               ASCII text
+m/missyou.mid:                                                                 ASCII text
+m/mnem.mid:                                                                    HTML document, ASCII text, with very long lines, with CRLF, LF line terminators
+m/mohicans.mid:                                                                MacBinary III data with surprising version number
+m/mongo.mid:                                                                   HTML document, ASCII text, with CRLF line terminators
+m/monkey04.mid:                                                                ASCII text, with CRLF line terminators
+m/monkthem.mid:                                                                HTML document, ASCII text, with CRLF line terminators
+m/montygot.mid:                                                                HTML document, ISO-8859 text, with very long lines, with CRLF line terminators
+m/moon_revenge.mid:                                                            RIFF (little-endian) data, WAVE audio, MPEG Layer 3, mono 22050 Hz
+m/moonlightsonata3.mid:                                                        ASCII text
+m/move.mid:                                                                    Yamaha SMAF file
+m/mrs_rob1.mid:                                                                ASCII text
+m/mshaddai.mid:                                                                Apple QuickTime movie (fast start)
+m/muppets1.mid:                                                                ASCII text, with CRLF line terminators
+m/music-40.mid:                                                                HTML document, ASCII text, with very long lines
+m/musicbox-6.mid:                                                              ASCII text
+m/musiclist.mid:                                                               ASCII text, with CRLF line terminators
+m/musik.mid:                                                                   ASCII text, with CRLF line terminators
+m/my_girl.mid:                                                                 HTML document, ASCII text
+m/my_heart_will_go_on.mid:                                                     HTML document, ISO-8859 text, with CRLF, CR line terminators
+m/myfatherseyes2.mid:                                                          ASCII text
+m/myheartwillgoon.mid:                                                         HTML document, ASCII text
+m/myonlylove.mid:                                                              HTML document, ASCII text, with CRLF line terminators
+n/No_woman.mid:                                                 ASCII text
+n/Nostalgia.mid:                                                ASCII text
+n/nagano.mid:                                                   ASCII text
+n/namusic.mid:                                                  ASCII text
+n/needyou.mid:                                                  MacBinary III data with surprising version number
+n/negra.mid:                                                    ASCII text
+n/newyork1.mid:                                                 ASCII text
+n/next.jpg:                                                     JPEG image data, JFIF standard 1.00, comment: "LEAD Technologies Inc. V1.01"
+n/nightlife.mid:                                                HTML document, ASCII text, with very long lines
+n/no_woman.mid:                                                 ASCII text
+n/norwegian_wood2.mid:                                          GIF image data, version 89a, 157 x 105
+o/OnEaglesWings.mid:                               HTML document, ASCII text, with very long lines, with CRLF, LF line terminators
+o/ocean04.mid:                                     ASCII text
+o/ocean2.mid:                                      RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 8012 Hz
+o/oldphone.mid:                                    MPEG ADTS, layer III, v1,  32 kbps, 44.1 kHz, Monaural
+o/olympic1.mid:                                    ASCII text
+o/olympic_barcelona92.mid:                         ASCII text
+o/olympic_lillihammer94.mid:                       ASCII text
+o/onelove.mid:                                     ASCII text
+o/onethat.mid:                                     data
+o/only_a_northern_song.mid:                        data
+o/onlyth.mid:                                      HTML document, ASCII text, with CRLF, LF line terminators
+o/oops.html?.mid:                                  HTML document, ASCII text, with very long lines, with CRLF line terminators
+o/ordinary1.mid:                                   ASCII text
+o/ozzy02.mid:                                      HTML document, ASCII text
+p/PISTOLSHOT.mid:                                           RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+p/PowerOfLove.mid:                                          ASCII text
+p/palabrasdeamor.mid:                                       ASCII text
+p/palestr.mid:                                              ASCII text
+p/peaceful05.mid:                                           data
+p/peanuts3.mid:                                             HTML document, ASCII text, with CRLF line terminators
+p/penny_lane.mid:                                           PC bitmap, Windows 3.x format, 320 x 240 x 24
+p/people3.mid:                                              RIFF (little-endian) data, WAVE audio, 4 channels 544501094 Hz
+p/perrymas.mid:                                             HTML document, ASCII text, with CRLF, CR line terminators
+p/piano07.mid:                                              ASCII text
+p/pianoman03.mid:                                           data
+p/pinkpant1.mid:                                            ASCII text
+p/pj.mid:                                                   data
+p/please_please_me.mid:                                     data
+p/popeye1.mid:                                              ASCII text
+p/praisego.mid:                                             HTML document, ASCII text, with CRLF line terminators
+p/prev.jpg:                                                 JPEG image data, JFIF standard 1.00, comment: "LEAD Technologies Inc. V1.01"
+q/quedureparasempre.mid:                          HTML document, ASCII text, with very long lines, with CRLF line terminators
+q/queer03.mid:                                    HTML document, ASCII text, with very long lines, with CRLF, LF line terminators
+r/rabbithill.mid:                                        ASCII text
+r/radiosng.mid:                                          JPEG image data, JFIF standard 1.01
+r/rain-7.mid:                                            ASCII text, with CRLF line terminators
+r/rain-g.mid:                                            data
+r/rainbow05.mid:                                         HTML document, ASCII text, with CRLF line terminators
+r/rainman1.mid:                                          ASCII text
+r/reach3.mid:                                            ASCII text
+r/redemptionsong.mid:                                    ASCII text
+r/redwine1.mid:                                          ASCII text
+r/renato_russo_strani_amori.mid:                         ASCII text, with CRLF line terminators
+r/renato_russo_strani_amori2.mid:                        RIFF (little-endian) data, WAVE audio, MPEG Layer 3, stereo 11025 Hz
+r/rescue2.mid:                                           HTML document, ASCII text, with CRLF line terminators
+r/revol.mid:                                             ASCII text
+r/ridelike1.mid:                                         ASCII text
+r/rider2.mid:                                            ASCII text
+r/riderstm.mid:                                          ASCII text
+r/rocktree.mid:                                          ASCII text, with CRLF line terminators
+r/rockymthigh.mid:                                       AIX core file fulldump 32-bit, \377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377 64-bit, \377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377
+r/romancedeamor.mid:                                     ASCII text
+r/rosanna1.mid:                                          ASCII text
+r/rose_leaf_rag.mid:                                     HTML document, ASCII text, with CRLF, CR line terminators
+r/runaway1.mid:                                          ASCII text
+s/SPAIN.MID:                                                HTML document, ASCII text, with CRLF line terminators
+s/SailAway.mid:                                             data
+s/SeptemberSong.mid:                                        ASCII text
+s/SockhopRag.mid:                                           ASCII text
+s/SockhopRag2.mid:                                          ASCII text
+s/SomethingInTheWaySheMoves.mid:                            ASCII text
+s/Somewhere2.mid:                                           ASCII text
+s/StLouisBlues.mid:                                         ASCII text
+s/Striving.mid:                                             ASCII text
+s/Summer3.mid:                                              HTML document, ASCII text, with CRLF, LF line terminators
+s/SuspiciousMinds.mid:                                      ASCII text
+s/s3.mid:                                                   RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+s/sabda4.mid:                                               HTML document, ASCII text, with very long lines, with CRLF line terminators
+s/sadeness1.mid:                                            ASCII text
+s/saintkim1.mid:                                            ASCII text
+s/saluetg.mid:                                              HTML document, ISO-8859 text, with CRLF line terminators
+s/sammi09.mid:                                              HTML document, ASCII text, with very long lines, with CRLF line terminators
+s/savequen.mid:                                             ASCII text, with CRLF line terminators
+s/sawyer.mid:                                               data
+s/sea.mid:                                                  LHa (2.x) archive data [lh5]
+s/seacruise.mid:                                            ASCII text
+s/search_light_rag.mid:                                     HTML document, ASCII text, with CRLF, CR line terminators
+s/sgt-pepper.mid:                                           HTML document, ASCII text
+s/sheblvsinme.mid:                                          ASCII text
+s/sign1.jpg:                                                JPEG image data, JFIF standard 1.01
+s/simpsons1.mid:                                            ASCII text
+s/singingrain2.mid:                                         ASCII text, with CRLF line terminators
+s/sir_swlk.mid:                                             ASCII text, with CRLF line terminators
+s/siren2.mid:                                               RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 8000 Hz
+s/sisteract.mid:                                            ASCII text
+s/skimusi.mid:                                              ASCII text, with CRLF line terminators
+s/sledgehm1.mid:                                            ASCII text
+s/sleep5.mid:                                               ASCII text, with CRLF line terminators
+s/sleigh3.mid:                                              ASCII text, with CRLF line terminators
+s/smellsliketeenspirit.mid:                                 data
+s/smooth1.mid:                                              ASCII text
+s/smrpg.mid:                                                HTML document, ASCII text, with CRLF line terminators
+s/solitudine.mid:                                           ASCII text, with CRLF line terminators
+s/somebody2.mid:                                            ASCII text
+s/someonehere.mid:                                          ASCII text
+s/sometimes1.mid:                                           ASCII text
+s/sou.mid:                                                  LHa (2.x) archive data [lh5]
+s/soundsil.mid:                                             HTML document, ASCII text, with no line terminators
+s/stair_h2.mid:                                             HTML document, ASCII text, with very long lines, with CRLF line terminators
+s/staying1.mid:                                             ASCII text
+s/stereo.mid:                                               RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+s/summrsky.mid:                                             HTML document, ASCII text, with CRLF line terminators
+s/suna.mid:                                                 ASCII text
+s/swans.mid:                                                Sun/NeXT audio data: 8-bit linear PCM [REF-PCM], mono, 11127 Hz
+t/T0.mid:                                                                         RIFF (little-endian) data, WAVE audio, GSM 6.10, mono 11025 Hz
+t/ThatsWhatFriendsAreFor.mid:                                                     ASCII text
+t/Thedance.mid:                                                                   HTML document, ASCII text, with very long lines, with CRLF line terminators
+t/TimeOfMyLife.mid:                                                               ASCII text
+t/Tinh_thoi_xot_xa.mid:                                                           ASCII text
+t/taboo(1).mid:                                                                   ASCII text
+t/tainted.mid:                                                                    Apple QuickTime movie (fast start)
+t/tasteofhoney.mid:                                                               ASCII text
+t/teal2.mid:                                                                      RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 11025 Hz
+t/tearsihe1.mid:                                                                  ASCII text
+t/teenspirit.mid:                                                                 HTML document, ASCII text
+t/the-memory-remains.mid:                                                         HTML document, ASCII text
+t/the_girl_from_yesterday.mid:                                                    HTML document, ASCII text, with CRLF line terminators
+t/thebulls.mid:                                                                   ASCII text
+t/theflame.mid:                                                                   ASCII text
+t/theoly.mid:                                                                     ASCII text
+t/thepowerofthedream.mid:                                                         ASCII text
+t/thewaywewere.mid:                                                               ASCII text
+t/this_boy.mid:                                                                   data
+t/thomas.mid:                                                                     ASCII text, with CRLF line terminators
+t/threebirds.mid:                                                                 ASCII text
+t/thrill2.mid:                                                                    ASCII text
+t/thunder.mid:                                                                    ASCII text
+t/togetheragain.mid:                                                              ASCII text
+t/tomorrow.mid:                                                                   data
+t/topgun2.mid:                                                                    ASCII text
+t/totw.mid:                                                                       data
+t/track04.mid:                                                                    RIFF (little-endian) data, WAVE audio, mono 8000 Hz
+t/track15.mid:                                                                    RIFF (little-endian) data, WAVE audio, mono 8000 Hz
+t/track31.mid:                                                                    RIFF (little-endian) data, WAVE audio, mono 8000 Hz
+t/track5.mid:                                                                     Microsoft ASF
+t/ts2.mid:                                                                        HTML document, ISO-8859 text, with very long lines, with CRLF, LF line terminators
+t/turnaround3.mid:                                                                ASCII text
+t/twilight03.mid:                                                                 ASCII text
+t/twinpeak1.mid:                                                                  ASCII text
+t/twistandshout2.mid:                                                             HTML document, ASCII text, with CRLF, CR line terminators
+t/two_of_us.mid:                                                                  JPEG image data, JFIF standard 1.01
+u/U21.mid:                                    data
+u/under_pr.mid:                               ASCII text
+u/unforg2.mid:                                ASCII text
+u/untitled06.mid:                             ASCII text
+v/Vring.mid:                                       Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1,  32 kbps, 44.1 kHz, Monaural
+v/valentine04.mid:                                 ASCII text
+v/victoria.mid:                                    HTML document, ISO-8859 text
+v/vieni_dal_libano_1.mid:                          ASCII text
+v/viento2.mid:                                     ASCII text
+v/view1.jpg:                                       JPEG image data, JFIF standard 1.01
+v/virgin2.mid:                                     HTML document, ASCII text, with CRLF line terminators
+w/WelcomeToMyWorld.mid:                                         ASCII text
+w/WhereDoesMyHeart.mid:                                         HTML document, ASCII text, with CRLF line terminators
+w/WhereHaveAllTheFlowersGone.mid:                               ASCII text
+w/WhoWantGiveUP.mid:                                            ASCII text
+w/waikiki.mid:                                                  ASCII text
+w/war25.mid:                                                    ASCII text
+w/wayitis1.mid:                                                 ASCII text
+w/weddings.html???.mid:                                         HTML document, ASCII text, with very long lines, with CRLF, LF line terminators
+w/welcome3.mid:                                                 RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+w/whenyouwishuponastar.mid:                                     ASCII text
+w/whereorwhen.mid:                                              ASCII text
+w/wholenew1.mid:                                                ASCII text
+w/willyous.mid:                                                 data
+w/windbeneathmywings03.mid:                                     ASCII text
+w/windwing.mid:                                                 HTML document, ASCII text, with CRLF line terminators
+w/windxm1a.gif:                                                 GIF image data, version 87a, 238 x 248
+w/winter5.mid:                                                  ASCII text, with CRLF line terminators
+w/wstreet.mid:                                                  ASCII text
+x/xtree-b.gif:               GIF image data, version 89a, 134 x 110
+x/xutz.mid:                  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+y/YoullNeverWalkAlone.mid:                                             ASCII text
+y/ygvm.mid:                                                            MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, Stereo
+y/young2.mid:                                                          ASCII text
+y/yourestilltheone.mid:                                                ASCII text
+z/zahra.mid:                                        RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, stereo 44100 Hz
+z/zanodre.mid:                                      ASCII text
+z/zelda3.mid:                                       RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, stereo 22050 Hz
+z/zhyrule.mid:                                      RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, stereo 22050 Hz
+z/zhyrulef.mid:                                     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, stereo 22050 Hz
+z/zoom.mid:                                         ASCII text
