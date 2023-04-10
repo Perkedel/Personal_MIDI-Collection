@@ -1,0 +1,180 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<title>Angelfire page not found</title>
+<script language="javascript">
+<!--
+
+var popupURL = "/sys/tbngerr.html";
+
+var adname = "Ad";
+var popup = null;
+
+function openWin () {
+	popup = window.open(popupURL,adname,'toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=0,resizable=0,width=488,height=117');
+	if(popup != null) {
+		popup.location = popupURL;
+		if( navigator.appName.substring(0,8) == "Netscape" ) {
+			popup.location = popupURL;
+			popup.opener = self;
+		}
+		if( navigator.appName == "Netscape" ) {
+			popup.window.focus();
+        }
+        self.name = "main";
+    }
+}
+
+// -->
+</script>
+</head>
+<body bgcolor=#fffff0 link="#000099" vlink="#000066" topmargin="3" marginheight="3" onLoad="openWin()">
+<center>
+
+<form method=post action=/cgi-bin/bedit>
+<a href=/><img width="176" height="47" src="/images/afx4ah.gif" alt="Angelfire Logo" border=0></a>
+</center>
+<center>
+<font face="arial,verdana,helvetica" size=-2 color=#000000>
+F&nbsp;&nbsp;
+R&nbsp;&nbsp;
+E&nbsp;&nbsp;
+E&nbsp;&nbsp;
+ &nbsp;&nbsp;
+ &nbsp;&nbsp;
+P&nbsp;&nbsp;
+A&nbsp;&nbsp;
+G&nbsp;&nbsp;
+E&nbsp;&nbsp;
+S&nbsp;&nbsp;
+</font>
+</center>
+
+<center>
+<input type=hidden name=login value="Log In">
+<table border=0 cellspacing=6 cellpadding=6 width=600 align=center>
+<tr><td bgcolor=steelblue>
+<table border=0 cellspacing=0 cellpadding=0 width=588 align=center>
+<tr><td bgcolor="lime">
+<table border=0 cellspacing=2 cellpadding=6 width=586 align=center>
+<tr><td bgcolor=#99cccc>
+<font face="arial,verdana,helvetica" size=3>
+We couldn't find the page that you're looking for.
+Please check that the URL you've entered is correct.
+Or take a break and <a href="/">get a FREE Web Page at Angelfire!</a>
+</font>
+</td></tr>
+</table>
+</td></tr>
+</table>
+</td></tr>
+</table>
+<center>
+
+<input type=hidden name=login value="Log In">
+<table border=0 cellspacing=6 cellpadding=6 width=600 align=center>
+<tr><td width=33% bgcolor=#99cccc>
+<font face="arial,verdana,helvetica" size=-1>
+&nbsp;Get the <i>FASTEST</i> page creation and hosting service on the planet!
+<a href=/doc/about.html>Without all the blather!</a>
+</i></font>
+</td>
+
+<td width=33% bgcolor=#99cccc>
+<center>
+<font face="arial,verdana,helvetica" size=-1>
+<A HREF="http://linktracker.tripod.com/angelfire/404/lycostrafaffil/_h_/www.lycos.com/affiliateprogram/">
+<B>Earn Cash</B></A>
+<BR>
+for Your Site
+<P>
+Power-surf with the<br>
+<a href="http://linktracker.tripod.com/angelfire/lycos_neoplanet/_h_/lycos.neoplanet.com/"><b>Free Lycos Browser!</b></a></font>
+</center>
+
+</td><td width=33% bgcolor=#99cccc>
+
+<font size=-1 face=arial,verdana,helvetica>
+<li><a href=/doc/sitemap.html>Site Map and Info</a>
+<li><A HREF="/doc/privacy.html">Privacy Policy</A>
+<li><a href=http://email.angelfire.com/>Free Angelfire Email</a>
+<li><a href=http://homepages.whowhere.com/Online_Communities/Angelfire/>Search/Browse Angelfire</a>
+<li><a href="/cgi-bin/ct?ad=messagebd&vp=/mp.clicked&ru=http://boards.lycos.com/">Message Boards</a>
+<li><A HREF="http://linktracker.tripod.com/angelfire/404/best/_h_/www.angelfire.com/best.shtml">Our Page of the Month</A>
+</font>
+</td></tr>
+</table>
+<center><i>You make the <A HREF="http://linktracker.tripod.com/angelfire/404/best/_h_/www.angelfire.com/best.shtml">pages</A>...  We make it easy.</i>
+</center>
+<img src=/images/dot.gif border=0 width=1 height=7><br>
+
+<center>
+<table cellpadding=0 cellspacing=0 border=0 width=600>
+<tr><td align=center>
+<a href=/register.shtml>
+<img src=/images/butreg.gif border=0></a>
+</td><td align=center>
+<a href=/login.shtml>
+<img src=/images/butlog.gif border=0></a>
+</td></tr>
+</table>
+</center>
+<p>
+
+<table bgcolor=#3399cc border=0 cellpadding=3 width=600><tr><td>
+<table bgcolor=#66cccc border=1 cellspacing=0 width=600>
+<tr><td width=110 bgcolor=#66cccc rowspan=2 align=center valign=middle>
+
+<font size="2" face="arial,helvetica">
+<a href="/cgi-bin/ct?ad=booklink&vp=/index.clicked&ru=http://barnesandnoble.bfast.com/booklink/click?sourceid=40989&categoryid=App_Page"><img src="/partner/sell_books_106x60.gif" width=106 height=60></a></font>
+
+<font size="2" face="arial,helvetica">
+<a
+href="/cgi-bin/ct?ad=equifax&vp=/angelinfo.clicked&ru=http://www.equifax.com/consumers/consumers.html"><img
+src="/partner/equifax_anim.gif" width=106 height=60></a></font>
+</td><td width= 490 bgcolor=#66cccc align=center valign=middle>
+
+
+<SCRIPT LANGUAGE="JavaScript1.1" SRC="http://adproxy.whowhere.com/ad.cgi?SITE=ANGELFIRE&SERVICE=HOMEPAGES&AREA=.ANGELFIRE.HOMEPAGES.STATIC.BANNER1.&AdServer=WW_accipiter&response_type=JS"></SCRIPT>
+<NOSCRIPT>
+<A HREF="http://www.lycos.com/shopnet/store/">
+<IMG SRC="http://www.angelfire.com/ads/shopping3.gif"></A>
+</NOSCRIPT>
+
+<br>
+
+<table border=0><tr><td>
+<font size="-1">
+<ul>
+<li><a href="/cgi-bin/ct?ad=namesecuremain&vp=/index.clicked&ru=http://www.namesecure.lycos.com/welcome.cfm"> Get your own <b>.com</b> for your Angelfire site.</a>
+<li><a href="/cgi-bin/ct?ad=careerpath&vp=/index.clicked&ru=http://www.careerpath.com/"> Find A Job</a> Find the coolest jobs on the Web.
+<li><A href="/cgi-bin/ct?ad=resume&vp=/index.clicked&ru=http://career.careerpath.com/ows-bin/aux/register?who"> Post Your Resume</a> Let employers find you!
+<li><A href="/cgi-bin/ct?ad=personline&vp=/index.clicked&ru=http://www.personalpossibilities.com/index.fcg?connect=ANGFIRE"> Personals</a> Expand your circle of friends.
+<li><A href="/cgi-bin/ct?ad=egreet&vp=/index.clicked&ru=http://www.americangreetings.com/index.pd?source=angelfire1"> Send Greeting Cards</a>
+<li><A href="/cgi-bin/ct?ad=ebay&vp=/index.clicked&ru=http://cgi.ebay.com/aw-cgi/eBayISAPI.dll?RedirectEnter&partner=Angelfire&loc=http://pages.ebay.com/aw/"> Auction Classified</a>
+<li><A href="/cgi-bin/ct?ad=hp&vp=/index.clicked&ru=http://www.instant-delivery.com/"> HP Instant Delivery.</a> Get today's news &amp; more free.
+
+</font><p>
+</td></tr></table>
+
+</td></tr>
+</table>
+</td></tr>
+</table>
+</form>
+
+<!--Company Information-->
+<center>
+<table border="0"><tr><td>
+<font face="verdana,helvetica,arial" color=#000000 size=-2 style="font-size: 8pt">
+<a href=http://www.lycos.com/lycosinc/legal.html>Copyright</a>
+&copy; 1998 Lycos, Inc. All Rights Reserved.  Lycos<font size=-3 style="font-size: 6pt"><sup>&#174;</sup></font> is a<br>
+registered trademark of Carnegie Mellon University.<br>
+</font>
+</td></tr></table>
+</center>
+
+</center>
+
+</body>
+</html>
