@@ -3,3 +3,4 @@
 - https://twitter.com/ShinkoNetCavy Twitter
 - https://netcavy.net/midiarchive MIDI Archive
 - https://www.netcavy.net/MIDIArchive/readme.txt APRA AMCOS license poops & changelog
+- https://netcavy.net/archive/midi/ NEW MIDI Archive
