@@ -1,0 +1,219 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"
+	"http://www.w3.org/TR/REC-html40/loose.dtd">
+	<html>
+	<head>
+	<title>PersonalPageBrowser - Browsing User Pages</title>
+	<script>
+	<!--
+	var initialized=false;
+	var firstImage=4;
+	var CurrentMsg = 'Welcome To Netcom Canada!';
+	var OldMsg = '';
+	var im=new Array();
+	var imag=new Array();
+	var bleeding=false;
+	var homeport;
+	var netcom;
+	var supt;
+	var srch;
+	var club;
+	var motd;
+	
+	function isBleedingEdge() {
+	if ( (navigator.appName == 'Netscape'
+	&& 3.0 <= parseFloat(navigator.appVersion))
+	|| (navigator.appName=='Microsoft Internet Explorer'
+	&& 4.0 <= parseFloat(navigator.appVersion))) {
+	return true;
+	} else {
+	return false;
+	}
+	}
+	
+	function press(num, imgname) {
+	if (initialized && bleeding)
+	imgname.src=im[num].src;
+	return true;
+	}
+	
+	function initialize() {
+	initialized=false;
+	bleeding=isBleedingEdge();
+	if (bleeding) {
+	imag[0]="/icons/homeport_on.gif";
+	imag[1]="/icons/homeport.gif";
+	imag[2]="/icons/netcom_on.gif";
+	imag[3]="/icons/netcom.gif";
+	imag[4]="/icons/support_on.gif";
+	imag[5]="/icons/support.gif";
+	imag[6]="/icons/club_on.gif";
+	imag[7]="/icons/club.gif";
+	imag[8]="/icons/search_on.gif";
+	imag[9]="/icons/search.gif";
+	imag[10]="/icons/motd_on.gif";
+	imag[11]="/icons/motd.gif";
+	for (var i = 0; i < imag.length; i++) {
+	im[i] = new Image();
+	im[i].src = imag[i];
+	}
+	} else {
+	homeport="homeport";
+	netcom="netcom";
+	supt="supt";
+	club="club";
+	srch="srch";
+	motd="motd";
+	}
+	initialized=true;
+	return true;
+	}
+	
+	function cleanup() {
+	return true;
+	}
+	//-->
+	</script>
+	
+	</head>
+	<body bgcolor="#FFFFFF" onLoad="initialize();return true;" onUnload="cleanup();">
+	
+	<center>
+	<table border=0 width=610>
+	<tr height=67><td width=125 align=middle>
+	<table border=0 width=101 cellpadding=0 cellspacing=0>
+	<tr><td width=101 align=middle>
+	<img align=center alt="[Netcom Canada]" src="/icons/morph.gif" width=101 height=51 border=0>
+	</td></tr>
+	</table>
+	</td><td width=485 align=middle>
+	
+	<img src="/icons/NetcomPBrowser_ban.gif" width=465 height=67 border=0 alt="Page Browser">
+	</td></tr>
+	<tr><td>
+	</td><td align=middle width=485>
+	
+	<!-- the following mess is a mess for formatting reasons -->
+	<a href="/homeport/" onMouseOver='press(0,homeport);return true;' onMouseOut='press(1,homeport);return true;'><img name="homeport" height=39 width=79 alt="[Homeport]" border=0 src="/icons/homeport.gif"></a><a href="/index.html" onMouseOver='press(2,netcom);return true;' onMouseOut='press(3,netcom);return true;'><img name="netcom" height=39 width=79 alt="[Netcom]" border=0 src="/icons/netcom.gif"></a><a href="/faq/" onMouseOver='press(4,supt);return true;' onMouseOut='press(5,supt);return true;'><img name="supt" height=39 width=79 alt="[Support]" border=0 src="/icons/support.gif"></a><a href="/club.html" onMouseOver='press(6,club);return true;' onMouseOut='press(7,club);return true;'><img name="club" height=39 width=79 alt="[Member Services]" border=0 src="/icons/club.gif"></a><a href="/search.html" onMouseOver='press(8,srch);return true;' onMouseOut='press(9,srch);return true;'><img name="srch" height=39 width=79 alt="[Search]" border=0 src="/icons/search.gif"></a><a href="/bin/motd" onMouseOver='press(10,motd);return true;' onMouseOut='press(11,motd);return true;'><img name="motd" height=39 width=79 alt="[Daily Message]" border=0 src="/icons/motd.gif"></a>
+	
+	
+	</td></tr>
+	</table>
+	</center>
+	
+<h3>Search Results For <i>rocklink</i>:</h3>
+<ol start=1>
+<li>
+<a href="/bin/pbrowse?by=user&user=2935">rocklink</a>
+</li>
+</ol>
+<h3>Browse user pages:</h3>
+	<ul>
+	<li>
+	<a href="/bin/pbrowse?by=date">Most Recently Changed Pages</a>
+	</li>
+	<li>
+	<a href="/bin/pbrowse?by=name">By User Name</a>
+	</li>
+	<li>
+	<a href="/bin/pbrowse?by=size">By Page Size</a>
+	</li>
+	</ul>
+	<h3>Search user pages:</h3>
+	<dl>
+	<dd>
+	<form method="post" action="http://www.netcom.ca/bin/pbrowse">
+	<table cellpadding=1 border=1>
+	<tr>
+	<td>
+	<b><font size=+2>Search Type</font></b>
+	</td>
+	<td>
+	<b><font size=+2>Example Query</font></b>
+	</td>
+	<td>
+	<b><font size=+2>Your Query</font></b>
+	</td>
+	</tr>
+	<tr>
+	<td align=right>
+	<b>Concept</b>
+	<input type="radio"
+	name="search"
+	value="text"
+	CHECKED>
+	</td>
+	<td align=right>
+	<i>Business, Resume...</i></td>
+	<td>
+	<input type="text"
+	name="text"
+	value=""
+	size=20>
+	</td>
+	</tr>
+	<tr>
+	<td align=right>
+	<b>Username</b>
+	<input type="radio"
+	name="search"
+	value="uid">
+	</td>
+	<td align=right>
+	<i>blah, webm...</i></td>
+	<td>
+	<input type="text"
+	name="uid"
+	value="rocklink"
+	size=20>
+	</td>
+	</tr>
+	<tr>
+	<td align=right>
+	<b>Province</b>
+	<input type="radio"
+	name="search"
+	value="state">
+	</td>
+	<td align=right>
+	<i>ON, PQ, BC...</i></td>
+	<td>
+	<input type="text"
+	name="state"
+	value=""
+	size=2>
+	</td>
+	</tr>
+	<tr>
+	<td align=right>
+	<b>Last Name</b>
+	<input type="radio"
+	name="search"
+	value="name">
+	</td>
+	<td align=right>
+	<i>Smith, Adams...</i></td>
+	<td>
+	<input type="text"
+	name="name"
+	value=""
+	size=20>
+	</td>
+	</tr>
+	<tr>
+	<td align=middle colspan=3>
+	<input type="submit"
+	name="submit"
+	value="Find some pages!">
+	</td>
+	</tr>
+	</table>
+	</form>
+	</dd>
+	</dl>
+</form>
+        <!-- this is a test -->
+        </table>
+        </center>
+        </body>
+        </html>
+
