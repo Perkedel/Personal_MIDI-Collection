@@ -1,0 +1,16 @@
+﻿Kill Me Baby ED (with animation)
+	For the Roland SC-88Pro
+	MIDI completed on 2014-09-05
+------------------------------------
+
+I couldn't resist trying to recreate the amusing dance at the end of the anime "Kill Me Baby" on this Sound Canvas's LCD, so that meant I had to make a MIDI of the music, too! This is the ending theme, "Futari no Kimochi no Honto no Himitsu", originally sung by Tamura Mutsumi and Akasaki Chinatsu.
+
+Never call a song simple until you've tried to make a MIDI of it. And trying to remake the inaccurate timings of the toms took a silly amount of effort. That said, this MIDI only took 2 days to make, and a third of that was spent on the animations. I ended up making a program to draw on which spits out the SysEx messages to control the synth's LCD, because I didn't fancy wearing out half of the buttons on the synth by drawing pictures on it (yes, the synth has a drawing mode - I guess Roland had some spare ROM to play with). Manually putting the commands to buffer and display every frame at the right time (there are 48 different frames) into the MIDI file was tedious.
+
+I have released the program which generates SysEx messages to control the Sound Canvas's LCD!
+Blog post with download link: http://robbi-985.homeip.net/blog/?p=1352
+YouTube video: https://www.youtube.com/watch?v=yZLGj-4fWO4
+
+YouTube video for this MIDI: https://www.youtube.com/watch?v=qrhnjT8MYWo
+
+- Robbi-985 aka SomethingUnreal

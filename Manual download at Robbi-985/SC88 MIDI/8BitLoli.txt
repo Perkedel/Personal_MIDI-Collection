@@ -1,0 +1,14 @@
+﻿Nomico - Skip! (Moetan ED)
+	For the Roland SC-88Pro
+	MIDI completed on 2015-08-11
+------------------------------------
+
+This MIDI took me about 5 days to make, plus a few hours of tweaking at the end. It sounded like it was nearly finished after 2 days, but the hardest stuff was still left to do at that point (I do hate struggling to transcribe barely-audible parts, but they really fill in the gaps and make it sound complete).
+
+Firsts for me include the fast arpeggio effect (surprisingly, the 88P never complained about this), wah effect on the quiet guitar (on the right), and gratuitous use of "All Sound Off" whenever possible, to try to keep things running quickly enough. Also, 4 sound effects I've never used before!
+
+3 channels get re-used for different instruments (16 channels has never been so insufficient), but more annoyingly, the synth's update speed drops really low during the chorus because of all the playing voices, making pitch-bends sound jumpy, and it took a lot of tweaking and quite some luck to get a clean recording. I kind of wonder if it's just my 88P which slows down so much when many notes are playing (even if there are not many MIDI messsages), or if it's simply a limitation of its CPU speed. It might just be a coincidence, but it seemed to handle it better immediately after power-up, so perhaps it becomes worse as it gets hotter. In that case, maybe I could attach a heat sink to the CPU, or just put a fan in there (I don't really want to drill holes, though). The case doesn't really get very hot, though. I kind of wish I could limit it to playing only 32 voices at once, instead of letting it struggle with 64. Lowering release times only gets you so far.
+
+YouTube video: https://www.youtube.com/watch?v=XgXM5Vhecr8
+
+- Robbi-985 aka SomethingUnreal

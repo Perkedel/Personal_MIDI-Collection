@@ -1,0 +1,17 @@
+﻿Ayumi Hamasaki - M (Above & Beyond Remix)
+	3 versions (see below)
+	MIDI completed on 2014-04-25
+-----------------------------------------
+
+Versions:
+- MAboveBeyond.mid              (For the Roland SC-88Pro)
+- MAboveBeyond_Simple.mid       (For synths supporting some simple GS messages)
+- MAboveBeyond_GM.mid           (For the Microsoft Wavetable Synth)
+
+This time, I tried to remake a trance song for the Roland Sound Canvas synth! I first heard this song many years ago on an internet radio site and became addicted to it, although I didn't know its name. I re-found it about 4 years later in a StepMania song pack.
+
+This was surprisingly easy to make, despite having a few things that I've not used much before (delay echoes, changing of resonance over time, reversed kick). It took 6 days in total, but the majority of the work was done in the first 4 days.
+
+YouTube video: https://www.youtube.com/watch?v=s7pTnsJ67iw
+
+- Robbi-985 aka SomethingUnreal

@@ -1,0 +1,14 @@
+﻿Kuusou Mesorogiwi (Mirai Nikki OP)
+	For the Roland SC-88Pro
+	MIDI completed on 2012-10-02
+------------------------------------
+
+This is my finished MIDI for the Roland SC-88Pro. The song is 「空想メソロギヰ」 ("Kuusou Mesorogiwi"), used for the opening of the anime Mirai Nikki, originally by Yousei Teikoku.
+
+I had great difficulty in making out the bass and the strings at times, so I may have (unintentionally) improvised at points, but I stayed as accurate as I possibly could.
+
+This is my first time controlling the Sound Canvas's display via SysEx messages, and I ended up writing my own program to make messages to show the text. The MIDI also takes advantage of various other things the SC has to offer, such as a distortion insert effect with custom settings, cutoff frequency changes to make the down- and up-strokes of the guitar pick sound different, custom attack/decay/release times, and bank-changes for instruments such as palm-muted electric guitar, velocity-sensitive strings and explosion sound effect. Even though this sound module came out 15 years ago, it's still quite capable of sounding modern. =D
+
+YouTube video: https://www.youtube.com/watch?v=VTwwVew3AwE
+
+- Robbi-985 aka SomethingUnreal

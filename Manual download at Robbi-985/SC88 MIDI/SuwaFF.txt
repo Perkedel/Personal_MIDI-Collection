@@ -1,0 +1,15 @@
+﻿Nomico - Suwa Foughten Field
+	For the Roland SC-88Pro
+	MIDI v1.0 completed on 2013-03-14
+	MIDI v1.1 edited on 2022-01-15
+------------------------------------
+
+I tried to remake the Alstroemeria Records song "Suwa Foughten Field" in MIDI form for the old Roland SC-88Pro. The song is a remix of Kanako Yasaka's theme (stage 6 boss of Touhou 10: Mountain of Faith). The original song was on the album "HARMONY", arranged by "Masayoshi Minoshima" with vocals by Nomico.
+
+This pushes the MIDI bandwidth quite far in places, and as a result, the timing of the notes is slightly off in those places (mainly when many notes need to start at the same time).
+
+YouTube video of version 1.0: https://www.youtube.com/watch?v=2u6godBrt5U
+
+The version in this download is 1.1, which fixes a stuttering kick drum around the 4-minute timestamp.
+
+- Robbi-985 aka SomethingUnreal

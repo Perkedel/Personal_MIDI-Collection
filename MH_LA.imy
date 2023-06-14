@@ -1,0 +1,6 @@
+BEGIN:IMELODY
+VERSION:1.0
+FORMAT:CLASS1.0
+BEAT:99
+MELODY:*4#d5r5#f5r5#g5r5#a5r5#f5r5#d5r5b5r5#f5r5#d5r5#a5r5#f5r5#d5r5#g5r5#d5r5#f5r5#g5r5#c5r5f5r5#f5r5#g5r5f5r5#c5r5#a5r5f5r5#c5r5#g5r5f5r5#c5r5#f5r5#c5r5f5r5#f5r5#d5r5#f5r5#g5r5#a5r5#f5r5#d5r5b5r5#f5r5#d5r5#a5r5#f5r5#d5r5#g5r5#d5r5#f5r5#g5r5*3#a5r5*4f5r5*3#a5r5*4#d5r5d5r5f5r5#d5r5f5r5#f5r5f5r5#f5r5#g5r5f5r5#g5r5#f5r5#a5r5
+END:IMELODY

@@ -1,0 +1,20 @@
+﻿Prince Of The Yolkfolk (DOS version)
+	2 versions (see below)
+	MIDI completed on 2015-08-09
+--------------------------------------------------
+
+Versions:
+- Yolk.mid              (For the Roland SC-88Pro)
+- Yolk_GM.mid           (For the Microsoft Wavetable Synth)
+
+Something a little different this time. I had a burst of nostalgia and got this theme stuck in my head, so I decided to try to remake it for the SC-88Pro synth. It's the first MIDI I've made in less than 18 hours (including sleep)! It's also the first I've made for the 88P which doesn't use all the sound channels (4 are untouched), despite using 3 just for trying to emulate the FM snare. And the first that messes around with time signatures to keep in-sync with the original while still having the notes align sensibly in my MIDI editor...
+
+This is a remake of the music from the DOS version of the game "Dizzy: Prince of the Yolkfolk". It was released on many different platforms, and I'm sure the instruments vary a lot on the different versions, but I've only ever played the DOS version. It used AdLib music (technically, the Yamaha OPL2 FM synth).
+
+I've seen some remixes of this, but I tried to stay faithful to the original (including overlapping notes, monophonic channels and notes that get cut because of the limitations of the AdLib hardware). Originally, I was going to use a synth trumpet sound to really match the original, but I couldn't find a suitable FM-style harpsichord to go along with it, and synth trumpets sounded stupidly out-of-place when paired with the realistic harpsichord, so I had to go for modern-sounding brass instruments.
+
+Yamaha music on a Roland synth... heresy!
+
+YouTube video: https://www.youtube.com/watch?v=LX9BablvKMc
+
+- Robbi-985 aka SomethingUnreal

@@ -1,0 +1,16 @@
+﻿You Make My Day! (Otome Wa Boku Ni Koi Shiteru OP)
+	2 versions (see below)
+	MIDI completed on 2014-10-23
+--------------------------------------------------
+
+Versions:
+- YMMD.mid              (For the Roland SC-88Pro)
+- YMMD_GM.mid           (For the Microsoft Wavetable Synth)
+
+I finally finished this MIDI for the Roland SC-88Pro synth (I abandoned it a few months ago). Gotta love those electro toms. This is the opening theme (originally performed by YURIA) to the VN 「処女はお姉さまに恋してる」.
+
+The original song has some heavy dynamic range compression so it sounds like this MIDI is lacking somewhat if you compare them, but I couldn't actually make out any more parts than this in the original. The 88Pro has a compressor effect available, but it can only use one effect at a time, and I was already using distortion. The high-pitched sound effects on the right speaker should be faster, but the synth can't reliably update the pitch much faster than this. There was an unexpectedly tricky selection of percussive sounds and panning needed for the toms, so I ended up using 4 separate percussion channels...
+
+YouTube video: https://www.youtube.com/watch?v=_INjLfyLVMQ
+
+- Robbi-985 aka SomethingUnreal

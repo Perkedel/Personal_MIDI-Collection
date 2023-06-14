@@ -1,0 +1,16 @@
+﻿JUMPING!! (Kin-iro Mosaic OP)
+	For the Roland SC-88Pro
+	MIDI completed on 2014-04-13
+------------------------------------
+
+I tried to remake the opening theme of the anime "Kin-iro Mosaic" as a MIDI for the Roland SC-88Pro synth. The song is "JUMPING!!", originally by Rhodanthe*.
+
+This was roughly as hard to make as "Mii-tan no Mahou de Pon!!" (perhaps there's something about songs that have two exclamation marks in the title). I put a lot of effort into making the guitars as accurate as I could.
+
+I started working on this 4 months ago, then lost motivation, and then continued and finished it over the last week. Also, holy crap, I'm going to take YouTube's matching of third-party content at 0:17 as a complement of how accurate the trumpet part is.
+
+Don't mind the filename, I have strange naming conventions - it's a reference to Alice in this episode of the anime: https://www.youtube.com/watch?v=AAkdNkmyG08
+
+YouTube video for this MIDI: https://www.youtube.com/watch?v=kptqzXlMnjs
+
+- Robbi-985 aka SomethingUnreal

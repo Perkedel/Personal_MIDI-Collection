@@ -1,0 +1,18 @@
+﻿Futari No Honey Boy (KissxSis OAD OP)
+	2 versions (see below)
+	MIDI completed on 2014-09-19
+-------------------------------------
+
+Versions:
+- KXS_HBSB.mid          (For the Roland SC-88Pro)
+- KXS_HBSB_GM.mid       (For the Microsoft Wavetable Synth)
+
+This sure was a fun one to make! And more trying to make the Sound Canvas synth sound like it's speaking, yay! But unfortunately, I was pushing it so close to its limit that I actually had to cut notes at those points so that it could keep running smoothly. It's also extremely tedious to do, so I don't think I'll be making a whole song like that any time soon.
+
+This is a MIDI I made for the Roland SC-88Pro of the opening theme to Kiss×sis OAD, originally sung by Taketatsu Ayana and Tatsumi Yuiko, written/arranged by Takahashi Nana. Despite being pretty complex and having a part that was incredibly hard to decipher beneath all the other instruments (I could only clearly make out half of one bar, and had to estimate what the rest was), this one only took me 5-6 days.
+
+I wonder if this synth is older than Ako or Riko.
+
+YouTube video: https://www.youtube.com/watch?v=ZxVG26tjftU
+
+- Robbi-985 aka SomethingUnreal

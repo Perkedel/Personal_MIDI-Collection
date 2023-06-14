@@ -1,0 +1,21 @@
+
+|||||||||||||||||||||||||||||||||||| 
+
+y@ Title@@zIt's Over, Isn't It?
+y@ Singer @zDeeDee Magno Hall
+y@ Writer @zRebecca Sugar
+y@ Project@zSteven Universe (Volume 1)
+y  Catalog@ zM-102A
+y@Duration@z2:27
+y@Filename@zSUoverGS.RCP
+y@ Format @zRecomposer ver2.5F (Timebase: 120)
+y@ Ports@@zSingle
+y@  Date@@zFebruary 10, 2022
+ySound ModulezRoland SC-88
+y Programmer z‚l‚i‚f‚O‚P‚P‚V
+
+|||||||||||||||||||||||||||||||||||| 
+
+(c) 2022 MJG0117
+This MIDI data is for personal use only. Unauthorized duplication, 
+reproduction, lending and public performance of this MIDI data is prohibited.

@@ -1,0 +1,41 @@
+﻿Mii-tan no Mahou de Pon!! (Popotan)
+	For the Roland SC-88Pro
+	MIDI v1.0 completed on 2013-11-26
+	MIDI v1.2 edited in 2015
+-----------------------------------------
+
+I finally finished this MIDI for the Roland SC-88Pro synth. This is Mii's theme from the H-game "Popotan", originally by UNDER17. Trying to make a musical synth have a loli voice was fun, and making it say "Iyaan!" was surreal.
+
+Production time took about 4 days, including time I couldn't do anything because I was at work or dead from this cold that I have. This is, without a doubt, the new most-complicated MIDI I've ever made, with many SysEx messages throughout changing the routing to the Insert FX and its parameters, along with tons of control changes, some instrument changes (16 just isn't enough), a user-defined drumkit, 3 percussion channels, and a healthy dose of pitch-bends (with varying sensitivity). My "Suwa Foughten Field" MIDI remake had some of these, but I think this sounds better, and certainly posed more challenges.
+
+YouTube video of version 1.0: https://www.youtube.com/watch?v=4JhmKqyitVA
+YouTube video of incomplete version: https://www.youtube.com/watch?v=wsQjKQw_nPs
+
+The version in this download is 1.2, with all the following improvements over the one in the version 1.0 YouTube video (this was just a list of notes for myself, but I thought I'd include it here for curious people and so that you, too, can now dislike the version on YouTube as much as I do):
+	- Added missing pitch-bends on "Kick & Snare" channel (fill-in after chorus).
+	- Bass 
+		- Doesn't simply alternate between octaves all the time.
+		- Changed sound of instrument (didn't sound good with new patterns).
+		- Length of notes was too long.
+		- Removed a note after the first chorus that shouldn't have been there.
+	- Harmonising was missing on the repeating sequence immediately before the second verse.
+	- Around choruses:
+		- Volume of snares was inconsistent during the chorus.
+		- Rhythm guitars during chorus are no longer so heavily on the left channel.
+		- Corrected the random bent guitar notes immediately before the choruses.
+		- Rhythm overdrive guitar after choruses is now stereo and aggressive-sounding, with higher notes.
+		- Added piano to complement strings, which I managed to not notice for 7 years.
+		- Corrected strings (notes and dynamics).
+		- Quietened acoustic guitar.
+		- Added downward bend to rhythm overdrive guitar immediately after choruses.
+	- Solo overdrive guitar at the end doesn't become quiet before it finishes playing.
+	- Fine-tuned harmonising clean guitars during instrumental (and bend at end now goes to -12 semitones).
+	- Speech effect ("iyaan", "daisuki") during instrumental is no longer chorused.
+	- Hihats:
+		- Added some missing closed hihats on 1/16th notes during chorus.
+		- Shortened sound of open hihats.
+		- Added missing 8th-note closed hihats throughout.
+	- Returned to using loli voice! I feel like I've overused the pulse lead since 2013.
+	- Voice now begins muffled and becomes clear at first chorus.
+
+- Robbi-985 aka SomethingUnreal

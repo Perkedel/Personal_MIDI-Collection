@@ -1,0 +1,19 @@
+﻿Behind Closed Doors (Live In Arcadia)
+	For the Roland SC-88Pro
+	MIDI completed on 2014-09-03
+-------------------------------------
+
+I tried to remake this thrash metal track originally made by my brother, as a MIDI for the Roland Sound Canvas synth! ...Then, I realised that he still hasn't uploaded it himself yet. Maybe I'll have to poke him to do that so you can hear what my sucky attempt at recreating the guitar solo was supposed to sound like. It also has screaming vocals, but yeah, that's not going to happen in a MIDI file.
+
+I got to try something I've never done before - a "compressed" effect on the percussion to make it sound more powerful, by turning down the cymbals when the kick and other bassy percussion plays.
+
+My brother's music channel is:
+https://www.youtube.com/user/ArcadiaMetalUK
+
+He was kind enough to give me access to the individual layers in his track, so I didn't have to struggle to hear notes hidden underneath other notes, which is what I normally have to struggle with when making MIDIs. He even gave me the original drum MIDI track, but that meant I had to set up my own user drum kit for the SC-88Pro that was compatible with the drums software he uses. The fact that the synth only has 2 discrete overdrive channels means that it sounds a little awkward during the transitions to/from the guitar solo. Plus, solos are always hard to transcribe anyway.
+
+All in all, it was a fun challenge! I ended up only using 8 MIDI channels (3 for percussion), which is the least ever in a MIDI I've made for this synth. I usually end up using at least 15 out of 16.
+
+YouTube video: https://www.youtube.com/watch?v=L1RuHWNIl9w
+
+- Robbi-985 aka SomethingUnreal
