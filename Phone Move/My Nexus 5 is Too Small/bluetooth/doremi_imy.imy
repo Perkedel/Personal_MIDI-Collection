@@ -1,0 +1,10 @@
+BEGIN:IMELODY
+VERSION:1.2
+FORMAT:CLASS1.0
+NAME:iMelody
+COMPOSER:i(0)
+BEAT:120
+STYLE:S0
+VOLUME:V12
+MELODY:ledonbackoff*4c2ledoffbackon*4d2ledonbackoff*4e2ledoffbackon*4f2ledonbackon*4g2ledoffbackoff*4a2ledonbackon*4b2ledonvibeonbackon*5c0
+END:IMELODY
