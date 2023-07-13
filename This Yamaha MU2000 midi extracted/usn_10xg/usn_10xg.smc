@@ -1,0 +1,392 @@
+;-----------------------------------------------------------------------
+; U.S.NAVY ― MISSION 10 成層圏 (C)CAPCOM / Programmed by MEMORU
+;-----------------------------------------------------------------------
+#include	<smfstd.smi>
+#include	<smf_gm.smi>
+#include	<memoru.smi>
+#include	<memoruxg.smi>
+;-----------------------------------------------------------------------
+;MIDIファイル情報
+;-----------------------------------------------------------------------
+#copyright	"(C)CAPCOM"
+#music-name	"U.S.NAVY -- MISSION10  for XG"
+#programmer	"MEMORU"
+#instrument	"YAMAHA XG"
+;--------
+#division	48
+#tempo		125
+#beat		8/8,48,8
+#fadeout-loop-count	2
+;-----------------------------------------------------------------------
+;ドラムマクロ
+;-----------------------------------------------------------------------
+#define	k:o2i0u111	; Bass drum
+#define	s:o2i4z0u112	; Snare drum
+#define	h:o2i6u85	; Hihat close
+#define	p:o2i8u85	; Hihat pedal
+#define	o:o2i10u85	; Hihat open
+#define	H:o3i-1z0u124	; High Tom
+#define	M:o2i9z0u124	; Mid Tom
+#define	L:o2i7z0u124	; Low Tom
+#define	T:o2i5z0u124	; Floor Tom
+#define	r:o3i3u111	; Ride Cymbal
+#define	x:o3i7u110	; Splash Cymbal
+#define	y:o3i1u118	; Crash Cymbal
+;-----------------------------------------------------------------------
+;トラック定義
+;-----------------------------------------------------------------------
+1	${smcinit:} ;(Tempo Track)
+2	@z1  @{TRACK-NAME:"Bass"} ${smcinit:}
+3	@z2  @{TRACK-NAME:"Guitar1A"} ${smcinit:}
+4	@z3  @{TRACK-NAME:"Guitar1B"} ${smcinit:}
+5	@z4  @{TRACK-NAME:"Guitar2A"} ${smcinit:}
+6	@z5  @{TRACK-NAME:"Guitar2B"} ${smcinit:}
+7	@z6  @{TRACK-NAME:"Bell"} ${smcinit:}
+8	@z10 @{TRACK-NAME:"Drums"} ${smcinit:}
+9	@z10 @{TRACK-NAME:"Cymbal"} ${smcinit:} ;Tr.8の補助トラック
+10	@z7  @{TRACK-NAME:"Brass"} ${smcinit:}
+11	@z7  @{TRACK-NAME:"Brass"} ${smcinit:}
+12	@z7  @{TRACK-NAME:"Brass"} ${smcinit:}
+13	@z7  @{TRACK-NAME:"Brass"} ${smcinit:}
+14	@z8  @{TRACK-NAME:"Bass2"} ${smcinit:}
+;-----------------------------------------------------------------------
+;音源セットアップ
+;-----------------------------------------------------------------------
+2	@{REM:"GM system on"}	${GM-SYSTEM-ON:} r%24
+2	@{REM:"XG system on"}	${XG-RESET:} r%12
+2	${MU-BASIC-MAP:} r%1
+;2	${MU100-NATIVE-MAP:} r%1
+
+2	@{REM:"Reverb setting(STAGE 2)"}
+2	${X-REVERB-TYPE:$03,$01} r%1
+2	${X-REVERB-PARAMETER-1:21} r%1		;Reverb Time
+2	${X-REVERB-PARAMETER-2:6} r%1		;Diffusion
+;2	${X-REVERB-PARAMETER-3:} r%1		;Initial Delay
+2	${X-REVERB-PARAMETER-4:10} r%1		;HPF Cutoff
+2	${X-REVERB-PARAMETER-5:53} r%1		;LPF Cutoff
+2	${X-REVERB-PARAMETER-10:49} r%1		;Dry/Wet
+;2	${X-REVERB-PARAMETER-11:} r%1		;Rev Delay
+;2	${X-REVERB-PARAMETER-12:} r%1		;Density
+;2	${X-REVERB-PARAMETER-13:} r%1		;Er/Rev Balance
+;2	${X-REVERB-PARAMETER-14:} r%1		;High Damp
+;2	${X-REVERB-PARAMETER-15:} r%1		;Feedback Level
+;2	${X-REVERB-RETURN:64} r%1
+;2	${X-REVERB-PAN:64} r%1
+
+2	@{REM:"Chorus setting(CHORUS1)"}
+2	${X-CHORUS-TYPE:$41,$00} r%1
+;2	${X-CHORUS-PARAMETER-1:} r%1		;LFO Freq.
+;2	${X-CHORUS-PARAMETER-2:} r%1		;LFO Depth
+;2	${X-CHORUS-PARAMETER-3:} r%1		;Feedback Level
+;2	${X-CHORUS-PARAMETER-4:} r%1		;Delay Offset
+;2	${X-CHORUS-PARAMETER-6:} r%1		;EQ Low Freq.
+;2	${X-CHORUS-PARAMETER-7:} r%1		;EQ Low Gain
+;2	${X-CHORUS-PARAMETER-8:} r%1		;EQ High Freq.
+;2	${X-CHORUS-PARAMETER-9:} r%1		;EQ High Gain
+;2	${X-CHORUS-PARAMETER-10:} r%1		;Dry/Wet
+;2	${X-CHORUS-PARAMETER-11:} r%1		;EQ Mid Freq.
+;2	${X-CHORUS-PARAMETER-12:} r%1		;EQ Mid Gain
+;2	${X-CHORUS-PARAMETER-13:} r%1		;EQ Mid Width
+;2	${X-CHORUS-RETURN:64} r%1
+;2	${X-CHORUS-PAN:64} r%1
+;2	${X-CHORUS-SEND-CHORUS-TO-REVERB:0} r%1
+
+2	@{REM:"Variation setting(Distortion)"}
+2	${X-VARIATION-TYPE:$49,$00} r%1
+2	${X-VARIATION-PARAMETER-1:0,41} r%1	;Drive
+2	${X-VARIATION-PARAMETER-3:0,52} r%1	;EQ Low Gain
+2	${X-VARIATION-PARAMETER-4:0,58} r%1	;LPF Cutoff
+2	${X-VARIATION-PARAMETER-7:0,53} r%1	;EQ Mid Frequency
+2	${X-VARIATION-PARAMETER-9:0,32} r%1	;EQ Mid Width
+2	${X-VARIATION-CONNECTION:1} r%1		;(System)
+2	${X-VARIATION-PART:$7F} r%1             ;(Part#)
+2	${X-VARIATION-SEND-VARIATION-TO-REVERB:40} r%1
+2	${X-VARIATION-SEND-VARIATION-TO-CHORUS:0} r%1
+2	${X-VARIATION-RETURN:58} r%1
+
+;2	@{REM:"Element Reserve"}
+;2	${X-CH-ELEMENT-RESERVE:15,0} r%1
+
+;↓ここでクロック数を調整してください。ここまでで合計64mcになります。
+2	r%9
+3,4,5,6,7,8,10,14	r%64
+;--------
+2,3,4,5,6,7,8,10,14	${BENDER-RANGE:2} r%1 @b0 r%1 w127 r%1 m0 r%1
+;                Prg Bnk          Vol Pan Rev Cho Var
+2	${progxg: 35,  0} ${mixer:101, 64, 12,  0,  0}
+3	${progxg:  7,  0} ${mixer:100, 64, 47,  0, 50}
+4	${progxg: 31,  0} ${mixer: 79, 64, 47,  0, 41}
+5	${progxg:  7,  0} ${mixer: 86, 64, 60,  0, 16}
+6	${progxg: 31,  0} ${mixer: 65, 64, 60,  0,  9}
+7	${progxg: 39, 65} ${mixer: 83, 64, 80,  0,  0}
+8	${drumxg: 33}     ${mixer:101, 64,110,  0,  0}
+10	${progxg: 84,  0} ${mixer: 91, 64, 69,  0,  4}
+14	${progxg: 40, 41} ${mixer: 92, 64, 12,  0,  6}
+;--------
+;パートパラメーター
+2	${BRIGHTNESS:71} r%1 ${HARMONIC-CONTENT:89} r%1
+2	${ATTACK-TIME:64} r%1 ${decay:64} r%1 ${RELEASE-TIME:63} r%1
+2	${vib:64,64,64} ${FINE-TUNING:64,0} r%1
+2	r%11
+14	${BRIGHTNESS:113} r%1 ${HARMONIC-CONTENT:91} r%1
+14	${ATTACK-TIME:65} r%1 ${decay:99} r%1 ${RELEASE-TIME:63} r%1
+14	${vib:64,64,64} ${FINE-TUNING:64,0} r%1
+14	r%11
+3,5	${BRIGHTNESS:74} r%1 ${HARMONIC-CONTENT:73} r%1
+3,5	${ATTACK-TIME:64} r%1 ${decay:75} r%1 ${RELEASE-TIME:61} r%1
+3,5	${vib:64,64,64} ${FINE-TUNING:64,0} r%1
+3,5	r%11
+4,6	${BRIGHTNESS:47} r%1 ${HARMONIC-CONTENT:64} r%1
+4,6	${ATTACK-TIME:64} r%1 ${decay:75} r%1 ${RELEASE-TIME:65} r%1
+4,6	${vib:64,64,64} ${FINE-TUNING:66,0} r%1
+4,6	r%11
+7	${BRIGHTNESS:78} r%1 ${HARMONIC-CONTENT:60} r%1
+7	${ATTACK-TIME:61} r%1 ${decay:63} r%1 ${RELEASE-TIME:63} r%1
+7	${vib:64,64,64} ${FINE-TUNING:64,0} r%1
+7	r%11
+10	${BRIGHTNESS:97} r%1 ${HARMONIC-CONTENT:84} r%1
+10	${ATTACK-TIME:59} r%1 ${decay:53} r%1 ${RELEASE-TIME:63} r%1
+10	${vib:64,64,64} ${FINE-TUNING:64,0} r%1
+10	r%11
+;Tr.8はドラムパート
+8	${BRIGHTNESS:49} r%1 ${HARMONIC-CONTENT:73} r%1
+8	${FINE-TUNING:64,0} r%1 ${COARSE-TUNING:63,0}
+8	r%17
+;--------
+;ドラムパラメーター(Tr.8)
+	;Snare H
+8	${dr-pitch:40,62} ${dr-cutoff:40,66} ${dr-reso:40,93}
+8	${dr-attack:40,64} ${X-DRUM1-DECAY1-RATE:40,0} r%1
+8	${X-DRUM1-DECAY2-RATE:40,45} r%1
+8	${dr-level:40,123} ${dr-pan:40,64} ${dr-rev:40,127}
+	;Crash Cymbal 1
+8	${dr-pitch:49,61} ${dr-cutoff:49,64} ${dr-reso:49,53}
+8	${dr-attack:49,63} ${X-DRUM1-DECAY1-RATE:49,60} r%1
+8	${X-DRUM1-DECAY2-RATE:49,62} r%1
+8	${dr-pan:49,64}
+	;Tom
+8	${dr-pan:41,64} ${dr-pan:43,64} ${dr-pan:45,64} ${dr-pan:47,64}
+8	r2-%20
+;--------
+2,3,4,5,6,7,10,14	r2
+1,9,11,12,13	r1
+;-----------------------------------------------------------------------
+;MML初期設定
+;-----------------------------------------------------------------------
+2,14	l8 o2 q%3 u114 ${v-sens:8}
+3	l8 o5 q%0 u95 ${v-sens:8}
+4	l8 o5 q%0 u95 ${v-sens:8}
+5	l8 o5 q%0 u86  ${v-sens:8} r8
+6	l8 o5 q%0 u86  ${v-sens:8} r8
+7	l16 o5 q%0 u115 ${v-sens:18}
+8	l8 ${rt:} u100 ${v-sens:12}
+9	l8 ${rt:} u100 ${v-sens:12}
+10,11,12,13	l8 o4 q%3 u112 ${v-sens:8}
+;-----------------------------------------------------------------------
+1	t154
+
+3,4,5,6	z-12
+
+#define	cho:${pu:2,2,1,7,?1}
+
+2,3,4,5,6,7,8,9,10,11,12,13,14	|:0
+
+;1,2,3,4,5,6,7,8,9,10,11,12,13,14	J
+
+2,14	i-3
+2,14	|:2 dr4r2 r2dd dr2r4 rdrdrc :|
+2,14	<b-4.b-rb-b-r> e-4.e-re-cc+ d4.dra4g+
+2,14	g4.ggd4c+ <b-4.b-rb-rb- a4.aa>ec+d
+
+7	i-3
+7	|:2 d[d]>c[c]<a[a]f[f]b[b]g[g]r8d[d]>c[c]<a[a]b[b]g[g]
+7	d[d]>c[c]<a[a]f[f]b[b]g[g]r8d[d]>c[c]<a[a]b[b]g[g]f[f]e[e] :|
+7	${tacet:6}
+
+10,11,12,13 i-3
+10	o4 |:2 fr4r2r2fffr2..frfre :|
+11	o4 |:2 ar4r2r2aaar2..ararg :|
+12	o5 |:2 dr4r2r2dddr2..drdrc :|
+13	o5 |:2 fr4r2r2fffr2..frfre :|
+
+10	o4 f1  g1  a1 b1> f1  e2.c+d
+11	o4 a1  b-1>c1 f1  g1  g2.r4
+12	o4 b-1>c+1 d1 g1  b-1 a2.r4
+13	o5 d1  f1  f1 b1 >d1  c+2.r4
+
+8	$kcr$sc$kcrc$scr$kcrc16c16$sc$kc$sc
+9	$yc4r2r2rc4c
+8	$kcrc$scr$kcc$sc$kc$scr12$Mc12$Lc12
+9	r2r4rc4c4.
+8	$Tcr$sc$kcrc$scr$kcrc16c16$sc$kc$sc
+9	$yc4r2r2rc4c
+8	$kcrc$scr$kcc$sc$kc$scr12$Mc12$Lc12
+9	r2r4rc4c4.
+
+8	$Tcr$sc$kcrc16c16$scr
+9	c1
+8	|:5 $kcr$sc$kcrc16c16$scr :|
+9	${tacet:5}
+
+3,4,5,6	i-3
+3,4,5,6	|:26 r4 :|
+3,4,5,6	r4r ${cho:g&g1}gf4e e4fd8.r16c4${cho:c2&c4}df16d.
+3,4,5,6	${cho:g1&g1}
+
+;--------
+;1,2,3,4,5,6,7,8,9,10,11,12,13,14	#
+
+2,14	i-2
+2,14	|:2 dr4r2 r2dd dr2r4 rdrdrc :|
+2,14	<b-4.b-rb-b-r> e-4.e-re-cc+ d4.dra4g+
+2,14	i-3
+2,14	a-4.a-a-e-4d <b4.br>f+4<b b-4.b-b->fdd+
+2,14	<a4.ar>e4<a a-4.a-a->e-cc+
+
+7	i-2
+7	|:2 d[d]>c[c]<a[a]f[f]b[b]g[g]r8d[d]>c[c]<a[a]b[b]g[g]
+7	d[d]>c[c]<a[a]f[f]b[b]g[g]r8d[d]>c[c]<a[a]b[b]g[g]f[f]e[e] :|
+7	${tacet:8}
+
+10,11,12,13	i-2
+10	o4 |:2 fr4r2r2fffr2..frfre :|
+11	o4 |:2 ar4r2r2aaar2..ararg :|
+12	o5 |:2 dr4r2r2dddr2..drdrc :|
+13	o5 |:2 fr4r2r2fffr2..frfre :|
+
+10	o4 f1  g1  a1 b1>
+11	o4 a1  b-1>c1 f1 
+12	o4 b-1>c+1 d1 g1 
+13	o5 d1  f1  f1 b1>
+10,11,12,13	i-3
+10	f+1 f1  e1  d+1<
+11	g+1 g+1 f+1 f+1<
+12	b1  b-1 a1  g+1<
+13	d+1 d1  c+1 c1<
+
+8	$kcr$sc$kcrc$scr$kcrc16c16$sc$kc$sc
+9	$yc4r2r2rc4c
+8	$kcrc$scr$kcc$sc$kc$scr12$Mc12$Lc12
+9	r2r4rc4c4.
+8	$Tcr$sc$kcrc$scr$kcrc16c16$sc$kc$sc
+9	$yc4r2r2rc4c
+8	$kcrc$scr$kcc$sc$kc$scr12$Mc12$Lc12
+9	r2r4rc4c4.
+
+8	$Tcr$sc$kcrc16c16$scr
+9	c1
+8	|:5 $kcr$sc$kcrc16c16$scr :|
+8	$kcr$sc$kcrc16c16$sc16cc16
+8	$kcr$sc$kc l16 $scc$Hcc$Mcc$Lcc l8
+9	${tacet:7}
+
+3,4,5,6	i-2
+3,4,5,6	|:26 r4 :|
+3,4,5,6	r4r ${cho:g&g1}gf4e e4fd4c4${cho:c2&c4}df16d.
+3,4,5,6	i-3
+3,4,5,6	${cho:a-2.}>e-4 d1
+3,4,5,6	<r${cho:b&b4.}f+.g. ${cho:g-1}
+
+;--------
+;1,2,3,4,5,6,7,8,9,10,11,12,13,14	#
+
+2,14	i-3
+2,14	d4.d4d4d c4.ccgcc16c16 <b-4.b-4b-4b-> e-4.e-e-e-e-e-16e-16
+2,14	d4.d4d4d c4.ccgcc16c16 <b-4.b-4b-4b-> a4.aaaaa16a16
+
+7	i-3
+7	|:2 r8>d[d]<a[a]d[d]>d[d]<a[a]r8d[d] >d[d]<a[a]>d[d]<d[d]r8>d[d]<a[a]d[d]
+7	r8>d[d]<a[a]d[d]>d[d]<a[a]r8d[d] >d[d]<a[a]>d[d]< : d[d]r2 :| >c+[c+]<r2
+
+3,4,5,6	z0
+3,4,5,6	i-3
+3,4,5,6	o4 ${cho:g&g4.}aa>cd f4.e2,%6d16c16
+3,4,5,6	${cho:c&c4}<a2,%6g16f16 g4.e-&e-2
+3,4,5,6	${cho:g&g4.}aa>cd f4.g2,%6f16g16
+3,4,5,6	${cho:g&g4}f2,%6e16d16 e4.d-&d-2
+
+10,11,12,13	i-3
+10	o4 |:2 drr4r4rd dcr4r2 b-rr4r4rb- b-ar4r2 :|
+11	o4 |:2 frr4r4rf fer4r2 >drr4r4rd dd-r4r2< :|
+12	o4 |:2 arr4r4ra agr4r2 >frr4r4rf fer4r2< :|
+13	o4 |:2 rrr4r4rr rrr4r2 >arr4r4ra agr4r2< :|
+
+8,9	|:2
+8	$kc4$sc$kcrr$sc$kc $kcc$sc$kcrr$sc$kc $kcc$sc$kcrr$sc$kc
+9	$yc1 r1 r1
+8	$kcc$sc$kc$sc$kc$sc$kc16c16
+9	r1
+8,9	:|
+
+;--------
+;1,2,3,4,5,6,7,8,9,10,11,12,13,14	#
+
+2,14	i-3
+2,14	<b-4.b-b-b-4. >e-4.e-e-e-4. d4.dda4a- g4.ggg4.
+2,14	b-4.b-b-b-4. a4.aaaad 2ddd16d16cd 2dddrd
+
+10,11,12,13	i-3
+10	o4 b-rr4r4b->d	r2.<b-4	b-rr4r4b- g r1
+11	o4 >drr4r4d f	r2.d-4	drr4r4d <b- r1
+12	o4 >frr4r4f a	r2.e4	frr4r4f <d r1
+13	o4 >arr4r4a>c<	r2.g4	arr4r4a e r1<
+
+10	o4 b-rr4r4b->d	r2.<b-b-
+11	o4 >drr4r4d f	r2.d-d
+12	o4 >frr4r4f a	r2.ef
+13	o4 >arr4r4a>c<	r2.ga
+
+10	r1 r2o5cdrd
+11	r1 r2o5efrf
+12	r1 r2o5gara
+13	r1 r2r2
+
+3,4,5,6	z-12
+3,4,5,6	i-3
+3,4,5,6	${cho:g2}aga${cho:b-4.}b-4a4g4 ${cho:g2}agae4fedrfrg
+3,4,5,6	${cho:g2}aga${cho:b-4.}b-4a4g${cho:g&g1&g1}
+
+8	|:4 $kcr$sc$kcrc16c16$scr :|
+9	$yc1 r1r1r1
+8	$kcr$sc$kcrc16c16$scr $kcr$sc$kcrc16c16$sc$kc
+9	r1 r2..c
+8	r4$sc$kcrc16c16$scr $kc$sc$kc$sc$kc$scrc16c16
+9	r1 r2rcrc16c16
+
+7	i-3
+7	${tacet:6}
+7	o6 r4d[d8.]e[e8.]f[f8.] e[e8.]f[f8.]g[g]a[a]r8a[a]
+;7	r4d4e4f4 e4f4gara
+;--------
+;1,2,3,4,5,6,7,8,9,10,11,12,13,14	#
+
+2,14	i-3
+2,14	r4<b-4.b-4>e-2e-e-e-4.d4.dda4a- g4.ggg4.
+2,14	b-4.b-b-b-4. a4.aaaad 2dddcd2dd4cc+
+
+10,11,12,13	i-3
+10	o4 r4b-2b->d	r2.<b-b-	r2r4b- g	r2..d
+11	o4 r4>d2d f	r2.d-d		r2r4d <b-	r2..f
+12	o4 r4>f2f a	r2.ef		r2r4f <d	r2..b-
+13	o4 r4>a2a>c<	r2.ga		r2r4a e		r2..d<
+
+10	r2.fa	r2.ga	r1	r2.e4
+11	r2.b->c	r2.cd	r1	r2.<g4
+12	r2.>de	r2.ef	r1	r2.c4<
+13	r2.>fg	r2.ga	r1	r2.e4<
+
+3,4,5,6	z-12
+3,4,5,6	i-3
+3,4,5,6	r4${cho:g4.}ga${cho:b-4.} b-4a4g${cho:g2.}gae4fedrcr ${cho:c2+4}
+3,4,5,6	efg4.f4erc${cho:c8+1}r1
+
+8	r$kc16c16$sc4$Hc$Lcr$kc r4$sc$kcrc16c16$sc$kc
+9	r2.rc ${tacet:7}
+8	r4$sc$kcrc16c16$sc$kc r4$sc$kcrc16c16$sc4
+8	$kc4$sc$kcrc16c16$sc$kc r4$sc$kcrc16c16$sc$kc r4$sc$kcrc16c16$sc4
+8	$sc$kc$sc$kc$sc$kc16c16$sc4
+
+7	${tacet:8}
+;--------
+
+2,3,4,5,6,7,8,9,10,11,12,13,14	:|

@@ -1,0 +1,68 @@
+東方動画BGM支援ショボいアレンジ集（sm23930994）
+データ取扱説明書
+
+
+本楽曲集のオーディオデータの取り扱いについて、
+全体的に「東方動画BGM支援」企画において定められた利用法に
+従うものとします。
+
+
+・06_kohroh（wave）	「紅楼　～ Eastern Dream...」のショボいアレンジです。
+・06_lunate（wave）	「ルーネイトエルフ」のショボいアレンジです。
+・06_tepes（wave）	「ツェペシュの幼き末裔」のショボいアレンジです。
+・07_bucuresti（wave）	「ブクレシュティの人形師」のショボいアレンジです。
+・07_miyako（wave）	「天空の花の都」のショボいアレンジです。
+・07_moteasobi（wave）	「人形裁判　～ 人の形弄びし少女」のショボいアレンジです。
+・07-5_feast（wave）	「Demystify Feast」のショボいアレンジです。
+・07-5_saigetsu（wave）	「砕月」のショボいアレンジです。
+・08_eiya（wave）	「永夜の報い　～ Imperishable Night.」のショボいアレンジです。
+・08_fushi（wave）	「月まで届け、不死の煙」のショボいアレンジです。
+・08_kyohki（wave）	「狂気の瞳　～ Invisible Full Moon」のショボいアレンジです。
+・09_60（wave）		「六十年目の東方裁判　～ Fate of Sixty Years」のショボいアレンジです。
+・09_flowering（wave）	「フラワリングナイト」のショボいアレンジです。
+・09_oriental（wave）	「オリエンタルダークフライト」のショボいアレンジです。
+・10_genfuhkei（wave）	「少女が見た日本の原風景」のショボいアレンジです。
+・10_kappa（wave）	「芥川龍之介の河童　～ Candid Friend」のショボいアレンジです。
+・10_ummei（wave）	「運命のダークサイド」のショボいアレンジです。
+・10-5_kohron（wave）	「甲論乙駁」のショボいアレンジです。
+・10-5_uchoh（wave）	「有頂天変　～ Wonderful Heaven」のショボいアレンジです。
+・11_kaidoh（wave）	「旧地獄街道を行く」のショボいアレンジです。
+・11_mantle（wave）	「業火マントル」のショボいアレンジです。
+・11_shitai（wave）	「死体旅行　～ Be of good cheer!」のショボいアレンジです。
+・12_kenshoh（wave）	「小さな小さな賢将」のショボいアレンジです。
+・12_kyakusen（wave）	「幽霊客船の時空を越えた旅」のショボいアレンジです。
+・12_UFO（wave）	「夜空のユーフォーロマンス」のショボいアレンジです。
+・12-3_X（wave）	「アンノウンX　～ Unfound Adventure」のショボいアレンジです。
+・12-3_yuhkyuh（wave）	「悠久の蒸気機関」のショボいアレンジです。
+・12-8_dance（wave）	「真夜中のフェアリーダンス」のショボいアレンジです。
+・12-8_magus（wave）	「メイガスナイト」のショボいアレンジです。
+・13_furuki（wave）	「古きユアンシェン」のショボいアレンジです。
+・13_monzen（wave）	「門前の妖怪小娘」のショボいアレンジです。
+・13_sado（wave）	「佐渡の二ッ岩」のショボいアレンジです。
+・13-5_aru（wave）	「人気のある場所」のショボいアレンジです。
+・13-5_nai（wave）	「人気のない場所」のショボいアレンジです。
+・14_kobito（wave）	「輝く針の小人族　～ Little Princess」のショボいアレンジです。
+・14_mermaid（wave）	「秘境のマーメイド」のショボいアレンジです。
+・14_reverse（wave）	「リバースイデオロギー」のショボいアレンジです。
+・14_storm（wave）	「マジカルストーム」のショボいアレンジです。
+・14_werewolf（wave）	「孤独なウェアウルフ」のショボいアレンジです。
+・14-3_midnight（wave）	「ミッドナイトスペルカード」のショボいアレンジです。
+・14-3_romantic（wave）	「ロマンチック逃飛行」のショボいアレンジです。
+・97_hifuh（wave）	「少女秘封倶楽部」のショボいアレンジです。
+・97_michi（wave）	「未知の花　魅知の旅」のショボいアレンジです。
+・97_troja（wave）	「トロヤ群の密林」のショボいアレンジです。
+・98_maestra（wave）	「アリスマエステラ」のショボいアレンジです。
+・98_shinwa（wave）	「神話幻想　～ Infinite Being」のショボいアレンジです。
+・98_shohshitsu（wave）	「夢消失　～ Lost Dream」のショボいアレンジです。
+・98_strawberry（wave）	「Strawberry Crisis!!」のショボいアレンジです。
+・99_eastern（wave）	「テーマ・オブ・イースタンストーリー」のショボいアレンジです。
+・99_kagaku（wave）	「幻想科学　～ Doll's Phantom」のショボいアレンジです。
+・99_potion（wave）	「Witch of Love Potion」のショボいアレンジです。
+・99_soratobu（wave）	「空飛ぶ巫女の不思議な毎日」のショボいアレンジです。
+・99_yorudakara（wave）	「夜だから眠れない」のショボいアレンジです。
+
+
+
+2014/07/05
+森の子リスのミーコの大冒険
+user/11781062

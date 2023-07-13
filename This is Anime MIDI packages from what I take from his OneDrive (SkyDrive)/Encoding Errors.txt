@@ -1,0 +1,11 @@
+﻿Due to the limitations of the supported zip file format, the following file(s) had to be renamed.
+
+Original File Name  ->  New File Name
+shobo pack 2/shobo pack 2 (midi)/取扱説明書（midi）.txt -> shobo pack 2/shobo pack 2 (midi)/File1.txt
+shobo pack 2/shobo pack 2 (midi)/取扱説明書（midi）[Unicode].txt -> shobo pack 2/shobo pack 2 (midi)/File2.txt
+shobo pack 2/shobo pack 2 (mp3)/取扱説明書（mp3）.txt -> shobo pack 2/shobo pack 2 (mp3)/File3.txt
+shobo pack 2/shobo pack 2 (mp3)/取扱説明書（mp3）[Unicode].txt -> shobo pack 2/shobo pack 2 (mp3)/File4.txt
+shobo pack 2/shobo pack 2 (wave)/取扱説明書（wave）.txt -> shobo pack 2/shobo pack 2 (wave)/File5.txt
+shobo pack 2/shobo pack 2 (wave)/取扱説明書（wave）[Unicode].txt -> shobo pack 2/shobo pack 2 (wave)/File6.txt
+ten-desire pack/取扱説明書.txt -> ten-desire pack/File7.txt
+ten-desire pack/取扱説明書[Unicode].txt -> ten-desire pack/File8.txt
