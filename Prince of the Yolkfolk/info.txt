@@ -1,0 +1,19 @@
+Archive created by -=MIRSOFT=-
+Look for game MIDs at http://go.to/gamemids
+
+*** Archive info ***
+Archiver: Mirsoft
+Type: Arranged
+Format: MID
+Original Composer: Allister Brimble
+Sequencer: Stephen Patterson
+Num of tunes: 1
+Complete: 
+
+*** Game info ***
+Name: Prince of the Yolkfolk
+Platform: C64
+Year: 1990
+Genre: Mix
+Publisher: Codemasters
+Developer: Codemasters

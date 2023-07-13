@@ -1,0 +1,26 @@
+<html>Added by: Michael Newman <newman@snet.net>
+Date Added: 1998-07-04
+
+File URL is http://www.vgmusic.com/new-files/Dizzy6.mid
+
+Uploaded by STIG36@AOL.COM (Stephen Patterson)
+
+Game System: Commodore 64
+Game Name: Dizzy 6: Prince of the Yolkfolk
+Song Title: Main Theme
+Sequenced by: Stephen Patterson <STIG36@AOL.COM>
+
+Other Information: I shall be sending more MIDI files ihave written with somemore of the DIZZYseries. Don't Ripp if off -it took me ages!
+
+Midi TrackName Analysis:
+
+%00
+Prince of the %00
+Yolkfolk%00
+Sequenced by%00
+Stephen Patterson%00
+AKA 'STIG'%00
+Copyright 1998%00
+STIG36@AOL.COM%00
+%00
+%00

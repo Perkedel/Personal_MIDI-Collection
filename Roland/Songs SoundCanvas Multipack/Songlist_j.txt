@@ -1,0 +1,506 @@
+デモ曲リスト＆プロフィール
+
+＊これらのデモ・ソングを個人で楽しむ以外に権利者の許諾なく使用すること
+  は、法律で禁じられています。
+
+
+【デモ曲リスト】
+
+［Allstars］フォルダ
+
+ファイル名    曲名                            作曲者（演奏者）
+ALLSTARS.MID  The GS All-Stars, Live!         John Maul
+                                              (C)1996 John Maul
+BABELS.MID    Babel's Blunder                 John Maul
+                                              (C)1994 Roland UK
+BK_ALLY.MID   Back Alley Joe                  John Campbell
+                                              (C)1992 John Campbell
+BOP_U.MID     Bop U Drop                      John Campbell
+                                              (C)1992 John Campbell
+CANDY.MID     Candy Walk                      Team-khy
+                                              (C)1996 Roland Corporation
+COOL.MID      Cool Sweet                      Music Brains
+                                              (C)1996 Roland Corporation
+DEADEND.MID   Deadend                         Mitsuru Sakaue
+                                              (C)1994 Roland Corporation
+HEAVY.MID     Heavy Changes                   Takeshi Watanabe
+                                              (C)1994 Roland Corporation
+INSIDER.MID   INSIDER                         Mitsuru Sakaue
+                                              (C)1991 Roland Corporation
+J_CYCLE.MID   J-Cycle                         Mitsuru Sakaue
+                                              (C)1994 Roland Corporation
+MOON_L.MID    Moonlight Picnic                John Campbell
+                                              (C)1994 Evanhale Music
+O_HOLY.MID    O Holy Night                    Adolphe Adam (Kaoru Mizuki)
+                                              (C)1991 Roland Corporation
+PATHETIQ.MID  Sonata No.8 "Pathetique"        P.Tchaikovsky (Masashi Hirashita)
+                                              (C)1994 Roland Corporation
+PERGYNT1.MID  Morning-mood from Peer Gynt     E.Grieg (Team-khy)
+                                              (C)1994 Roland Corporation
+SYNCO.MID     Syncopation                     John Maul
+                                              (C)1994 Roland Corporation
+
+
+［CL_PIANO］フォルダ：Classical Piano
+
+ファイル名    曲名                            作曲者（演奏者）
+BURLESQ.MID   Burlesque for 2 Pianos          John Maul
+                                              (C)1994 Roland Corporation
+DREAM.MID     Dreaming [Traumerei], Op.15-7   R. Schumann (Kaoru Mizuki)
+                                              (C)1994 Roland Corporation
+ELISE.MID     Fur Elise, WoO.59               L. v. Beethoven (Kaoru Mizuki)
+                                              (C)1994 Roland Corporation
+GYMNOPED.MID  Gymnopedie No.1                 E. Satie (TEN Factory)
+                                              (C)1994 Roland Corporation
+HARM_B.MID    The Harmonious Blacksmith[Theme]  Handel (Roland)
+                                                (C)1994 Roland Corporation
+INVNT_01.MID  Invention No.1 in C-Major BWV772  J. S. Bach (Roland)
+                                                (C)1994 Roland Corporation
+INVNT_02.MID  Invention No.2 in C-Minor BWV773  J. S. Bach (Roland)
+                                                (C)1994 Roland Corporation
+INVNT_03.MID  Invention No.3 in D-Major BWV774  J. S. Bach (Roland)
+                                                (C)1994 Roland Corporation
+INVNT_04.MID  Invention No.4 in D-Minor BWV775  J. S. Bach (Roland)
+                                                (C)1994 Roland Corporation
+INVNT_08.MID  Invention No.8 in F-Major BWV779  J. S. Bach (Roland)
+                                                (C)1994 Roland Corporation
+INVNT_10.MID  Invention No10 in G-Major BWV781  J. S. Bach (Roland)
+                                                (C)1994 Roland Corporation
+INVNT_11.MID  Invention No11 in G-Minor BWV782  J. S. Bach (Roland)
+                                                (C)1994 Roland Corporation
+INVNT_13.MID  Invention No13 in A-Minor BWV784  J. S. Bach (Roland)
+                                                (C)1994 Roland Corporation
+J_T_VEUX.MID  Je Te Veux                      E. Satie (Yasuhiko Komuro)
+                                              (C)1992 Roland Corporation
+L_COUCOU.MID  Le Coucou [Rondeau]             Louis Claude Daquin (Kaoru Mizuki)
+                                              (C)1994 Roland Corporation
+MN_MUSIC.MID  Moment Musical, Op.94-3         F. Schubert (Kaori Koyama)
+                                              (C)1994 Roland Corporation
+RONDO.MID     Rondo Alla Turca, K.331         W. A. Mozart (Kaori Koyama)
+                                              (C)1994 Roland Corporation
+SPR_SONG.MID  Spring Song, Op.62-6            Mendelssohn (Roland)
+                                              (C)1994 Roland Corporation
+SPR_TIME.MID  Springtime Sundays              John Maul
+                                              (C)1992 Roland Corporation
+
+
+［EASY］フォルダ：Easy Listening
+
+ファイル名    曲名                            作曲者（演奏者）
+ADVENT.MID    Adventure Land                  Noboru Murakami
+                                              (C)1994 Roland Corporation
+AMARIA_G.MID  Ave Maria by Gounod             C. F. Gounod (Noboru Murakami)
+                                              (C)1994 Roland Corporation
+AMARIA_S.MID  Ave Maria by Schubert           F. Schubert (Kazuko & Masashi Hirashita)
+                                              (C)1991 Roland Corporation
+ARCADIA.MID   Arcadia                         Noboru Murakami
+                                              (C)1994 Roland Corporation
+CONSTANZ.MID  Theme For `Constanze'           John Maul
+                                              (C)1994 Roland Corporation
+CRUISE.MID    Cruising                        Mark van der Sluis
+                                              (C)1992 Roland Corporation
+D_BREAK1.MID  Day Break Part 1                Noboru Murakami
+                                              (C)1994 Roland Corporation
+D_BREAK2.MID  Day Break Part 2                Noboru Murakami
+                                              (C)1994 Roland Corporation
+D_BREAK3.MID  Day Break Part 3                Noboru Murakami
+                                              (C)1994 Roland Corporation
+FLY_FREE.MID  Fly Free                        John Maul
+                                              (C)1994 Roland Corporation
+HOME_ON.MID   Home On The Range               American Folk Song (Noboru  Murakami)
+                                              (C)1994 Roland Corporation
+KEEPERS.MID   The 'Keepers' Tale              John Maul
+                                              (C)1994 Roland Corporation
+LA_GOLON.MID  La Golondrinas                  Mexican Folk Song (Noboru Murakami)
+                                              (C)1994 Roland Corporation
+LAST_FLW.MID  Last Flower                     Luigi Bruti & Roberto Lanciotti
+                                              (C)1994 Roland Corporation
+LE_CYGNE.MID  Le Cygne                        C. Saint-Saens (Kazuko & Masashi Hirashita)
+                                              (C)1991 Roland Corporation
+LEYAS.MID     Leya's Song                     Adrian Scott
+                                              (C)1991 Adrian Scott
+M_EARTH1.MID  Mother Earth Part 1             Noboru Murakami
+                                              (C)1994 Roland Corporation
+M_EARTH2.MID  Mother Earth Part 2             Noboru Murakami
+                                              (C)1994 Roland Corporation
+M_EARTH3.MID  Mother Earth Part 3             Noboru Murakami
+                                              (C)1994 Roland Corporation
+M_MIST.MID    Morning Mist                    Noboru Murakami
+                                              (C)1994 Roland Corporation
+MACROCOS.MID  Macrocosm                       Noboru Murakami
+                                              (C)1994 Roland Corporation
+MOON_B.MID    Moonshine Bash!                 John Maul
+                                              (C)1992 Roland Corporation
+SAILING.MID   Sailing                         Luigi Bruti & Roberto Lanciotti
+                                              (C)1994 Roland Corporation
+SEREN.MID     Serenade                        Luigi Bruti & Roberto Lanciotti
+                                              (C)1992 Roland Corporation
+THE_GIFT.MID  The Gift [Simple Gifts]         Traditional (Kazuko & Masashi Hirashita)
+                                              (C)1991 Roland Corporation
+WAKE_UP.MID   Wake Up!                        Noboru Murakami
+                                              (C)1994 Roland Corporation
+
+
+［JAZ_FUS］フォルダ：Jazz and Fusion
+
+ファイル名    曲名                            作曲者（演奏者）
+2ND_TIME.MID  2nd Time Foreground             Mitsuru Sakaue
+                                              (C)1991 Roland Corporation
+ANTICI.MID    Anticipating U                  Chong Lim
+                                              (C)1992 Chong Lim
+B_Y_T.MID     B. Y. T.                        Mitsuru Sakaue
+                                              (C)1991 Roland Corporation
+BLUE_P.MID    BLUE PLANET                     Chong Lim
+                                              (C)1994 Chong Lim
+BOMB.MID      BOMB!!                          Jun-ichi Kawaguchi
+                                              (C)1993 Roland Corporation
+BOP_ON.MID    Bop On The Rocks                John Maul
+                                              (C)1994 Roland Corporation
+COUNT.MID     Count On The Blues              John Maul
+                                              (C)1994 Roland Corporation
+ETHNO_PA.MID  ETHNO PAPA                      Jun-ichi Kawaguchi
+                                              (C)1994 Roland Corporation
+INV_CITY.MID  Invisible City                  Satoru Wono
+                                              (C)1994 Roland Corporation
+J_LAGOON.MID  Jazz Lagoon                     John Campbell
+                                              (C)1991 John Campbell
+LOW_FLY.MID   Low Flying                      Chas Smith
+                                              (C)1994 Roland UK
+MARTIANS.MID  Martians In Love                John Campbell
+                                              (C)1991 John Campbell
+MECHANO.MID   Mechano Brew                    Satoru Wono
+                                              (C)1993 Roland Corporation
+NOSTAL.MID    Nostalgic Heaven                Kakumi Nishigomi
+                                              (C)1993 Roland Corporation
+SOUTHERN.MID  Southern Peace                  Ichi Itoh
+                                              (C)1994 Roland Corporation
+SUMMER.MID    Summer Blend                    Kazuko Hirashita
+                                              (C)1994 Roland Corporation
+SUPLEX.MID    Suplex Hold                     Mitsuru Sakaue
+                                              (C)1994 Roland Corporation
+WATCHERS.MID  Watchers                        Mitsuru Sakaue
+                                              (C)1993 Roland Corporation
+WORM.MID      W O R M Hole                    Mitsuru Sakaue
+                                              (C)1994 Roland Corporation
+YEBISU.MID    YEBISU                          Shigekazu Nakamura
+                                              (C)1993 Roland Corporation
+
+
+［MEL_PIAN］フォルダ：Melody with Piano Accomp.
+
+ファイル名    曲名                            作曲者（演奏者）
+AMARYLIS.MID  Amaryllis                       French Folk Song (Yoshiko Takase)
+                                              (C)1992 Roland Corporation
+AULD_LAN.MID  Auld Lang Syne                  Scottish Folk Song (Yuko Todoroki)
+                                              (C)1994 Roland Corporation
+AVIGNON.MID   Sur Le Pont D'Avignon           French Folk Song (Yoshiko Takase)
+                                              (C)1992 Roland Corporation
+BEE.MID       Bee                             Bohemian Folk Song (Yoshiko Takase)
+                                              (C)1992 Roland Corporation
+FROG.MID      The Frog's Concert              German Folk Song (Yoshiko Takase)
+                                              (C)1992 Roland Corporation
+MARY_HAD.MID  Mary Had A Little Lamb          American Folk Song (Yoshiko Takase)
+                                              (C)1992 Roland Corporation
+OKINA.MID     OKINA KURINO KINOSHITADE        Anonymous (Yoshiko Takase)
+                                              (C)1992 Roland Corporation
+PAPILLON.MID  Papillon                        Spanish Folk Song (Yoshiko Takase)
+                                              (C)1992 Roland Corporation
+ROUSSEAU.MID  MUSUNDE HIRAITE                 J. Rousseau (Yoshiko Takase)
+                                              (C)1992 Roland Corporation
+TWINKLE.MID   Twinkle, Twinkle Little Star    French Folk Song (Yoshiko Takase)
+                                              (C)1992 Roland Corporation
+
+
+［ORCHESTR］フォルダ：Orchestral Works
+
+ファイル名    曲名                            作曲者（演奏者）
+ANNIE.MID     Annie Laurie                    Scottish Folk Song (Kaoru Mizuki)
+                                              (C)1994 Roland Corporation
+AQABA.MID     AQABA                           Mitsuru Sakaue
+                                              (C)1991 Roland Corporation
+BRANDEN.MID   Brandenburg Concerto No.5,1mvt. J.S. Bach (Team-khy)
+                                              (C)1992 Roland Corporation
+CIELITO.MID   Cielito Lindo                   Mexican Folk Song (Kaoru Mizuki)
+                                              (C)1994 Roland Corporation
+DIVERTI.MID   Divertimento No.17 in D-Major   W. A. Mozart (Kaoru Mizuki)
+                                              (C)1992 Roland Corporation
+EINE_KLI.MID  Eine Kleine Nachtmusik          W. A. Mozart (Noboru Murakami)
+                                              (C)1994 Roland Corporation
+MOLDAU.MID    Moldau                          Smetana (Team-khy)
+                                              (C)1994 Roland Corporation
+PASTORAL.MID  Symphony No.6, 3rd mvt.         L. v. Beethoven (Masashi Hirashita)
+                                              (C)1994 Roland Corporation
+PERGYNT2.MID  The Death Of Ase from Peer Gynt E. Grieg (Team-khy)
+                                              (C)1994 Roland Corporation
+PERGYNT3.MID  Anitra's Dance from Peer Gynt   E. Grieg (Team-khy)
+                                              (C)1994 Roland Corporation
+PERGYNT4.MID  The Mountain King from Peer Gynt  E. Grieg (Team-khy)
+                                              (C)1994 Roland Corporation
+SAKURA.MID    SAKURA SAKURA                   Traditional (Kaoru Mizuki)
+                                              (C)1994 Roland Corporation
+SPRING1.MID   Spring from TheFourSeasons 1mvt A.Vivaldi (Team-khy)
+                                              (C)1994 Roland Corporation
+SPRING2.MID   Spring from TheFourSeasons 2mvt A.Vivaldi (Team-khy)
+                                              (C)1994 Roland Corporation
+SPRING3.MID   Spring from TheFourSeasons 3mvt A.Vivaldi (Team-khy)
+                                              (C)1994 Roland Corporation
+SYMPH5-2.MID  Symphony No.5, 2nd mvt.         L.v. Beethoven (Team-khy)
+                                              (C)1994 Roland Corporation
+WATER1.MID    Allegro from Suite "Water Music"  Handel (Team-khy)
+                                              (C)1994 Roland Corporation
+WATER2.MID    Andante from Suite "Water Music"  Handel (Team-khy)
+                                              (C)1994 Roland Corporation
+
+
+［SOLO_ORC］フォルダ：Solo and Orchestra
+
+ファイル名    曲名                            作曲者（演奏者）
+BALLET.MID    Ballet Des Champs-Elysees       C.W. Gluck (Team-khy)
+                                              (C)1994 Roland Corporation
+BRIDAL_W.MID  Bridal March                    Wagner (Team-khy)
+                                              (C)1996 Roland Corporation
+ECOSSAIS.MID  Ecossaise                       L.v. Beethoven (Team-khy)
+                                              (C)1996 Roland Corporation
+G_VALSE.MID   Grande Valse Brillante          F.Chopin (Team-khy, Pf: Kaori Koyama)
+                                              (C)1995 Roland Corporation
+GAVOTTE.MID   Gavotte                         F.J. Gossec (Team-khy)
+                                              (C)1994 Roland Corporation
+MENUT_G.MID   Menuett G dur                   J.S. Bach (Team-khy)
+                                              (C)1994 Roland Corporation
+MINUETTO.MID  Minuetto                        Luigi Boccherini (Team-khy)
+                                              (C)1994 Roland Corporation
+THAIS.MID     Meditation De "Thais"           Massenet (Team-khy)
+                                              (C)1994 Roland Corporation
+
+
+［VSC88SNG］フォルダ
+
+ファイル名    曲名                            作曲者（演奏者）
+AUTUMNAL.MID  Autumnaltints                   Kazuko & Masashi Hirashita
+                                              (C)1997 Roland Corporation
+DOTABATA.MID  Dota-Bata                       Shimada Mitsuru (Music Brains)
+                                              (C)1997 Roland Corporation
+GOLD_SPR.MID  Gold Sprinter                   Hiroshi Hisamitsu
+                                              (C)1997 Roland Corporation
+SKATEY8.MID   Skatey Eight                    Adrian Scott
+                                              (C)1994 Adrian Scott
+TXPLASMA.MID  TOXOPLASMA                      Mitsuru Sakaue, Kazunori Seki
+                                              (C)1994 Roland Corporation
+
+
+［PHRASES］フォルダ
+  ※ [PHRASES]フォルダにはSC-88Proのデモ曲が収録されています。
+
+ファイル名    曲名                            作曲者（演奏者）
+88P_BASE.MID  Base Demo                       Naoki Matsuura
+                                              (C)1996 Roland Corporation
+88P_ORCH.MID  Orchestra                       Team-khy
+                                              (C)1996 Roland Corporation
+88P_LOFI.MID  Lo-Fi Dance                     Idecs
+                                              (C)1996 Roland Corporation
+
+
+【作曲者のプロフィール】
+
+John Maul（ジョン・モール）
+英国のアレンジャー／キーボード奏者。ロンドンの王立音楽大学 （The Royal 
+Academy of Music）卒業後、数々のスタジオ・ワークやライブで活躍。英国で
+はプレイヤー／作曲家として高い評価を得ている。また、国営放送テレビやラ
+ジオのジングル等を数多くこなすかたわら、アレンジャーとしてもジャズ／ク
+ラシックの楽譜を出版。ローランドUKのプロダクト・スペシャリストを経て、
+現在はローランドをはじめ、さまざまな出版社のミュージックデータの作曲、
+プログラミングに携わっている。
+
+John Campbell（ジョン・キャンベル）
+ロサンゼルスを中心に活躍するキーボード・プレーヤーとして、数多くのアー
+ティストと共演している。フィリップ・ベイリー （Philip Bailey）、ラリー
+・カールトン（Larry Carlton）、メル・トーメ（Mel Torme）、シカゴ（Chic
+ago）など著名ミュージシャンのアルバムにもジョン・キャンベルの名がクレジ
+ットされている。また、映画やテレビ／ラジオ番組の音楽制作など、作曲家と
+しても幅広く活動している。最近ではその豊富なキャリアを生かし、ローラン
+ド製品のデモ・プレーヤーとしてレギュラー出演するかたわら、電子楽器クリ
+ニックのインストラクターも担当している。
+
+Team - khy（チーム・カイ）
+1988年、大田川恭子（Kyoko Ootagawa）、久光浩（Hiroshi Hisamitsu）、小室
+弥須彦（Yasuhiko Komuro）により結成。1990年京都国際音楽祭に"Foresta 1"
+を、翌年神戸で開かれた第１回コンピュータ・ミュージック・アンデパンダン
+・コンサートに"Foresta 2"を出品する。現代音楽でも商業音楽でもない新鮮な
+音楽を作るミュージシャン・ユニットとして注目される。レコーディング、デ
+ータ制作など、クラシカルなものからポピュラーなものまで、ジャンルを越え
+た幅広い音楽活動を展開している。京都市立芸術大学音楽学部作曲専修卒業。
+
+ミュージック・ブレインズ（Music Brains）
+東京を活動拠点とする音楽制作会社として、1992年4月3日設立。自社レコーデ
+ィングスタジオにおいてCD、ビデオBGM、CM、アニメ音楽、カラオケなどを制
+作する他、電子楽器の開発、演奏者派遣、教則本出版にも携わっている。
+Roland SMFミュージックデータにおいても、音楽のリアリティの表現追及を
+テーマに多くのタイトルの制作、多大な評価を得ている。
+
+坂上　暢（Mitsuru Sakaue）
+大学在学中より、キーボード・プレーヤー、アレンジャーとして数々のスタジ
+オ・ワークやCM等の音楽制作にたずさわり、現在はコンポーザー、アレンジャ
+ー、キーボード・プレーヤー、コンピューター・ミュージックのエキスパート
+として、TV、ラジオ等のCM音楽制作、音楽専門誌への執筆とあらゆるメディア
+で活躍中。ジャンルを問わない幅広い音楽性は高い評価を受けている。
+音楽クリエーター集団（株）アイデックスのチーフ・ディレクター。
+
+渡辺　剛（ミュージック・ブレインズ）
+「ファルコム・スペシャルBOX '92」のCDにおいて編曲、演奏、シンセマニュピ
+レートをおこなっている。工藤静香、小山卓司、伊藤敏博等のライブ・アレン
+ジ、演奏に参加。また、レギュラー・バンドとして「マルタ and COCAGE」のラ
+イブ及びレコーディングを行っている。
+
+瑞木　薫  (Kaoru Mizuki) 
+５才からピアノ、１５才から作曲を始める。東京芸術大学作曲科を卒業後、コ
+ーラス、ブラス・アンサンブル、などの作品で数々の賞を受ける。現在はテレ
+ビドラマやＣＭの音楽でも活躍している。
+
+平下政志（Masashi Hirashita）、平下和子（Kazuko Hirashita）
+幼い頃よりクラッシック・ピアノを学び、学生時代には作曲を専攻するととも
+にキーボーディスト兼作曲家としての活動を始める。ジャズ、フュージョン、
+ポップスなど様々なジャンルのスタジオ・セッションやサポート・ミュージシ
+ャンとして活動するかたわら、CM、アニメーション・ビデオ、ミュージカル、
+TV、FM番組などの音楽を手掛ける。現在は共同で作曲、演奏活動を行い、ロー
+ランドから数多くのSMFミュージックデータをリリースするなど、コンピュータ
+ーを駆使した音楽制作に幅広く活躍中である。
+
+小室弥須彦（Yasuhiko Komuro）
+関西在住のクラシック系フリーランスの作・編曲・ピアニスト。 1990年、大田
+川恭子、久光浩と“Team-khy”（チーム・カイ）を結成、その堅実なスタイル
+による作品群は高い評価を受けている。
+
+村上　昇 (Noboru Murakami) 
+Music by Noboru Murakami    Copyright (C) 1993, Noboru Murakami
+ミュージック･プロダクション、（有）インターネット代表。ミュージック･ソ
+フトウェアの制作／開発をはじめ、作曲／アレンジ／シンセサイザーのプログ
+ラムなど、コンピューター･ミュージックのエキスパートとして幅広く活躍して
+いる。また、ローランドの新製品のデモ曲、ミュージックデータの制作も手掛
+けている。
+
+Mark Van Der Sluis (マーク・ヴァン・デル・スラウス)
+Copyright (C) 1993, Roland New Zealand
+マークは、正式な音楽教育を受けていないが、天性の音楽的才能に恵まれ、プ
+ロのキーボード・プレーヤーとして12歳の時から作曲や演奏に携わってきた。
+また、数多くのレコーディングやテレビ放送、ライブ・パフォーマンスに参加
+する一方で、1989年にプロダクト・スペシャリストとしてローランド・ニュー
+ジーランドと契約。1992年にはローランド・ジャパンのプロダクト・スペシャ
+リストとなり、デモ演奏や製品のクリニックなど、世界中で活躍している。
+
+Luigi Bruti (ルイジ･ブルティ)
+Music by Luigi Bruti    Copyright (C) 1993, Roland Europe
+1979年よりローランド･ヨーロッパの音楽アドバイザーとなる。1976年にアコー
+ディオンの世界大会で優勝し、1978年から80年までの3年間、イタリアのレコー
+ド会社と契約し、作曲および演奏者としてサウンド･トラックの制作に携わって
+いた。また、キーボード/シンセサイザー･プレイヤーでもある彼は、自分のレ
+コーディング･スタジオから数多くのCMソングや映画音楽を生み出している。
+ローランド･ヨーロッパの音楽制作スタッフのチーフとしても、インテリジェン
+ト･シンセサイザーEシリーズ(E-20からE-70まで)の設計や、Eシリーズのミュー
+ジック･スタイルやデモ･ソング、スタイル･カードも手がけている。
+
+Roberto Lanciotti (ロベルト･ランチォッティ)
+Music by Roberto Lanciotti    Copyright (C) 1993, Roland Europe
+1985年よりローランド･ヨーロッパの音楽アドバイザーとなる。キーボーディス
+トとしてさまざまなアーティストのライブ･パフォーマンスに参加しており、数
+多くのレコーディング･スタジオで、CMソングや映画音楽の作曲および演奏を手
+がけている。また、ローランド･ヨーロッパの音楽制作スタッフの一員として、
+インテリジェント･シンセサイザーEシリーズのテクニカル･サポートのみならず、
+ミュージック･スタイルやスタイル･カードの制作にも参加している。
+
+Adrian Scott（エイドリアン・スコット）
+数々のヒット曲を生んだオーストラリアのポップ・グループ“エア・サプライ”
+でキーボードとボーカルを担当。ソロ活動に転じてからは、1984年に“World 
+Song Festival Tokyo '84”で銀賞受賞。現在、コマーシャル音楽や映画音楽の
+プロデューサーとして活躍している。また、セッション・プレーヤーとしてジ
+ョン・ファーナム（John Farnham）やカイリー・ミノーグ（Kylie Minogue）な
+ど、数多くのオーストラリアの有名ミュージシャンと共演している。
+オーストラリア、メルボルン在住。
+
+Chong Lim（チョン・リム）
+オーストラリアのメルボルンやシドニーを本拠地として活躍するミュージシャ
+ン（キーボード）で、作曲、編曲、音楽プロデュースもこなす。ジョン・ファ
+ーナム（John Farnham）、ティナ・アレナ（Tina Arena）、ジャーメイン・ジ
+ャクソン（Jermaine Jackson）、リトル・リバー・バンド（Little River 
+Band）、ジュディス・ダーラム（Judith Durham）、リック・プライス（Rick 
+Price）などの著名アーティストとも共演している。最近では、映画やテレビ
+のサウンドトラック・ミュージックの作曲も数多くてがけている。ローランド
+・オーストラリアの研究開発部門のメンバーである。
+
+川口淳一（Jun-ichi Kawaguchi）
+現在スタジオでのレコーディングを中心に、アレンジャー／コンポーザー／
+キーボーディストとして幅広く活動中。著名なアーティストの作曲、アレンジ
+を数多く手掛けている。また、国内における楽器フェアなどのイベントでは、
+SシリーズやJVシリーズをはじめとするデモンストレーションを行なっている。
+
+ヲノ　サトル（Satoru Wono）
+全ての音楽を、文脈と文体のサンプリングとして捉える視点から、作曲、サウ
+ンド・プロデュースを展開する。東京学芸大学大学院作曲講座在学中より、作
+曲・演奏活動を続け、1988年「独身者の機械（The machine of the bachelor）」
+で日本現代音楽協会作曲新人賞受賞。一方では匿名的ハウス・ミュージックの
+プロデュースや、コンピュータ、ビデオ、テレビ番組等の商業音楽でも活躍中。
+
+Chas Smith（チャス・スミス）
+フリーのロック・ミュージシャンとしての活動後、1987年ローランドUK入社。
+現在ローランドUKのプロダクト・スペシャリスト／デモンストレーターとして
+活躍中。サンプラーのオペレーションやシンセサイザーのプログラミングのエ
+キスパートである。テレビのコマーシャル・ソングなどの作曲も手がけている。
+
+西込加久見（Kakumi Nishigomi）
+1961年高知県に生まれる。プロデューサーとしての初仕事、アイリーン・
+フォーリーンの「Body & Voice」に携わる。その後1988年には神崎ひさあき
+セッションにベーシストとして参加。同年には安岡孝章「ミラクル・オブ・ラ
+ヴ」を、また1990年にはオールウェイズ「NEVER」等にコプロデューサーとして
+参加。翌1992年、神崎ひさあきとGUY'NA MUSICを設立。その後もパーティー
+「We are Party」、エイジアン・ソウル・ブラザース（コンサート）、ぜんじ
+ろう「音楽のルツボ」、神崎ひさあき「サンタクロースの日曜日」等多くの製
+作携わる。
+
+伊藤精一（Seiichi Itoh）
+中学時代より電子オルガン・コンクールで輝かしい成績を残す。高校時代は、
+商業コンピューター関連の知識を身につけ、大学入学とともに国内のレコード
+会社に在籍。また、ローランドのキーボード・アドバイザーを引き受けたこと
+をきっかけにローランドに正式入社。以降、東南アジア、北米、オーストラリ
+アと演奏した都市は、国内で200、海外でも137にのぼる。1987年、音楽学校設
+立のため、ローランドを退社。現在は、自分の会社『スタジオ・イチ』を設立
+して、ローランド電子楽器開発アドバイザーや普及活動を展開中。
+
+S. Nakamura
+元ローランドのエンジニア。数々の音源開発を担当する一方で、U-20、D-70、
+JV-80、JD-990等のデモ・ソングや音色データも数多く手掛けていた。
+
+島田　充（ミュージック・ブレインズ）
+東京を活動拠点とする音楽制作会社として、1992年4月3日設立。自社レコーデ
+ィングスタジオにおいてCD、ビデオBGM、CM、アニメ音楽、カラオケなどを制
+作する他、電子楽器の開発、演奏者派遣、教則本出版にも携わっている。
+Roland SMFミュージックデータにおいても、音楽のリアリティの表現追及をテ
+ーマに多くのタイトルの制作、多大な評価を得ている。
+
+久光　浩 (Hiroshi Hisamitsu)
+京都市出身。京都芸術大学卒業。
+学生時代から、数多くのオーケストラ作品、アレンジを手掛ける一方、コンピ
+ューター・ミュージックの分野にも興味を持ち、作品を発表するようになる。
+その幅広い音楽性と知識に裏うちされたテクニックで、特にアコースティック
+な表現には定評がある。現在、“Team-khy”メンバー、京都教育大学にてコン
+ピューターミュージックの講師もつとめている。
+
+関  和則（Kazunori Seki）
+セッション・ドラマーとして活躍中。“岩崎元是＆WINDY”でキティからバン
+ド・デビュー。シングル4枚、LP2枚に参加した。解散後、フリーとなり、作曲
+活動を開始。現在は、CM音楽の作、編曲家として活躍中。アレンジから歌、コ
+ンピューター・オペレーション、エンジニアリング等を一人でこなす、マルチ
+・タイプのミュージシャンである。
+
+松浦直樹（Naoki Matsuura）
+10年間の渡米中にプロベーシストとしての活動を開始。ボストンを中心にラ
+イブやスタジオなどの演奏活動を行う。パキート・デ・リベラ、トミー・キャ
+ンベルらと競演する他、タイガー大越が率いるTiger's Bakuに参加。1991年
+に帰国。後にローランド社員となりMIDIデータの開発を手がける。現在は同社
+を退社し、新たなプロジェクトに向けて充電中。
+
+（株）アイデックス（Idecs Inc.）
+数々のSMFデータを制作し、ミュージック・データシーンに新旋風を巻き起こし
+ている。サウンド・プロデュース・ユニット。その驚くほどのクオリティーの
+高さは、データ・ファンの間で人気沸騰！。その守備範囲はミュージック・デ
+ータだけにとどまらず、コンポーザー、アレンジャー、プロデューサー、教育
+活動など、音楽業界において幅広く活動中。
+
