@@ -1,4 +1,4 @@
-W:\PRIVATE FOLDER\FILE JOEL ROBERT\MIDI\Yamaha USB flashdisk\Yamaha DGX305 CD\for_CD\Voglein.MID
+﻿W:\PRIVATE FOLDER\FILE JOEL ROBERT\MIDI\Yamaha USB flashdisk\Yamaha DGX305 CD\for_CD\Voglein.MID
 W:\PRIVATE FOLDER\FILE JOEL ROBERT\MIDI\Yamaha USB flashdisk\Yamaha DGX305 CD\for_CD\America.MID
 W:\PRIVATE FOLDER\FILE JOEL ROBERT\MIDI\Yamaha USB flashdisk\Yamaha DGX305 CD\for_CD\AtHome.MID
 W:\PRIVATE FOLDER\FILE JOEL ROBERT\MIDI\Yamaha USB flashdisk\Yamaha DGX305 CD\for_CD\AuraLee.MID
@@ -1029,3 +1029,23 @@ W:\PRIVATE FOLDER\FILE JOEL ROBERT\MIDI\yamaha\awm_songs\strauss.mid
 W:\PRIVATE FOLDER\FILE JOEL ROBERT\MIDI\yamaha\awm_songs\XGJ_001.mid
 W:\PRIVATE FOLDER\FILE JOEL ROBERT\MIDI\yamaha\awm_songs\XGJ_002.mid
 W:\PRIVATE FOLDER\FILE JOEL ROBERT\MIDI\yamaha\awm_songs\XGJ_003.mid
+W:\PRIVATE FOLDER\FILE JOEL ROBERT\MIDI\Yamaha USB flashdisk\SYXG100\awm_songs\XGJ_003.mid
+W:\PRIVATE FOLDER\FILE JOEL ROBERT\MIDI\Yamaha USB flashdisk\SYXG100\awm_songs\animat1.mid
+W:\PRIVATE FOLDER\FILE JOEL ROBERT\MIDI\Yamaha USB flashdisk\SYXG100\awm_songs\Beatxg.mid
+W:\PRIVATE FOLDER\FILE JOEL ROBERT\MIDI\Yamaha USB flashdisk\SYXG100\awm_songs\bhangra.mid
+W:\PRIVATE FOLDER\FILE JOEL ROBERT\MIDI\Yamaha USB flashdisk\SYXG100\awm_songs\bopcombo.mid
+W:\PRIVATE FOLDER\FILE JOEL ROBERT\MIDI\Yamaha USB flashdisk\SYXG100\awm_songs\Cafejung.mid
+W:\PRIVATE FOLDER\FILE JOEL ROBERT\MIDI\Yamaha USB flashdisk\SYXG100\awm_songs\cl33xg.mid
+W:\PRIVATE FOLDER\FILE JOEL ROBERT\MIDI\Yamaha USB flashdisk\SYXG100\awm_songs\cl40xg.mid
+W:\PRIVATE FOLDER\FILE JOEL ROBERT\MIDI\Yamaha USB flashdisk\SYXG100\awm_songs\Cognito.mid
+W:\PRIVATE FOLDER\FILE JOEL ROBERT\MIDI\Yamaha USB flashdisk\SYXG100\awm_songs\Cybrgate.mid
+W:\PRIVATE FOLDER\FILE JOEL ROBERT\MIDI\Yamaha USB flashdisk\SYXG100\awm_songs\Darkness.mid
+W:\PRIVATE FOLDER\FILE JOEL ROBERT\MIDI\Yamaha USB flashdisk\SYXG100\awm_songs\degroove.mid
+W:\PRIVATE FOLDER\FILE JOEL ROBERT\MIDI\Yamaha USB flashdisk\SYXG100\awm_songs\equilibrium.mid
+W:\PRIVATE FOLDER\FILE JOEL ROBERT\MIDI\Yamaha USB flashdisk\SYXG100\awm_songs\Galactic.mid
+W:\PRIVATE FOLDER\FILE JOEL ROBERT\MIDI\Yamaha USB flashdisk\SYXG100\awm_songs\Introspect.mid
+W:\PRIVATE FOLDER\FILE JOEL ROBERT\MIDI\Yamaha USB flashdisk\SYXG100\awm_songs\mozart.mid
+W:\PRIVATE FOLDER\FILE JOEL ROBERT\MIDI\Yamaha USB flashdisk\SYXG100\awm_songs\serenity.mid
+W:\PRIVATE FOLDER\FILE JOEL ROBERT\MIDI\Yamaha USB flashdisk\SYXG100\awm_songs\strauss.mid
+W:\PRIVATE FOLDER\FILE JOEL ROBERT\MIDI\Yamaha USB flashdisk\SYXG100\awm_songs\XGJ_001.mid
+W:\PRIVATE FOLDER\FILE JOEL ROBERT\MIDI\Yamaha USB flashdisk\SYXG100\awm_songs\XGJ_002.mid
